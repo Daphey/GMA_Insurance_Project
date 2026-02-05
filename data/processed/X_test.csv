@@ -1,0 +1,1684 @@
+Estimated_Claim_Amount,Fraud_Flag,Litigation_Flag,Age_of_Driver,Vehicle_Age,Annual_Mileage,Driving_Experience_Years,Accident_Settlement_days,days_to_fnol,driver_risk_score,vehicle_risk,Claim_Type,Claim_Complexity,Region,Vehicle_Type,Status,Severity_Band,Gender,Occupation,ThirdParty_Role,TP_Injury_Severity
+134591,0,0,20,1,8357,1,440,30,2,0,Collision,High,Leeds,Sedan,settled,Catastrophic,Female,Student,Unknown,No Injury
+53851,1,0,24,0,8828,2,85,1,2,0,Weather,Medium,London,Coupe,settled,Severe,Female,Employed,Passenger,Minor
+3766,0,0,19,9,11343,0,174,3,2,0,Vandalism,Medium,Bristol,Sedan,settled,Major,Male,Student,Unknown,No Injury
+6523,0,0,61,12,15460,39,51,0,0,1,Collision,Low,Newcastle,Motorcycle,settled,Moderate,Male,Employed,Unknown,No Injury
+9655,0,0,51,10,16040,32,90,0,0,0,Weather,Medium,Birmingham,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+3798,1,0,37,1,7062,15,93,0,0,0,Collision,Low,London,SUV,settled,Moderate,Male,Unemployed,Passenger,Minor
+2866,0,0,66,5,11603,48,45,5,0,0,Weather,Low,Liverpool,Sedan,settled,Minor,Female,Retired,Driver,Fatal
+14370,0,0,22,15,10044,3,160,1,2,1,Collision,Medium,Newcastle,Sedan,settled,Major,Male,Self-Employed,Passenger,Minor
+2004,0,0,48,15,12600,30,75,5,0,1,Collision,Low,Newcastle,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+2032,0,0,64,10,16782,44,66,4,0,0,Other,Low,Edinburgh,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+5427,0,0,52,0,11257,32,359,2,0,0,Collision,High,Bristol,Van,settled,Moderate,Female,Self-Employed,Driver,Minor
+2981,0,0,40,6,12585,19,61,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+6575,0,0,24,2,8099,4,87,0,2,0,Collision,Low,Glasgow,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+36114,0,0,30,14,8518,10,101,1,0,1,Collision,Low,Manchester,Sedan,settled,Severe,Male,Employed,Unknown,No Injury
+19044,0,0,78,14,19442,60,112,0,0,1,Collision,Medium,London,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+9439,0,0,63,17,6322,45,33,0,0,1,Theft,Low,Manchester,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+31327,0,0,59,15,11468,41,172,5,0,1,Collision,Medium,Leeds,Motorcycle,settled,Severe,Male,Employed,Driver,Minor
+14723,0,0,79,20,11575,60,106,0,0,1,Collision,Medium,Birmingham,SUV,settled,Major,Female,Retired,Unknown,No Injury
+6561,0,0,67,0,13924,46,78,0,0,0,Collision,Low,London,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+13915,0,0,38,8,8914,16,88,0,0,0,Theft,Low,Manchester,Hatchback,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+1885,0,0,65,16,9687,47,88,0,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+4824,0,0,64,7,11929,43,69,0,0,0,Collision,Low,Glasgow,Van,settled,Moderate,Female,Retired,Passenger,Minor
+11276,0,0,39,3,9835,17,87,2,0,0,Collision,Low,Leeds,SUV,settled,Major,Male,Self-Employed,Pedestrian,Minor
+5999,0,0,19,9,5990,0,51,1,2,0,Weather,Low,Cardiff,Sedan,settled,Moderate,Male,Unemployed,Unknown,No Injury
+31015,0,0,48,1,16370,26,121,2,0,0,Collision,Low,Bristol,Hatchback,settled,Severe,Male,Employed,Unknown,No Injury
+2925,0,0,39,17,8016,18,76,0,0,1,Collision,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+12561,0,0,69,20,10382,48,38,0,0,1,Fire,Low,Liverpool,Van,settled,Minor,Female,Retired,Unknown,No Injury
+17708,1,1,42,9,14164,21,31,0,0,0,Fire,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Passenger,Minor
+11795,0,0,77,6,12613,57,72,0,0,0,Collision,Low,Leeds,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+9245,0,1,18,14,15244,0,308,0,2,1,Collision,High,Leeds,Hatchback,settled,Major,Female,Student,Driver,Minor
+6092,0,0,71,3,14316,51,74,0,0,0,Weather,Low,Manchester,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+2387,0,0,30,11,13807,11,34,3,0,1,Collision,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+675,0,0,28,18,11242,7,60,0,0,1,Vandalism,Low,Birmingham,Coupe,settled,Minor,Female,Self-Employed,Unknown,No Injury
+38667,0,0,21,9,11971,0,434,0,2,0,Collision,High,Birmingham,Van,settled,Severe,Male,Self-Employed,Unknown,No Injury
+4336,0,0,67,0,7622,45,83,0,0,0,Other,Low,Glasgow,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+3625,0,1,59,11,12964,39,52,0,0,1,Weather,Low,Manchester,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+43260,0,0,57,4,12563,39,122,1,0,0,Collision,Medium,Birmingham,Hatchback,settled,Severe,Male,Employed,Unknown,No Injury
+3330,0,0,48,16,18390,29,81,1,0,1,Weather,Low,Edinburgh,Van,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2283,0,0,46,6,13756,27,66,1,0,0,Collision,Low,Birmingham,Hatchback,settled,Minor,Female,Employed,Pedestrian,Minor
+9115,0,0,41,11,13380,21,104,1,0,1,Collision,Medium,Bristol,Hatchback,settled,Major,Female,Self-Employed,Driver,Serious
+3743,0,0,52,19,12663,30,39,0,0,1,Vandalism,Low,Birmingham,SUV,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+6425,0,0,38,19,15324,19,82,3,0,1,Collision,Low,Edinburgh,Coupe,settled,Moderate,Male,Employed,Passenger,Minor
+2697,0,0,45,9,6415,23,33,1,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Male,Employed,Driver,Minor
+15712,0,0,22,18,17582,1,157,0,2,1,Collision,High,Liverpool,Sedan,settled,Major,Female,Student,Unknown,No Injury
+4874,0,0,79,12,16557,57,36,0,0,1,Collision,Low,Liverpool,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+13229,0,0,44,2,10217,23,40,0,0,0,Collision,Low,Edinburgh,SUV,settled,Major,Female,Self-Employed,Unknown,No Injury
+1191,0,0,53,11,13151,34,87,3,0,1,Collision,Low,Bristol,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+15910,0,0,33,1,15184,15,42,1,0,0,Fire,Low,Newcastle,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+24553,0,0,72,3,14334,50,533,1,0,0,Vandalism,High,Newcastle,Hatchback,settled,Severe,Female,Retired,Pedestrian,Serious
+3562,0,0,78,1,13568,58,83,0,0,0,Weather,Low,Liverpool,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+2313,0,1,55,7,11046,35,90,0,0,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+36099,0,0,27,9,7799,7,809,0,0,0,Collision,Medium,London,Hatchback,open,Severe,Male,Student,Unknown,No Injury
+9602,0,0,75,5,12621,53,89,30,0,0,Vandalism,Low,Liverpool,Coupe,settled,Major,Male,Retired,Unknown,No Injury
+2212,0,0,18,14,15244,0,108,0,2,1,Collision,Medium,Leeds,Hatchback,settled,Minor,Female,Student,Unknown,No Injury
+2938,0,0,55,4,19662,36,41,1,0,0,Collision,Low,Liverpool,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2215,0,0,71,17,8990,51,56,1,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+2805,0,0,47,9,8932,27,48,1,0,0,Collision,Low,Birmingham,Van,settled,Moderate,Male,Unemployed,Unknown,No Injury
+88386,0,0,70,5,9133,49,133,5,0,0,Theft,Medium,Cardiff,Hatchback,settled,Severe,Male,Retired,Unknown,No Injury
+19269,0,0,74,9,13915,53,84,2,0,0,Fire,Low,Bristol,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+1009,0,0,18,14,15294,0,45,3,2,1,Collision,Low,Glasgow,Motorcycle,settled,Minor,Female,Student,Unknown,No Injury
+1190,0,1,56,2,11980,35,69,2,0,0,Collision,Low,Edinburgh,Motorcycle,settled,Minor,Female,Employed,Unknown,No Injury
+3251,0,1,72,19,12130,53,626,0,0,1,Other,Low,Birmingham,Hatchback,open,Minor,Male,Retired,Driver,Minor
+1099,0,0,78,15,5311,60,64,3,0,1,Vandalism,Low,Birmingham,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+10918,0,0,66,12,13164,45,174,3,0,1,Collision,Medium,Newcastle,Sedan,settled,Major,Female,Self-Employed,Driver,Minor
+12016,0,0,75,20,10038,56,165,2,0,1,Collision,Medium,Newcastle,SUV,settled,Major,Female,Retired,Unknown,No Injury
+1045,0,0,31,9,11003,11,76,2,0,0,Collision,Low,Manchester,Van,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2332,0,0,62,6,16294,40,85,2,0,0,Other,Low,London,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+1663,0,0,53,2,18979,35,85,0,0,0,Collision,Low,Leeds,SUV,settled,Minor,Female,Self-Employed,Unknown,No Injury
+66397,0,0,33,20,10203,12,182,1,0,1,Weather,Medium,London,Coupe,settled,Severe,Female,Employed,Passenger,Minor
+10931,0,0,74,4,15316,53,74,0,0,0,Collision,Low,Edinburgh,Sedan,settled,Major,Male,Retired,Unknown,No Injury
+14490,0,0,70,15,10598,51,82,3,0,1,Theft,Medium,Bristol,Hatchback,settled,Moderate,Male,Retired,Pedestrian,Minor
+18010,0,0,66,9,13804,45,70,0,0,0,Weather,Low,Bristol,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+6236,0,0,55,16,13087,37,403,1,0,1,Vandalism,High,Manchester,Sedan,settled,Major,Female,Self-Employed,Unknown,No Injury
+5505,0,0,48,9,9433,26,402,1,0,0,Collision,High,Edinburgh,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+6002,0,0,45,6,18656,26,67,3,0,0,Weather,Low,London,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+2516,0,1,66,4,15409,44,69,1,0,0,Collision,Low,Birmingham,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+1937,1,0,61,11,11058,42,66,4,0,1,Vandalism,Low,Newcastle,Coupe,settled,Minor,Female,Employed,Driver,Serious
+2583,0,0,22,0,15011,3,70,0,2,0,Collision,Low,London,Van,settled,Minor,Male,Unemployed,Unknown,No Injury
+5830,0,0,46,0,18728,27,31,0,0,0,Theft,Low,Cardiff,Hatchback,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+5054,0,0,50,1,12279,28,36,1,0,0,Theft,Low,Glasgow,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+5621,0,0,66,14,17736,47,90,0,0,1,Theft,Low,Bristol,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1143,0,0,32,12,10656,11,101,2,0,1,Collision,Medium,Newcastle,Sedan,settled,Minor,Female,Employed,Pedestrian,Minor
+1334,0,0,44,9,11790,25,77,2,0,0,Vandalism,Low,Manchester,Sedan,settled,Minor,Female,Self-Employed,Driver,Minor
+7579,0,0,32,11,10664,13,72,0,0,1,Collision,Low,London,SUV,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+1703,0,1,67,19,14685,45,32,1,0,1,Collision,Low,Leeds,Coupe,settled,Minor,Female,Retired,Driver,Minor
+8605,0,0,30,16,11341,10,72,5,0,1,Weather,Low,Newcastle,Hatchback,settled,Moderate,Female,Self-Employed,Driver,Minor
+4586,0,0,72,17,13607,51,61,0,0,1,Collision,Low,Leeds,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+7562,0,0,60,9,6171,38,56,0,0,0,Theft,Low,Bristol,Van,settled,Moderate,Male,Retired,Unknown,No Injury
+1938,0,0,68,3,11081,46,49,0,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Female,Retired,Passenger,Serious
+18373,0,0,76,11,12110,57,169,3,0,1,Weather,Medium,Newcastle,SUV,settled,Major,Male,Retired,Pedestrian,Minor
+3281,0,0,70,9,7171,50,69,1,0,0,Other,Low,Liverpool,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+5713,0,1,43,11,9159,25,168,0,0,1,Collision,Medium,Cardiff,SUV,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+2833,0,0,77,12,6568,55,180,3,0,1,Collision,Medium,Bristol,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2754,0,0,61,4,21038,42,59,0,0,0,Collision,Low,Manchester,Hatchback,settled,Minor,Male,Retired,Driver,Minor
+1294,0,0,76,9,10116,56,53,3,0,0,Collision,Low,Cardiff,Van,settled,Minor,Male,Retired,Unknown,No Injury
+1816,0,0,30,6,14252,11,71,0,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2339,0,0,25,10,12747,4,90,0,1,0,Collision,Low,Glasgow,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+9216,1,0,29,10,9640,8,62,0,0,0,Weather,Low,Bristol,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+7220,0,0,47,2,11102,27,67,2,0,0,Vandalism,Low,Glasgow,Hatchback,settled,Major,Female,Self-Employed,Unknown,No Injury
+3053,0,0,35,20,5213,17,38,1,0,1,Weather,Low,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+4309,0,0,52,5,9863,33,48,0,0,0,Collision,Low,Liverpool,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+2382,0,1,27,13,2714,9,39,0,0,1,Collision,Low,Edinburgh,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+3064,0,0,60,9,15298,39,51,0,0,0,Other,Low,Bristol,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2103,0,1,62,20,20401,44,86,0,0,1,Collision,Low,Leeds,SUV,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2911,0,0,25,1,12726,3,93,3,1,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Employed,Passenger,Minor
+4151,0,0,77,1,8377,55,175,2,0,0,Weather,Medium,Glasgow,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+115551,0,0,39,4,20217,19,514,0,0,0,Theft,High,Glasgow,Sedan,open,Severe,Female,Employed,Unknown,No Injury
+1034,0,0,62,15,5025,42,44,3,0,1,Vandalism,Low,Glasgow,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+19835,0,0,72,9,15808,51,170,0,0,0,Other,Medium,London,SUV,settled,Major,Male,Retired,Passenger,Serious
+1799,0,0,20,14,19780,1,55,0,2,1,Collision,Low,Cardiff,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+7922,0,0,72,10,15512,51,61,2,0,0,Weather,Low,Manchester,SUV,settled,Moderate,Male,Retired,Unknown,No Injury
+2250,0,1,45,3,17532,25,33,2,0,0,Collision,Low,Leeds,Van,settled,Minor,Female,Self-Employed,Unknown,No Injury
+19006,0,0,30,15,10791,8,335,0,0,1,Theft,High,Birmingham,Sedan,settled,Major,Female,Self-Employed,Unknown,No Injury
+76114,0,1,48,13,11395,29,137,0,0,1,Theft,Medium,Bristol,Sedan,settled,Severe,Female,Employed,Unknown,No Injury
+17217,0,0,37,0,16955,15,96,5,0,0,Collision,Medium,Leeds,SUV,settled,Major,Female,Employed,Unknown,No Injury
+31115,0,0,30,18,14816,11,87,0,0,1,Collision,Low,Glasgow,SUV,settled,Severe,Male,Employed,Unknown,No Injury
+2122,0,0,50,12,8526,31,96,6,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Self-Employed,Driver,Minor
+5751,0,0,67,7,13649,47,67,0,0,0,Theft,Medium,Edinburgh,Van,settled,Minor,Male,Retired,Unknown,No Injury
+2071,0,0,36,13,14643,14,74,1,0,1,Collision,Low,Edinburgh,Coupe,settled,Minor,Male,Student,Unknown,No Injury
+2187,1,0,56,13,9360,34,314,1,0,1,Collision,Low,Bristol,Motorcycle,open,Minor,Male,Employed,Unknown,No Injury
+3786,0,0,29,9,10742,7,110,0,0,0,Weather,Medium,Edinburgh,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+7676,0,0,78,7,17828,56,128,2,0,0,Collision,Medium,Cardiff,Motorcycle,settled,Moderate,Female,Retired,Unknown,No Injury
+3831,0,0,74,15,6368,56,53,3,0,1,Collision,Low,Birmingham,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+1676,0,0,45,12,11613,26,1879,2,0,1,Collision,Medium,Edinburgh,Motorcycle,open,Minor,Male,Unemployed,Unknown,No Injury
+20694,0,1,53,4,12155,34,56,2,0,0,Fire,Low,Leeds,Sedan,settled,Minor,Female,Self-Employed,Pedestrian,Serious
+11076,0,0,58,11,18522,40,-738,2,0,1,Collision,Low,Liverpool,Motorcycle,open,Major,Female,Self-Employed,Unknown,No Injury
+1429,0,0,30,10,9145,9,1878,2,0,0,Collision,Low,Newcastle,Sedan,open,Minor,Female,Employed,Unknown,No Injury
+4257,0,0,31,14,17507,10,59,2,0,1,Vandalism,Low,Cardiff,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+2611,0,0,69,12,15783,49,71,2,0,1,Collision,Low,Liverpool,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+2379,0,1,70,3,18144,50,53,1,0,0,Weather,Low,London,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+10385,0,0,34,20,13045,15,64,2,0,1,Collision,Low,Newcastle,Hatchback,settled,Major,Male,Student,Unknown,No Injury
+135330,0,0,52,13,9602,34,78,0,0,1,Fire,Medium,Bristol,Van,settled,Major,Female,Employed,Unknown,No Injury
+1959,0,0,51,6,14138,29,56,0,0,0,Collision,Low,London,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+36663,0,0,76,15,14713,57,395,0,0,1,Other,High,Leeds,Van,settled,Severe,Female,Retired,Unknown,No Injury
+1968,0,0,23,4,11301,3,59,0,2,0,Collision,Low,Edinburgh,Van,settled,Minor,Female,Unemployed,Unknown,No Injury
+2717,0,1,65,6,11701,43,90,5,0,0,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+6273,0,0,42,3,14981,24,44,0,0,0,Collision,Low,Birmingham,Sedan,settled,Moderate,Female,Employed,Driver,Serious
+6818,0,0,79,17,11430,61,59,1,0,1,Weather,Low,Glasgow,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+1685,0,0,32,5,12032,13,40,0,0,0,Collision,Low,Edinburgh,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+1895,0,0,34,11,12434,13,59,0,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+15448,0,1,32,6,9472,11,-849,0,0,0,Other,Medium,Newcastle,Sedan,open,Major,Female,Employed,Unknown,No Injury
+7041,0,0,75,14,14122,54,81,1,0,1,Collision,Low,Leeds,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+3207,0,0,34,1,7359,15,71,3,0,0,Weather,Low,London,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+5813,0,0,63,15,17076,45,63,0,0,1,Collision,Low,London,SUV,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+2475,0,0,28,3,17561,6,83,1,0,0,Weather,Low,Liverpool,SUV,settled,Minor,Male,Self-Employed,Driver,Minor
+13592,0,1,65,0,15337,43,90,6,0,0,Theft,Low,London,Van,settled,Moderate,Male,Retired,Unknown,No Injury
+32325,0,1,29,5,10419,10,46,2,0,0,Theft,Low,Newcastle,Van,settled,Major,Male,Unemployed,Unknown,No Injury
+2209,0,0,41,3,1646,19,73,0,0,0,Other,Low,Edinburgh,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1776,0,1,54,2,12557,35,35,0,0,0,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Unemployed,Driver,Minor
+17917,0,0,41,11,10442,22,274,1,0,1,Fire,Low,Liverpool,Hatchback,open,Minor,Male,Employed,Unknown,No Injury
+9256,0,1,57,4,12563,39,167,1,0,0,Theft,Medium,Birmingham,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+8611,0,0,66,15,16794,48,51,6,0,1,Theft,Low,London,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+138691,0,0,24,7,14292,3,340,2,2,0,Other,High,Bristol,Sedan,settled,Catastrophic,Female,Self-Employed,Passenger,Minor
+309016,0,0,32,4,9337,14,212,1,0,0,Fire,Medium,Cardiff,Coupe,settled,Severe,Male,Employed,Pedestrian,Minor
+20137,0,0,73,3,12670,51,51,1,0,0,Weather,Low,Bristol,Van,settled,Major,Male,Retired,Unknown,No Injury
+1265,0,0,38,11,19783,20,32,0,0,1,Vandalism,Low,Bristol,Van,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2242,0,0,45,1,14492,27,50,0,0,0,Collision,Low,London,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+6694,0,0,78,19,6232,59,96,0,0,1,Collision,Low,Liverpool,SUV,settled,Moderate,Male,Retired,Unknown,No Injury
+1400,0,0,60,17,11146,41,79,0,0,1,Collision,Low,Leeds,Hatchback,settled,Minor,Female,Self-Employed,Driver,Serious
+10355,0,0,27,2,14346,7,83,1,0,0,Collision,Low,Newcastle,SUV,settled,Major,Male,Employed,Unknown,No Injury
+5659,1,0,30,14,9268,10,67,1,0,1,Weather,Medium,Bristol,Hatchback,settled,Moderate,Male,Unemployed,Driver,Minor
+3337,0,0,71,10,11914,51,53,0,0,0,Collision,Low,Bristol,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+51568,0,0,43,20,13768,25,171,1,0,1,Collision,Medium,Birmingham,Hatchback,settled,Severe,Female,Employed,Unknown,No Injury
+1548,1,0,77,14,7514,57,109,30,0,1,Collision,Low,Leeds,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+30594,0,1,77,12,6568,55,152,1,0,1,Collision,High,Bristol,Hatchback,settled,Severe,Female,Self-Employed,Driver,Minor
+1584,0,0,52,5,7225,32,71,0,0,0,Collision,Low,London,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1529,0,0,53,1,7538,31,42,0,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+2670,0,0,38,16,17805,20,79,6,0,1,Weather,Low,Cardiff,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+7109,1,0,73,1,15289,52,88,2,0,0,Collision,Low,Cardiff,Sedan,settled,Moderate,Male,Retired,Pedestrian,Minor
+3987,0,0,31,14,17507,10,65,1,0,1,Collision,Low,Cardiff,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+5775,0,0,23,3,3944,4,505,1,2,0,Theft,High,Manchester,Van,settled,Minor,Male,Employed,Unknown,No Injury
+3997,0,0,43,5,9176,25,165,0,0,0,Collision,Medium,Newcastle,SUV,settled,Moderate,Female,Employed,Passenger,Minor
+4387,0,0,55,10,11825,35,57,2,0,0,Other,Low,Edinburgh,Sedan,settled,Minor,Female,Unemployed,Passenger,Minor
+2403,0,0,32,5,12032,13,136,3,0,0,Weather,Medium,Edinburgh,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+5654,0,0,32,4,16895,10,95,0,0,0,Collision,Medium,Birmingham,Van,settled,Moderate,Female,Employed,Unknown,No Injury
+6672,0,0,66,4,14969,46,47,0,0,0,Collision,Low,London,Sedan,settled,Moderate,Male,Retired,Driver,Minor
+17681,1,0,34,7,7743,14,86,1,0,0,Collision,Medium,Manchester,SUV,settled,Major,Female,Self-Employed,Pedestrian,Minor
+3013,0,0,45,3,10731,26,77,3,0,0,Weather,Low,Leeds,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2608,0,1,72,16,11162,53,81,1,0,1,Weather,Low,Bristol,SUV,settled,Minor,Female,Retired,Driver,Serious
+4416,0,0,20,17,7941,0,93,0,2,1,Vandalism,Medium,Liverpool,Coupe,settled,Major,Female,Student,Unknown,No Injury
+2300,0,0,32,11,10664,13,57,0,0,1,Vandalism,Low,London,SUV,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+2268,0,0,71,3,10662,52,50,0,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+25854,0,0,69,13,10161,47,104,1,0,1,Theft,Medium,Glasgow,Hatchback,settled,Major,Female,Retired,Driver,Minor
+29445,0,0,36,7,14500,17,59,0,0,0,Fire,Low,Edinburgh,Coupe,settled,Moderate,Female,Employed,Unknown,No Injury
+2608,0,0,52,19,14110,34,83,0,0,1,Collision,Low,Glasgow,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2096,0,0,38,8,14055,17,55,1,0,0,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+138409,0,0,51,2,6304,32,127,0,0,0,Weather,Medium,Glasgow,Van,settled,Catastrophic,Female,Employed,Unknown,No Injury
+15997,0,0,32,18,12919,11,-265,30,0,1,Collision,High,Edinburgh,Sedan,open,Major,Male,Self-Employed,Passenger,Minor
+39964,0,0,58,4,13257,40,109,2,0,0,Collision,Medium,Leeds,Van,settled,Severe,Female,Employed,Passenger,Minor
+2948,0,1,61,6,17118,39,125,1,0,0,Vandalism,Medium,London,Hatchback,settled,Moderate,Female,Retired,Driver,Serious
+9243,0,0,64,4,13677,46,36,0,0,0,Vandalism,Low,Leeds,Hatchback,settled,Major,Male,Self-Employed,Unknown,No Injury
+6637,0,0,43,16,16397,23,58,0,0,1,Weather,Low,Cardiff,Sedan,settled,Moderate,Female,Employed,Pedestrian,Minor
+7104,0,1,67,19,13317,47,95,1,0,1,Collision,Low,Edinburgh,Hatchback,settled,Major,Male,Retired,Unknown,No Injury
+2179,0,0,58,8,10440,38,70,1,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+3409,0,0,48,8,16812,27,404,2,0,0,Collision,High,Edinburgh,Coupe,settled,Moderate,Female,Employed,Unknown,No Injury
+3504,0,0,44,20,13589,26,81,0,0,1,Collision,Low,Glasgow,Hatchback,settled,Moderate,Female,Unemployed,Pedestrian,Minor
+1940,1,0,54,8,5322,35,81,0,0,0,Collision,Low,Birmingham,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+29344,0,0,41,12,13055,19,485,3,0,1,Collision,Medium,Edinburgh,Coupe,open,Severe,Female,Unemployed,Unknown,No Injury
+3918,0,0,54,15,8656,35,73,0,0,1,Theft,Low,Glasgow,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+8775,0,0,57,10,12154,39,486,1,0,0,Vandalism,High,Leeds,Sedan,settled,Major,Female,Self-Employed,Driver,Minor
+4127,0,0,36,13,17360,17,73,0,0,1,Vandalism,Low,Bristol,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+7183,0,0,41,17,14424,19,67,30,0,1,Other,Low,London,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+152468,0,0,33,4,15176,11,194,0,0,0,Collision,Low,Cardiff,Van,settled,Catastrophic,Female,Self-Employed,Unknown,No Injury
+1583,0,0,54,20,18738,32,30,0,0,1,Vandalism,Low,Birmingham,Van,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+1454,0,0,71,12,20799,52,63,5,0,1,Collision,Low,London,Sedan,settled,Minor,Female,Retired,Driver,Minor
+13264,0,1,55,5,11679,36,41,0,0,0,Theft,Low,Glasgow,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+7296,0,0,28,17,13740,9,39,0,0,1,Theft,Low,Birmingham,SUV,settled,Moderate,Female,Student,Passenger,Serious
+3461,1,0,35,12,16746,14,67,4,0,1,Weather,Low,Liverpool,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+3976,0,0,36,4,14617,15,82,0,0,0,Theft,Low,Leeds,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+6354,0,0,21,12,18461,0,85,2,2,1,Weather,Low,London,SUV,settled,Moderate,Female,Student,Unknown,No Injury
+4679,0,0,69,15,14317,48,56,0,0,1,Collision,Low,Edinburgh,Van,settled,Moderate,Female,Retired,Pedestrian,Minor
+32325,0,0,54,7,13705,33,227,2,0,0,Collision,High,Birmingham,Sedan,settled,Severe,Male,Self-Employed,Pedestrian,Minor
+3123,0,0,69,8,16566,50,66,6,0,0,Weather,Low,Leeds,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+126148,0,0,65,17,10034,46,116,3,0,1,Fire,Medium,Edinburgh,Hatchback,settled,Major,Male,Retired,Passenger,Minor
+5151,0,1,57,7,11006,38,90,2,0,0,Theft,Low,Leeds,Coupe,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+9302,0,0,67,10,13877,46,42,0,0,0,Weather,Low,Birmingham,SUV,settled,Moderate,Male,Unemployed,Unknown,No Injury
+5284,0,0,49,14,9412,31,83,3,0,1,Collision,Low,Leeds,Hatchback,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+6057,0,0,19,9,5990,0,93,1,2,0,Collision,Low,Cardiff,Sedan,settled,Moderate,Male,Unemployed,Unknown,No Injury
+15716,0,0,61,9,22534,39,60,0,0,0,Weather,Low,Birmingham,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+26811,0,0,37,6,14036,16,126,1,0,0,Collision,Low,Birmingham,Motorcycle,settled,Severe,Male,Self-Employed,Unknown,No Injury
+28816,0,0,34,10,19484,15,565,4,0,0,Collision,High,Leeds,Sedan,settled,Severe,Male,Employed,Unknown,No Injury
+2209,0,0,33,7,16097,14,34,0,0,0,Collision,Low,Birmingham,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+1769,0,0,29,13,10749,9,36,0,0,1,Collision,Low,Glasgow,Hatchback,settled,Minor,Female,Unemployed,Unknown,No Injury
+1558,0,1,32,19,17741,10,85,1,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+1336,0,0,22,13,13963,4,59,5,2,1,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+10259,0,0,21,18,18134,0,502,1,2,1,Collision,High,Bristol,Sedan,settled,Major,Male,Unemployed,Unknown,No Injury
+147236,0,0,58,18,9959,40,42,2,0,1,Theft,Low,Glasgow,Sedan,settled,Severe,Male,Self-Employed,Unknown,No Injury
+7370,0,0,41,1,12474,20,729,1,0,0,Theft,Low,Cardiff,Coupe,open,Minor,Female,Self-Employed,Unknown,No Injury
+3344,0,0,39,19,7708,20,155,1,0,1,Collision,Medium,Bristol,Motorcycle,settled,Moderate,Male,Employed,Driver,Minor
+2164,0,0,18,15,10648,0,-596,1,2,1,Collision,Low,Edinburgh,Sedan,open,Minor,Male,Student,Unknown,No Injury
+1357,0,0,54,1,7822,36,162,4,0,0,Vandalism,Medium,Bristol,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+5342,0,0,69,1,10026,47,84,0,0,0,Vandalism,Low,Liverpool,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+5849,0,0,74,14,11121,53,66,0,0,1,Weather,Low,Manchester,Hatchback,settled,Minor,Female,Retired,Pedestrian,Serious
+29727,0,0,19,5,10793,0,83,1,2,0,Fire,Low,Newcastle,SUV,settled,Moderate,Female,Unemployed,Unknown,No Injury
+4053,0,0,50,12,14164,28,723,0,0,1,Theft,Low,Bristol,Hatchback,open,Minor,Female,Unemployed,Pedestrian,Minor
+5971,0,0,73,16,6832,55,55,0,0,1,Weather,Low,Cardiff,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+32325,0,0,54,7,13705,33,227,2,0,0,Collision,High,Birmingham,Sedan,settled,Severe,Male,Self-Employed,Passenger,Minor
+1274,0,1,77,3,12496,59,49,0,0,0,Collision,Low,Edinburgh,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+11583,0,0,77,11,16206,58,98,0,0,1,Weather,Low,Leeds,Sedan,settled,Major,Female,Unemployed,Unknown,No Injury
+2282,0,0,70,15,7742,52,89,0,0,1,Collision,Low,Glasgow,Coupe,settled,Minor,Female,Self-Employed,Unknown,No Injury
+5912,0,1,78,10,13498,58,91,0,0,0,Collision,Low,Edinburgh,Hatchback,settled,Moderate,Male,Retired,Driver,Fatal
+6595,0,0,29,12,17801,10,-238,0,0,1,Other,Low,Cardiff,Sedan,open,Moderate,Male,Employed,Driver,Minor
+2237,0,0,38,1,14573,17,64,1,0,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+4716,0,0,18,9,13675,0,544,2,2,0,Collision,High,Newcastle,Hatchback,settled,Moderate,Male,Student,Pedestrian,Minor
+12169,0,1,71,12,13860,52,133,6,0,1,Collision,Medium,London,SUV,settled,Major,Male,Retired,Unknown,No Injury
+6199,0,0,70,2,12125,48,102,0,0,0,Collision,Low,Edinburgh,SUV,settled,Major,Female,Retired,Driver,Serious
+11628,0,1,48,10,12581,28,516,0,0,0,Collision,High,Glasgow,Sedan,settled,Major,Male,Self-Employed,Unknown,No Injury
+14040,0,0,19,0,8658,0,62,6,2,0,Theft,Low,Cardiff,Hatchback,settled,Moderate,Female,Student,Unknown,No Injury
+3093,0,0,48,19,11346,26,56,0,0,1,Collision,Low,Bristol,Hatchback,settled,Minor,Female,Employed,Pedestrian,Minor
+11346,0,0,20,14,9138,0,71,2,2,1,Collision,Medium,Bristol,Sedan,settled,Major,Female,Student,Unknown,No Injury
+10949,0,0,28,6,10200,10,44,2,0,0,Fire,Low,Manchester,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+1996,0,0,70,16,10913,50,41,0,0,1,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+2457,1,0,47,3,16502,25,67,0,0,0,Collision,Low,Manchester,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+3874,0,0,75,5,10335,53,86,1,0,0,Collision,Low,London,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+20553,0,0,52,3,11188,30,472,1,0,0,Weather,High,Liverpool,Van,settled,Major,Female,Employed,Unknown,No Injury
+2063,0,0,32,0,9058,11,90,2,0,0,Collision,Low,Liverpool,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2100,0,0,56,15,4777,37,78,1,0,1,Collision,Low,Newcastle,Van,settled,Minor,Female,Employed,Pedestrian,Minor
+1720,0,0,59,4,10933,41,30,0,0,0,Collision,Low,Bristol,Motorcycle,settled,Minor,Male,Retired,Unknown,No Injury
+12312,0,0,43,20,14996,24,62,3,0,1,Fire,Low,Liverpool,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+36788,0,0,52,19,12071,34,159,0,0,1,Collision,Medium,Cardiff,Sedan,settled,Severe,Female,Employed,Unknown,No Injury
+4705,0,0,30,8,16909,10,34,0,0,0,Theft,Low,Bristol,Coupe,settled,Minor,Female,Employed,Passenger,Minor
+2376,0,0,37,3,13466,18,69,4,0,0,Collision,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+5039,0,0,63,15,17076,45,66,5,0,1,Collision,Low,London,SUV,settled,Moderate,Male,Self-Employed,Passenger,Minor
+1437,0,0,25,7,15617,5,-453,1,0,0,Vandalism,Low,Liverpool,SUV,open,Minor,Female,Employed,Pedestrian,Minor
+3544,0,0,19,10,8349,0,80,0,2,0,Weather,Low,Newcastle,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+32046,0,0,45,9,6415,23,191,0,0,0,Collision,Medium,Newcastle,Sedan,settled,Severe,Male,Employed,Unknown,No Injury
+6949,0,0,78,4,11789,58,91,1,0,0,Weather,Low,Bristol,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+2970,0,0,47,10,14269,26,866,0,0,0,Collision,Low,London,Sedan,open,Minor,Male,Self-Employed,Driver,Minor
+11693,0,0,72,11,3217,54,119,3,0,1,Collision,Medium,Cardiff,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+1127,0,0,49,9,11928,30,42,3,0,0,Vandalism,Low,Newcastle,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+4936,0,1,65,19,14429,44,85,4,0,1,Collision,Medium,Birmingham,SUV,settled,Moderate,Male,Retired,Unknown,No Injury
+12134,1,0,37,6,14036,16,92,0,0,0,Collision,Low,Birmingham,Motorcycle,settled,Major,Male,Self-Employed,Unknown,No Injury
+17268,0,0,27,9,5747,6,68,1,0,0,Fire,Low,Glasgow,SUV,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+1328,0,0,48,0,14026,26,163,4,0,0,Vandalism,Medium,Glasgow,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+48651,0,0,32,3,12614,11,584,7,0,0,Collision,High,Leeds,Hatchback,settled,Severe,Male,Unemployed,Unknown,No Injury
+2956,0,0,47,10,5498,28,57,4,0,0,Collision,Low,Birmingham,Motorcycle,settled,Minor,Male,Employed,Unknown,No Injury
+1430,0,0,57,19,10925,35,59,3,0,1,Collision,Low,Liverpool,Hatchback,settled,Minor,Male,Retired,Passenger,Minor
+40397,0,0,48,0,14891,30,388,4,0,0,Theft,High,Glasgow,Coupe,settled,Major,Male,Employed,Passenger,Minor
+4117,0,0,56,15,17758,35,38,3,0,1,Collision,Low,Edinburgh,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+4515,0,0,75,10,7381,56,96,1,0,0,Collision,Low,Cardiff,Coupe,settled,Moderate,Male,Retired,Unknown,No Injury
+10361,0,0,56,11,10112,37,49,0,0,1,Fire,Low,Glasgow,Hatchback,settled,Minor,Female,Self-Employed,Passenger,Serious
+6942,0,0,70,5,9133,49,59,0,0,0,Collision,Low,Cardiff,Hatchback,settled,Moderate,Male,Retired,Passenger,Minor
+1652,0,0,37,14,16867,16,38,0,0,1,Collision,Low,Bristol,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+3871,0,0,69,4,10238,48,41,4,0,0,Collision,Low,Manchester,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+2976,0,0,36,12,13709,16,113,0,0,1,Vandalism,Medium,Newcastle,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+963,1,0,69,16,12718,48,118,30,0,1,Vandalism,Low,Birmingham,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+17396,0,0,34,6,5821,15,188,0,0,0,Weather,Medium,Leeds,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+2851,0,0,66,20,21107,44,40,0,0,1,Weather,Low,Birmingham,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1115,0,0,76,6,13305,58,81,0,0,0,Vandalism,Low,Glasgow,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+3073,0,0,68,11,6659,48,162,0,0,1,Vandalism,Medium,Leeds,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+2120,0,0,18,0,18705,0,707,6,2,0,Other,Medium,London,SUV,open,Minor,Male,Student,Driver,Minor
+19161,0,0,43,7,4615,24,194,6,0,0,Weather,Medium,Glasgow,Coupe,settled,Major,Female,Employed,Unknown,No Injury
+2152,0,0,62,14,12123,42,93,1,0,1,Collision,Medium,Bristol,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+3254,0,0,75,0,14213,55,152,0,0,0,Collision,Medium,Cardiff,Coupe,settled,Moderate,Female,Retired,Unknown,No Injury
+32401,0,0,56,15,17758,35,87,4,0,1,Collision,Low,Edinburgh,Hatchback,settled,Severe,Male,Employed,Unknown,No Injury
+1777,0,0,38,4,15260,16,81,0,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1331,0,0,31,16,10590,12,75,4,0,1,Vandalism,Low,Bristol,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+2738,0,0,49,9,14577,29,55,1,0,0,Weather,Low,Edinburgh,SUV,settled,Minor,Male,Unemployed,Unknown,No Injury
+56032,0,1,40,18,15456,18,189,2,0,1,Fire,Medium,Manchester,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+2253,0,0,47,3,10736,25,161,0,0,0,Weather,Medium,Liverpool,Sedan,settled,Minor,Male,Employed,Driver,Minor
+2207,0,0,19,17,12934,0,548,0,2,1,Collision,Low,London,Motorcycle,open,Minor,Female,Student,Driver,Minor
+2302,0,0,44,17,14184,25,87,0,0,1,Collision,Low,Liverpool,Coupe,settled,Minor,Female,Unemployed,Unknown,No Injury
+2351,0,0,40,9,8732,21,-1008,6,0,0,Collision,Low,Leeds,SUV,open,Minor,Female,Employed,Passenger,Minor
+6452,0,0,30,14,11061,9,50,3,0,1,Weather,Low,Newcastle,Sedan,settled,Moderate,Male,Employed,Pedestrian,Minor
+2101,0,0,64,3,14576,45,79,0,0,0,Collision,Low,Bristol,Sedan,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+2019,0,0,48,13,11395,29,31,1,0,1,Collision,Low,Bristol,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1905,0,0,79,4,10993,60,51,0,0,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+3873,0,0,63,20,20042,41,-2038,0,0,1,Theft,Low,Liverpool,Sedan,open,Minor,Female,Employed,Passenger,Minor
+47224,0,0,79,9,13179,57,98,0,0,0,Weather,Low,Manchester,Coupe,settled,Severe,Female,Retired,Unknown,No Injury
+1729,0,0,21,7,14491,2,42,1,2,0,Vandalism,Low,Newcastle,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+3431,0,0,39,16,6477,17,154,1,0,1,Collision,Medium,Edinburgh,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+15453,0,0,54,12,19588,36,110,3,0,1,Collision,Medium,Leeds,SUV,settled,Major,Female,Retired,Pedestrian,Minor
+11540,0,0,73,9,1780,53,201,1,0,0,Collision,Medium,Glasgow,Hatchback,settled,Major,Male,Retired,Pedestrian,Minor
+139069,0,0,27,9,17265,9,215,0,0,0,Other,Medium,Glasgow,Van,settled,Catastrophic,Male,Employed,Unknown,No Injury
+11386,0,0,18,15,7840,0,78,1,2,1,Other,Low,Manchester,Sedan,settled,Moderate,Male,Student,Unknown,No Injury
+5359,0,0,26,16,9872,4,59,2,1,1,Collision,Low,Bristol,Sedan,settled,Moderate,Female,Self-Employed,Driver,Minor
+4584,0,0,57,14,13469,39,83,0,0,1,Weather,Low,Glasgow,Sedan,settled,Minor,Female,Employed,Passenger,Minor
+5733,0,0,53,4,5349,34,60,1,0,0,Collision,Low,Birmingham,Motorcycle,settled,Moderate,Male,Employed,Unknown,No Injury
+2953,1,0,58,18,14341,36,83,0,0,1,Collision,Low,Bristol,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+36095,1,0,68,13,11041,48,218,1,0,1,Collision,High,Bristol,Coupe,settled,Severe,Female,Retired,Unknown,No Injury
+16700,0,0,54,15,15050,36,100,0,0,1,Weather,Low,Newcastle,Van,settled,Major,Male,Unemployed,Unknown,No Injury
+1436,0,0,44,16,6881,24,78,2,0,1,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+4314,1,0,78,14,12212,56,62,0,0,1,Theft,Low,Liverpool,SUV,settled,Minor,Female,Retired,Pedestrian,Minor
+27550,0,0,33,18,7723,12,90,1,0,1,Theft,Low,Manchester,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+3136,0,0,56,3,10666,37,73,2,0,0,Collision,Low,London,Sedan,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+1752,0,0,61,20,15565,43,39,3,0,1,Collision,Low,Manchester,SUV,settled,Minor,Male,Unemployed,Unknown,No Injury
+2365,0,0,21,12,18461,0,81,0,2,1,Collision,Low,London,SUV,settled,Minor,Female,Student,Unknown,No Injury
+6086,1,0,19,3,11250,0,43,2,2,0,Collision,Low,Glasgow,Hatchback,settled,Moderate,Male,Student,Unknown,No Injury
+30637,0,0,43,16,15138,22,191,0,0,1,Weather,Medium,Leeds,Sedan,settled,Severe,Female,Self-Employed,Unknown,No Injury
+31017,0,0,71,9,5142,51,46,2,0,0,Collision,Low,Cardiff,Sedan,settled,Severe,Male,Employed,Unknown,No Injury
+23012,0,0,33,3,13510,11,169,0,0,0,Theft,Medium,Glasgow,SUV,settled,Major,Male,Employed,Unknown,No Injury
+3120,0,0,41,11,13208,20,59,0,0,1,Weather,Low,Birmingham,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+5620,0,0,49,4,10861,27,72,0,0,0,Collision,Low,Edinburgh,Sedan,settled,Moderate,Male,Unemployed,Unknown,No Injury
+2029,0,1,67,1,12555,49,72,0,0,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+4180,0,0,27,19,19804,9,90,0,0,1,Theft,Low,Edinburgh,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+6660,1,0,45,2,16404,26,95,2,0,0,Collision,Medium,Cardiff,Hatchback,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+11870,0,0,30,18,14816,11,168,3,0,1,Theft,Medium,Glasgow,SUV,settled,Major,Male,Employed,Unknown,No Injury
+3343,0,0,67,7,13362,48,54,1,0,0,Weather,Low,Bristol,SUV,settled,Minor,Female,Retired,Pedestrian,Minor
+5096,0,0,36,11,8957,17,90,1,0,1,Other,Medium,London,Sedan,settled,Moderate,Female,Employed,Passenger,Minor
+846,0,0,56,1,14433,38,88,0,0,0,Vandalism,Low,Liverpool,SUV,settled,Minor,Female,Self-Employed,Unknown,No Injury
+11540,0,0,73,9,1780,53,201,1,0,0,Collision,Medium,Glasgow,Hatchback,settled,Major,Male,Retired,Passenger,Minor
+7256,0,0,38,6,3481,16,90,2,0,0,Weather,Low,London,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+17599,0,0,68,13,15805,49,61,4,0,1,Weather,Low,Manchester,Motorcycle,settled,Major,Female,Retired,Unknown,No Injury
+68360,0,0,19,13,11586,0,56,1,2,1,Fire,Low,Newcastle,SUV,settled,Moderate,Female,Student,Driver,Serious
+4543,0,0,33,6,15788,15,44,0,0,0,Collision,Low,Leeds,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+12814,0,0,66,2,18731,44,453,2,0,0,Collision,High,Bristol,Coupe,settled,Major,Male,Retired,Unknown,No Injury
+16568,0,0,70,20,12330,51,50,2,0,1,Collision,Low,Bristol,Sedan,settled,Major,Female,Retired,Pedestrian,Serious
+2306,0,0,25,16,10702,3,163,1,1,1,Collision,Medium,Birmingham,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+1652,0,0,27,9,12160,6,55,1,0,0,Vandalism,Low,Liverpool,Hatchback,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+1945,0,0,35,9,5075,15,38,0,0,0,Collision,Low,London,Motorcycle,settled,Minor,Female,Self-Employed,Unknown,No Injury
+342818,0,0,44,16,7732,23,155,0,0,1,Fire,Medium,Glasgow,SUV,settled,Severe,Male,Employed,Unknown,No Injury
+4187,0,0,19,12,17594,0,107,2,2,1,Vandalism,Medium,Manchester,Hatchback,settled,Moderate,Male,Student,Unknown,No Injury
+4191,0,1,28,14,10300,9,48,0,0,1,Theft,Low,Edinburgh,Van,settled,Minor,Male,Employed,Unknown,No Injury
+1663,0,0,44,8,17424,23,179,7,0,0,Other,Medium,Manchester,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+2844,0,0,28,17,9658,9,63,0,0,1,Other,Low,Newcastle,Sedan,settled,Minor,Male,Self-Employed,Passenger,Minor
+4714,0,0,29,9,14805,10,89,3,0,0,Collision,Low,Cardiff,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+3117,0,0,43,20,12080,25,52,0,0,1,Vandalism,Low,Cardiff,Hatchback,settled,Moderate,Male,Employed,Pedestrian,Minor
+3257,0,0,56,1,9307,37,91,6,0,0,Weather,Low,Manchester,SUV,settled,Minor,Female,Unemployed,Unknown,No Injury
+20151,0,0,26,13,11433,5,85,0,0,1,Fire,Medium,Edinburgh,SUV,settled,Minor,Female,Student,Unknown,No Injury
+1571,0,0,77,14,8744,55,91,3,0,1,Collision,Low,Newcastle,Van,settled,Minor,Female,Retired,Unknown,No Injury
+741,0,0,69,13,6559,48,36,3,0,1,Vandalism,Low,Glasgow,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1743,0,0,46,16,12190,27,91,2,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2823,0,0,45,15,6996,27,43,2,0,1,Weather,Low,London,Van,settled,Minor,Male,Unemployed,Unknown,No Injury
+1983,0,1,19,17,4035,0,36,5,2,1,Collision,Low,London,Sedan,settled,Minor,Male,Student,Unknown,No Injury
+7383,0,0,21,14,13432,0,154,0,2,1,Vandalism,Medium,Cardiff,Hatchback,settled,Major,Male,Student,Pedestrian,Serious
+55102,1,1,46,7,13894,28,147,1,0,0,Fire,Medium,Bristol,SUV,settled,Moderate,Female,Unemployed,Driver,Minor
+1307,0,0,33,15,5672,15,90,1,0,1,Collision,Low,Leeds,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+3875,0,0,59,11,18441,41,46,0,0,1,Weather,Low,Bristol,Sedan,settled,Minor,Female,Unemployed,Pedestrian,Serious
+7685,0,0,67,10,13877,46,86,2,0,0,Vandalism,Low,Birmingham,SUV,settled,Major,Male,Unemployed,Passenger,Serious
+1586,0,0,68,7,7269,50,41,0,0,0,Collision,Low,Newcastle,Van,settled,Minor,Male,Unemployed,Unknown,No Injury
+12836,0,0,49,4,12985,28,61,0,0,0,Collision,Low,Manchester,Sedan,settled,Major,Male,Self-Employed,Driver,Minor
+1133,0,1,65,1,7660,43,90,1,0,0,Vandalism,Low,Glasgow,SUV,settled,Minor,Female,Retired,Pedestrian,Minor
+12463,1,1,42,20,12269,21,154,2,0,1,Collision,Medium,Newcastle,Hatchback,settled,Major,Male,Self-Employed,Unknown,No Injury
+2632,1,0,76,1,7446,55,85,0,0,0,Collision,Low,Birmingham,Coupe,settled,Minor,Female,Retired,Passenger,Serious
+6259,0,1,23,4,14109,5,123,6,1,0,Collision,Medium,Birmingham,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+5877,0,0,67,2,16336,46,92,3,0,0,Collision,Medium,Cardiff,Coupe,settled,Moderate,Male,Retired,Unknown,No Injury
+5496,0,0,65,2,8501,46,91,2,0,0,Collision,Low,London,Hatchback,settled,Moderate,Female,Retired,Unknown,No Injury
+2514,0,0,27,13,9850,5,128,2,0,1,Weather,Medium,London,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+4088,0,0,44,11,10443,22,68,0,0,1,Theft,Low,London,Van,settled,Minor,Female,Employed,Unknown,No Injury
+1747,0,0,44,1,15811,22,83,2,0,0,Collision,Low,Newcastle,Coupe,settled,Minor,Female,Employed,Pedestrian,Serious
+2336,0,0,31,7,15354,9,91,2,0,0,Collision,Low,Cardiff,Van,settled,Minor,Female,Employed,Unknown,No Injury
+1337,0,0,57,16,11340,38,173,0,0,1,Vandalism,Medium,Birmingham,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+5815,0,0,22,10,11218,2,605,1,2,0,Vandalism,Low,Bristol,SUV,open,Major,Female,Student,Passenger,Minor
+15552,0,0,32,5,8722,13,61,3,0,0,Weather,Low,Manchester,SUV,settled,Major,Female,Employed,Unknown,No Injury
+4823,0,0,24,6,10226,4,397,2,2,0,Collision,High,London,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+10902,0,0,62,4,15293,40,180,2,0,0,Weather,Medium,Newcastle,Hatchback,settled,Moderate,Male,Retired,Driver,Minor
+83822,0,0,57,6,16486,35,173,2,0,0,Fire,Medium,Liverpool,SUV,settled,Major,Female,Self-Employed,Unknown,No Injury
+9722,0,0,65,14,10398,45,173,0,0,1,Collision,Medium,Edinburgh,SUV,settled,Major,Male,Retired,Pedestrian,Serious
+2280,0,0,64,17,11066,45,90,2,0,1,Collision,Low,Leeds,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+48719,0,0,42,14,16789,22,214,2,0,1,Weather,High,Leeds,Motorcycle,settled,Severe,Male,Employed,Unknown,No Injury
+9119,0,0,25,7,9145,3,176,0,1,0,Collision,Medium,Manchester,Motorcycle,settled,Major,Male,Employed,Driver,Minor
+3667,1,0,58,18,14341,36,39,0,0,1,Weather,Low,Bristol,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2369,0,1,24,6,21590,5,79,5,1,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+1532,0,0,30,16,13390,9,80,2,0,1,Collision,Low,Liverpool,Hatchback,settled,Minor,Female,Unemployed,Passenger,Minor
+50824,0,0,36,9,9812,15,175,0,0,0,Collision,Medium,Manchester,Coupe,settled,Severe,Female,Self-Employed,Pedestrian,Minor
+9961,0,0,25,20,15226,6,195,2,0,1,Collision,Medium,Glasgow,Van,settled,Major,Male,Employed,Passenger,Minor
+9294,0,0,64,12,16700,45,184,4,0,1,Collision,Medium,Glasgow,Coupe,settled,Major,Male,Retired,Unknown,No Injury
+4531,0,0,62,20,20381,40,350,0,0,1,Collision,High,Manchester,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+7159,0,0,48,0,19806,28,42,3,0,0,Other,Low,Edinburgh,Sedan,settled,Moderate,Male,Self-Employed,Driver,Minor
+51626,0,0,77,18,16816,56,99,1,0,1,Fire,Medium,Bristol,SUV,settled,Moderate,Male,Retired,Passenger,Minor
+2402,0,0,53,9,7784,33,90,0,0,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1673,0,0,40,7,14760,18,38,4,0,0,Collision,Low,Liverpool,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+2078,0,0,18,2,20360,0,72,2,2,0,Collision,Low,Bristol,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+6268,0,0,51,13,14563,33,61,0,0,1,Collision,Low,Birmingham,Coupe,settled,Moderate,Female,Self-Employed,Passenger,Minor
+1995,0,0,38,12,14299,19,80,3,0,1,Collision,Low,Cardiff,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+4594,0,0,61,14,11368,40,79,2,0,1,Other,Low,Edinburgh,Sedan,settled,Minor,Male,Self-Employed,Driver,Minor
+1318,0,1,78,16,18517,58,75,0,0,1,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Self-Employed,Driver,Minor
+2334,0,0,39,19,15298,17,163,2,0,1,Collision,Medium,Glasgow,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+16832,0,0,51,0,13364,29,87,0,0,0,Weather,Low,Liverpool,SUV,settled,Major,Female,Self-Employed,Unknown,No Injury
+37670,0,0,34,0,9572,12,156,0,0,0,Fire,Medium,Leeds,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+1788,0,0,73,20,10421,52,87,2,0,1,Collision,Low,Newcastle,Van,settled,Minor,Male,Retired,Unknown,No Injury
+1485,1,0,32,7,17818,14,45,3,0,0,Collision,Low,Leeds,SUV,settled,Minor,Female,Self-Employed,Driver,Minor
+1459,0,0,46,0,11335,25,66,5,0,0,Vandalism,Low,Leeds,Van,settled,Minor,Male,Employed,Unknown,No Injury
+2578,0,0,56,20,23424,37,34,1,0,1,Weather,Low,Newcastle,Hatchback,settled,Minor,Female,Retired,Passenger,Minor
+3187,0,0,79,5,18425,58,44,2,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+13560,0,0,55,14,11291,35,76,0,0,1,Collision,Medium,Newcastle,SUV,settled,Major,Female,Employed,Unknown,No Injury
+5385,0,0,75,2,13738,56,49,4,0,0,Collision,Low,Manchester,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+3627,0,0,24,10,17979,3,155,0,2,0,Weather,Medium,Newcastle,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+3968,0,0,54,1,6009,33,72,2,0,0,Collision,Medium,Manchester,Sedan,settled,Moderate,Female,Unemployed,Unknown,No Injury
+1803,0,0,36,1,16544,18,46,2,0,0,Weather,Low,Birmingham,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+5595,0,0,41,1,12474,20,54,4,0,0,Collision,Low,Cardiff,Coupe,settled,Moderate,Female,Self-Employed,Pedestrian,Minor
+2552,0,0,41,11,4662,22,53,3,0,1,Collision,Low,Leeds,Van,settled,Minor,Male,Employed,Pedestrian,Minor
+7696,0,0,46,15,13945,27,59,0,0,1,Theft,Low,Birmingham,Van,settled,Minor,Female,Employed,Unknown,No Injury
+2498,0,1,52,9,16762,30,81,0,0,0,Collision,Low,Manchester,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+2089,0,0,22,19,10794,3,75,4,2,1,Collision,Low,London,Sedan,settled,Minor,Male,Student,Passenger,Minor
+49993,0,0,18,9,12348,0,484,0,2,0,Collision,High,Newcastle,Sedan,settled,Severe,Male,Student,Unknown,No Injury
+16187,0,0,61,13,11347,43,94,1,0,1,Collision,Low,Bristol,Motorcycle,settled,Major,Female,Retired,Unknown,No Injury
+1857,0,0,61,13,11347,43,-114,2,0,1,Collision,Low,Bristol,Motorcycle,open,Minor,Female,Retired,Unknown,No Injury
+2104,0,1,36,13,17360,17,104,1,0,1,Collision,Medium,Bristol,Sedan,settled,Minor,Male,Self-Employed,Driver,Minor
+50548,0,0,43,5,9910,25,139,3,0,0,Collision,Medium,Birmingham,Motorcycle,settled,Severe,Female,Unemployed,Unknown,No Injury
+2468,0,0,70,17,16249,50,87,1,0,1,Weather,Low,Leeds,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+30335,0,0,32,5,8722,13,176,0,0,0,Theft,Medium,Manchester,SUV,settled,Major,Female,Employed,Unknown,No Injury
+19968,0,0,72,19,11245,53,426,3,0,1,Collision,High,London,Motorcycle,settled,Severe,Male,Retired,Driver,Serious
+11820,0,0,52,7,14506,30,441,2,0,0,Collision,High,Leeds,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+1727,0,0,42,8,15567,20,65,6,0,0,Collision,Low,Manchester,Motorcycle,settled,Minor,Female,Unemployed,Unknown,No Injury
+2296,0,1,77,16,10046,55,79,0,0,1,Collision,Low,Bristol,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+6212,0,0,29,11,11056,9,80,0,0,1,Theft,Low,Manchester,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2578,0,0,73,12,16801,54,1749,4,0,1,Collision,Low,Liverpool,SUV,open,Minor,Male,Retired,Unknown,No Injury
+2708,0,0,21,16,9449,0,88,0,2,1,Weather,Low,Leeds,Hatchback,settled,Minor,Female,Student,Passenger,Minor
+3490,0,0,23,16,14601,5,46,2,1,1,Weather,Low,Newcastle,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+5363,0,0,19,12,13991,0,76,0,2,1,Collision,Medium,Glasgow,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+2815,0,0,69,19,6967,50,80,3,0,1,Other,Medium,Manchester,Sedan,settled,Minor,Male,Retired,Driver,Minor
+6023,0,0,41,7,12756,19,175,0,0,0,Collision,Medium,Glasgow,Van,settled,Moderate,Male,Employed,Unknown,No Injury
+1353,0,0,69,4,2972,48,51,0,0,0,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Retired,Driver,Minor
+5897,0,0,60,17,12655,42,42,2,0,1,Vandalism,Low,London,Hatchback,settled,Major,Female,Retired,Unknown,No Injury
+772,0,0,60,7,12804,42,80,4,0,0,Vandalism,Low,Birmingham,Van,settled,Minor,Female,Self-Employed,Passenger,Minor
+2057,0,0,26,2,12143,7,90,3,0,0,Collision,Low,London,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+2287,1,0,18,19,11781,0,72,2,2,1,Collision,Medium,Leeds,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+5496,1,0,35,4,11588,15,132,3,0,0,Collision,Medium,Bristol,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+11925,0,0,36,7,14500,17,201,3,0,0,Collision,Medium,Edinburgh,Coupe,settled,Major,Female,Employed,Passenger,Minor
+35232,0,0,46,20,16142,27,56,0,0,1,Vandalism,Low,Manchester,Van,settled,Severe,Female,Employed,Unknown,No Injury
+10434,1,0,56,9,11517,36,107,5,0,0,Other,Low,London,Coupe,settled,Major,Male,Employed,Pedestrian,Minor
+1566,0,0,32,5,16004,13,74,1,0,0,Collision,Low,Edinburgh,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+1620,0,0,57,14,7795,36,83,0,0,1,Vandalism,Low,Liverpool,Motorcycle,settled,Minor,Male,Employed,Driver,Minor
+1678,0,0,18,15,7840,0,-78,5,2,1,Collision,Medium,Manchester,Sedan,open,Minor,Male,Student,Driver,Minor
+15138,0,0,73,8,5990,53,180,0,0,0,Theft,Medium,Cardiff,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+2010,0,0,57,8,13332,35,66,3,0,0,Collision,Low,Manchester,Coupe,settled,Minor,Female,Employed,Driver,Minor
+6063,0,0,66,20,12528,48,112,2,0,1,Weather,Medium,Leeds,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+1636,0,1,45,20,12100,25,41,1,0,1,Collision,Low,Liverpool,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+3330,0,0,31,12,10600,12,59,4,0,1,Weather,Low,Liverpool,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+61559,0,0,23,4,14109,5,178,0,1,0,Weather,Medium,Birmingham,Sedan,settled,Severe,Male,Employed,Unknown,No Injury
+4539,0,0,55,11,4441,33,46,1,0,1,Collision,Low,Liverpool,Hatchback,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+8832,0,0,44,9,20845,25,39,3,0,0,Weather,Low,Manchester,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+2196,0,0,67,19,10892,47,48,2,0,1,Collision,Low,Newcastle,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+18160,0,0,42,17,4063,22,105,4,0,1,Weather,Low,Newcastle,Sedan,settled,Major,Male,Employed,Pedestrian,Minor
+41950,0,0,18,4,16573,0,385,0,2,0,Collision,High,Edinburgh,Hatchback,settled,Severe,Male,Student,Passenger,Serious
+3178,0,0,51,10,13935,31,90,2,0,0,Weather,Low,Liverpool,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+2976,0,0,49,3,17925,28,65,0,0,0,Weather,Low,London,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+1524,0,0,72,15,4916,52,1080,0,0,1,Collision,Medium,Edinburgh,Sedan,open,Minor,Male,Retired,Unknown,No Injury
+36516,0,0,41,13,7512,21,135,6,0,1,Weather,Medium,Liverpool,Coupe,settled,Severe,Female,Employed,Unknown,No Injury
+1790,0,0,41,13,10139,20,69,3,0,1,Collision,Low,Leeds,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+12606,0,0,64,9,11081,44,119,1,0,0,Collision,Medium,Newcastle,SUV,settled,Major,Female,Self-Employed,Unknown,No Injury
+1202,0,0,22,13,11372,3,44,3,2,1,Collision,Low,Edinburgh,SUV,settled,Minor,Male,Student,Unknown,No Injury
+1851,1,0,73,20,11469,51,66,3,0,1,Collision,Low,London,Hatchback,settled,Minor,Female,Retired,Pedestrian,Minor
+1952,0,0,77,7,15443,57,90,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+1123,0,0,20,20,5062,0,82,0,2,1,Vandalism,Low,Liverpool,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+9540,0,0,54,15,2839,33,78,0,0,1,Collision,Medium,Birmingham,Sedan,settled,Major,Female,Employed,Driver,Minor
+14026,0,0,56,4,8100,37,299,0,0,0,Collision,High,Newcastle,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+32978,0,0,42,16,14365,22,64,2,0,1,Fire,Low,Leeds,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+3199,0,0,62,4,15293,40,81,1,0,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Retired,Passenger,Minor
+152130,0,0,67,16,11516,45,251,6,0,1,Other,High,Liverpool,SUV,settled,Catastrophic,Male,Retired,Unknown,No Injury
+2195,0,0,79,8,7711,60,62,1,0,0,Collision,Low,Edinburgh,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1311,0,0,19,6,8066,1,55,0,2,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Employed,Pedestrian,Minor
+301208,0,0,37,8,15230,19,159,2,0,0,Fire,Medium,Manchester,Van,open,Severe,Female,Self-Employed,Passenger,Minor
+13889,0,0,58,20,12169,39,40,0,0,1,Fire,Low,London,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1790,0,0,66,19,7280,47,72,3,0,1,Other,Low,Leeds,Motorcycle,settled,Minor,Female,Retired,Unknown,No Injury
+20158,0,0,72,1,13731,53,177,0,0,0,Vandalism,Medium,London,Hatchback,settled,Severe,Female,Retired,Driver,Minor
+1647,0,1,72,19,12130,53,82,0,0,1,Collision,Low,Birmingham,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+39705,0,0,28,0,14618,7,111,2,0,0,Theft,Medium,Edinburgh,Coupe,settled,Major,Male,Employed,Unknown,No Injury
+1436,0,0,67,9,13860,49,92,3,0,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+31052,0,0,59,4,10933,41,482,4,0,0,Theft,High,Bristol,Motorcycle,settled,Major,Male,Retired,Unknown,No Injury
+38926,0,0,54,4,2091,36,167,2,0,0,Collision,Medium,Birmingham,Sedan,settled,Severe,Female,Employed,Driver,Minor
+1721,0,0,50,18,8795,30,70,1,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Female,Unemployed,Unknown,No Injury
+5714,0,0,31,11,20916,13,139,0,0,1,Collision,Medium,Manchester,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+4434,0,0,47,3,16502,25,122,0,0,0,Collision,Medium,Manchester,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+26256,0,0,52,18,11378,31,105,7,0,1,Weather,Low,Cardiff,SUV,settled,Major,Female,Self-Employed,Unknown,No Injury
+4436,0,0,22,9,3247,0,82,1,2,0,Collision,Low,Liverpool,Hatchback,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+2747,0,1,28,6,14267,6,69,0,0,0,Weather,Low,Leeds,Sedan,settled,Minor,Female,Employed,Driver,Serious
+33270,0,1,48,9,13588,26,352,5,0,0,Collision,High,Edinburgh,Hatchback,settled,Severe,Female,Self-Employed,Unknown,No Injury
+3907,0,0,19,16,16391,0,77,3,2,1,Weather,Low,Bristol,SUV,settled,Minor,Female,Employed,Pedestrian,Serious
+9010,0,0,62,10,17821,40,102,0,0,0,Vandalism,Low,Newcastle,SUV,settled,Major,Male,Employed,Unknown,No Injury
+5241,0,0,21,19,15016,1,47,2,2,1,Collision,Low,London,SUV,settled,Moderate,Male,Student,Driver,Minor
+7712,0,0,39,9,6305,21,78,0,0,0,Collision,Low,Leeds,Sedan,settled,Major,Female,Self-Employed,Unknown,No Injury
+1444,1,0,68,1,4330,49,31,0,0,0,Collision,Low,Birmingham,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+5540,0,0,24,1,11078,2,51,2,2,0,Collision,Low,Glasgow,Hatchback,settled,Moderate,Male,Employed,Pedestrian,Minor
+3913,0,0,31,8,18528,10,151,1,0,0,Collision,Medium,Liverpool,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+1984,0,0,24,6,10226,4,33,1,2,0,Collision,Low,London,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+3861,0,0,19,7,17787,0,132,0,2,0,Vandalism,Medium,Newcastle,Motorcycle,settled,Moderate,Male,Student,Unknown,No Injury
+3214,0,0,50,12,9530,30,91,2,0,1,Collision,Low,Cardiff,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+2576,0,0,19,17,9735,0,337,2,2,1,Weather,Low,Manchester,Sedan,open,Minor,Female,Student,Unknown,No Injury
+26860,0,0,41,10,11375,23,198,3,0,0,Collision,Medium,Bristol,Hatchback,settled,Severe,Male,Employed,Passenger,Minor
+19057,0,0,36,20,14853,15,103,0,0,1,Weather,Low,Cardiff,SUV,settled,Major,Male,Employed,Unknown,No Injury
+2625,0,0,69,7,2646,51,74,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+1568,0,0,59,1,10207,39,90,1,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+51517,0,0,61,14,11378,43,216,0,0,1,Collision,Medium,London,Van,settled,Severe,Female,Self-Employed,Unknown,No Injury
+1206,0,0,57,12,17445,39,52,0,0,1,Collision,Low,London,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+105953,0,0,72,16,12521,52,102,0,0,1,Fire,Low,Liverpool,Sedan,settled,Major,Male,Retired,Driver,Minor
+1963,0,0,59,11,18441,41,32,2,0,1,Collision,Low,Bristol,Sedan,settled,Minor,Female,Unemployed,Unknown,No Injury
+2837,0,0,60,0,10606,40,44,5,0,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+11460,0,1,66,14,13502,48,102,1,0,1,Weather,Medium,Edinburgh,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+4233,0,0,29,7,10718,10,297,4,0,0,Collision,High,Manchester,Van,settled,Moderate,Female,Employed,Passenger,Minor
+836,0,0,19,12,15242,0,47,3,2,1,Vandalism,Low,Manchester,Van,settled,Minor,Male,Student,Unknown,No Injury
+2349,0,0,66,9,11450,46,91,0,0,0,Collision,Medium,Leeds,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+6013,0,0,33,3,15037,11,87,5,0,0,Collision,Low,Newcastle,Van,settled,Moderate,Female,Student,Unknown,No Injury
+4443,0,0,22,9,12275,0,55,0,2,0,Theft,Low,Newcastle,Van,settled,Minor,Male,Student,Driver,Minor
+4368,0,0,40,7,9490,19,83,0,0,0,Collision,Low,Leeds,Sedan,settled,Moderate,Male,Employed,Driver,Minor
+10695,0,1,35,2,11813,14,57,1,0,0,Collision,Low,Cardiff,SUV,settled,Major,Female,Employed,Unknown,No Injury
+1780,0,0,79,8,17186,58,74,1,0,0,Other,Low,Newcastle,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+2551,0,0,50,3,16784,28,44,0,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+12022,0,1,22,14,15538,1,236,5,2,1,Collision,High,Newcastle,Motorcycle,settled,Major,Male,Student,Unknown,No Injury
+2525,0,0,31,19,11571,13,50,1,0,1,Weather,Low,Glasgow,SUV,settled,Minor,Female,Self-Employed,Passenger,Minor
+4470,0,0,41,10,11375,23,171,0,0,0,Collision,Medium,Bristol,Hatchback,settled,Moderate,Male,Employed,Passenger,Serious
+49398,0,0,44,17,10954,26,385,0,0,1,Collision,High,Cardiff,Hatchback,settled,Severe,Female,Employed,Unknown,No Injury
+17032,0,0,49,14,13532,28,95,3,0,1,Collision,Low,London,Van,settled,Major,Female,Employed,Unknown,No Injury
+16573,0,0,51,16,12850,30,76,0,0,1,Fire,Low,Leeds,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+2038,0,0,73,0,8850,53,60,0,0,0,Collision,Low,Newcastle,Van,settled,Minor,Female,Retired,Unknown,No Injury
+6553,0,1,65,11,13014,44,178,1,0,1,Collision,Medium,Leeds,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+5524,0,0,29,7,11721,7,202,2,0,0,Vandalism,Medium,Glasgow,Motorcycle,settled,Major,Female,Unemployed,Unknown,No Injury
+2160,0,0,70,1,4744,48,51,2,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+5534,0,1,77,1,11983,55,285,0,0,0,Collision,High,Leeds,SUV,settled,Moderate,Male,Retired,Unknown,No Injury
+1835,0,0,19,8,9296,1,42,0,2,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+1210,0,0,78,0,1355,60,44,1,0,0,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+55102,1,1,46,7,13894,28,147,1,0,0,Fire,Medium,Bristol,SUV,settled,Moderate,Female,Unemployed,Passenger,Minor
+111059,0,0,32,12,7696,11,198,0,0,1,Fire,Medium,Manchester,SUV,settled,Major,Female,Employed,Unknown,No Injury
+2822,0,0,78,20,16793,57,73,4,0,1,Collision,Low,London,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+1665,0,0,79,12,11161,57,69,1,0,1,Collision,Low,Bristol,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+2766,0,0,75,6,13191,53,86,0,0,0,Collision,Low,London,Van,settled,Minor,Male,Retired,Unknown,No Injury
+3212,0,0,58,14,11716,37,76,0,0,1,Weather,Low,Cardiff,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+43332,0,1,72,12,17238,53,130,0,0,1,Collision,Medium,Manchester,SUV,settled,Severe,Male,Retired,Unknown,No Injury
+2360,0,0,56,4,8100,37,80,0,0,0,Weather,Low,Newcastle,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+1772,0,0,79,7,15207,58,54,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Unemployed,Unknown,No Injury
+5397,0,0,68,8,7662,47,74,0,0,0,Collision,Medium,Birmingham,SUV,settled,Moderate,Male,Retired,Unknown,No Injury
+4326,0,0,55,15,15922,33,79,0,0,1,Other,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Pedestrian,Minor
+24256,0,0,65,7,9757,47,131,2,0,0,Collision,Medium,Birmingham,Coupe,settled,Major,Female,Retired,Pedestrian,Minor
+6805,0,1,31,20,14650,12,73,1,0,1,Other,Low,Liverpool,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+3098,0,0,30,14,8518,10,34,0,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2244,0,0,23,10,9066,4,31,0,2,0,Collision,Low,Manchester,Coupe,settled,Minor,Male,Self-Employed,Unknown,No Injury
+4276,0,0,71,17,8914,53,74,3,0,1,Collision,Low,Manchester,Coupe,settled,Moderate,Female,Retired,Unknown,No Injury
+1433,0,0,45,2,14113,23,76,0,0,0,Collision,Medium,Bristol,Van,settled,Minor,Female,Employed,Unknown,No Injury
+7807,0,0,39,0,12253,21,53,0,0,0,Weather,Low,Liverpool,Coupe,settled,Moderate,Male,Self-Employed,Pedestrian,Minor
+35494,0,1,73,4,15441,53,125,5,0,0,Collision,Medium,Glasgow,Sedan,settled,Severe,Male,Retired,Unknown,No Injury
+14042,0,0,25,8,11518,6,77,1,0,0,Collision,Medium,Newcastle,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+2421,0,0,63,0,12852,41,40,1,0,0,Weather,Low,Birmingham,Sedan,settled,Minor,Female,Unemployed,Unknown,No Injury
+11353,0,0,40,19,16059,20,49,0,0,1,Theft,Low,Liverpool,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+1758,0,0,78,3,15169,56,37,2,0,0,Collision,Low,Edinburgh,Van,settled,Minor,Male,Retired,Unknown,No Injury
+7352,0,0,34,4,12811,16,77,0,0,0,Collision,Low,Glasgow,SUV,settled,Moderate,Female,Student,Unknown,No Injury
+36653,0,0,55,13,16647,37,75,1,0,1,Fire,Low,Birmingham,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+1798,0,0,23,3,2849,3,42,0,2,0,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Employed,Passenger,Minor
+5469,0,1,31,5,8298,13,46,1,0,0,Weather,Low,Newcastle,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+1529,0,1,43,11,14088,21,81,7,0,1,Vandalism,Low,Cardiff,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+5379,0,0,53,2,12360,31,96,2,0,0,Collision,Low,Bristol,Coupe,settled,Moderate,Female,Retired,Unknown,No Injury
+6199,0,0,70,2,12125,48,102,0,0,0,Collision,Low,Edinburgh,SUV,settled,Major,Female,Retired,Pedestrian,Minor
+1752,0,0,74,14,11121,53,47,1,0,1,Collision,Low,Manchester,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+6426,0,0,72,15,10745,50,-1206,1,0,1,Weather,Low,Leeds,Sedan,open,Moderate,Female,Retired,Unknown,No Injury
+2077,0,0,73,10,15104,53,71,2,0,0,Collision,Low,Glasgow,Van,settled,Minor,Female,Retired,Unknown,No Injury
+1934,0,0,67,2,16336,46,39,2,0,0,Collision,Low,Cardiff,Coupe,settled,Minor,Male,Retired,Driver,Minor
+45573,0,0,61,9,22534,39,100,0,0,0,Collision,Medium,Birmingham,Sedan,settled,Severe,Female,Retired,Unknown,No Injury
+1542,0,0,23,17,6424,5,80,0,1,1,Vandalism,Low,Leeds,Sedan,settled,Minor,Female,Student,Driver,Minor
+2343,0,0,58,19,9709,38,31,0,0,1,Other,Low,London,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+5943,0,0,65,6,9207,47,67,0,0,0,Theft,Low,Birmingham,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+4419,0,0,75,14,9122,56,82,3,0,1,Theft,Low,Newcastle,Coupe,settled,Minor,Female,Retired,Unknown,No Injury
+31423,0,0,41,8,8500,19,178,6,0,0,Collision,Medium,Cardiff,Motorcycle,settled,Severe,Female,Self-Employed,Unknown,No Injury
+1669,0,0,57,8,6634,35,72,0,0,0,Collision,Low,Cardiff,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+13726,0,0,70,16,22267,50,48,1,0,1,Theft,Low,Bristol,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+3653,1,0,60,0,15979,41,68,1,0,0,Vandalism,Low,Manchester,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+8323,0,0,57,4,12437,36,69,0,0,0,Weather,Low,London,Coupe,settled,Moderate,Female,Employed,Driver,Minor
+63509,0,1,30,4,17178,11,41,1,0,0,Weather,Low,Newcastle,Hatchback,settled,Severe,Female,Student,Passenger,Minor
+12288,0,0,72,2,14156,52,101,6,0,0,Weather,Low,Birmingham,Hatchback,settled,Moderate,Female,Retired,Unknown,No Injury
+2342,0,0,53,11,14427,32,645,0,0,1,Collision,Low,Newcastle,Sedan,open,Minor,Male,Employed,Unknown,No Injury
+183754,1,1,53,19,13444,35,582,3,0,1,Other,High,Glasgow,Sedan,settled,Catastrophic,Female,Self-Employed,Unknown,No Injury
+33664,0,0,49,5,6423,28,154,0,0,0,Theft,Medium,Leeds,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+5283,0,0,46,15,19064,24,76,0,0,1,Theft,Low,Glasgow,Van,settled,Minor,Male,Employed,Unknown,No Injury
+1706,0,0,38,12,2933,19,48,0,0,1,Collision,Low,Glasgow,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+3192,0,0,27,17,10410,7,229,0,0,1,Collision,Low,Leeds,Sedan,open,Minor,Male,Unemployed,Passenger,Minor
+6033,0,0,51,2,16148,30,493,0,0,0,Collision,High,Glasgow,Coupe,settled,Moderate,Male,Retired,Pedestrian,Fatal
+2398,0,0,63,11,12674,43,36,1,0,1,Weather,Low,Newcastle,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+7780,0,0,24,5,14351,3,533,0,2,0,Weather,High,Newcastle,Motorcycle,settled,Moderate,Male,Employed,Unknown,No Injury
+3156,0,0,55,13,16647,37,179,1,0,1,Weather,Medium,Birmingham,Sedan,settled,Minor,Male,Self-Employed,Passenger,Minor
+2169,0,0,20,11,13941,0,58,0,2,1,Collision,Low,Birmingham,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+2609,0,0,69,4,12318,48,66,0,0,0,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+12777,0,0,44,14,15772,24,-1160,0,0,1,Fire,Low,Birmingham,Hatchback,open,Minor,Male,Student,Unknown,No Injury
+46551,0,0,46,4,17415,25,137,4,0,0,Collision,Medium,London,Sedan,settled,Severe,Male,Self-Employed,Driver,Minor
+1575,0,0,48,12,12218,30,50,0,0,1,Vandalism,Low,Cardiff,SUV,settled,Minor,Female,Unemployed,Unknown,No Injury
+1907,0,0,55,9,17380,37,36,2,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1558,0,0,44,11,10443,22,1696,1,0,1,Collision,Low,London,Van,open,Minor,Female,Employed,Unknown,No Injury
+2110,0,0,65,13,8260,43,73,0,0,1,Collision,Low,London,SUV,settled,Minor,Male,Retired,Driver,Minor
+2373,0,0,32,0,9592,14,33,1,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+2044,0,0,43,13,11298,21,61,0,0,1,Other,Medium,London,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+1230,0,1,79,0,10320,60,31,0,0,0,Vandalism,Low,Cardiff,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+4265,0,0,33,12,9010,11,48,3,0,1,Theft,Low,Glasgow,Coupe,settled,Minor,Female,Unemployed,Passenger,Minor
+4514,0,0,42,2,11821,20,55,2,0,0,Collision,Low,London,Sedan,settled,Moderate,Female,Self-Employed,Passenger,Minor
+3734,0,0,69,20,9036,49,74,0,0,1,Collision,Low,Birmingham,Motorcycle,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+11178,0,0,36,4,14617,15,43,3,0,0,Collision,Low,Leeds,SUV,settled,Major,Female,Employed,Unknown,No Injury
+11423,0,0,48,3,12883,29,159,0,0,0,Collision,Medium,Edinburgh,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+12340,0,0,72,3,6129,51,136,0,0,0,Fire,Medium,Cardiff,Sedan,settled,Minor,Female,Employed,Driver,Serious
+13085,0,0,24,19,7889,3,61,1,2,1,Theft,Low,Cardiff,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+13040,0,0,49,0,13034,27,257,0,0,0,Collision,High,Edinburgh,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+4077,0,0,18,9,17936,0,66,0,2,0,Collision,Low,Glasgow,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+1638,0,0,57,15,4754,36,75,1,0,1,Collision,Low,Cardiff,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1778,0,0,64,17,11066,45,115,0,0,1,Vandalism,Medium,Leeds,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+2269,0,0,73,8,17962,55,311,2,0,0,Collision,Low,Birmingham,Sedan,open,Minor,Male,Unemployed,Unknown,No Injury
+4598,0,1,70,1,12202,50,172,0,0,0,Collision,Medium,Birmingham,Van,settled,Moderate,Female,Retired,Unknown,No Injury
+2297,0,0,53,11,14427,32,86,1,0,1,Collision,Medium,Newcastle,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+1698,0,0,22,1,8790,2,1184,3,2,0,Collision,Low,Edinburgh,Motorcycle,open,Minor,Male,Employed,Unknown,No Injury
+2004,0,0,75,2,13738,56,74,0,0,0,Collision,Low,Manchester,SUV,settled,Minor,Female,Retired,Passenger,Fatal
+23040,0,0,67,0,10314,49,438,1,0,0,Fire,High,Newcastle,Van,settled,Moderate,Female,Retired,Driver,Serious
+32981,0,1,63,15,10944,43,124,0,0,1,Collision,Medium,Newcastle,Hatchback,settled,Severe,Female,Self-Employed,Unknown,No Injury
+1835,0,0,78,19,9208,59,48,6,0,1,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Retired,Driver,Serious
+2628,0,0,19,0,8658,0,50,6,2,0,Collision,Low,Cardiff,Hatchback,settled,Minor,Female,Student,Driver,Minor
+1645,0,0,32,7,19628,13,148,5,0,0,Collision,High,London,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+2449,0,0,75,3,9613,55,78,0,0,0,Collision,Low,Bristol,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+7111,0,0,56,7,8515,34,154,0,0,0,Vandalism,Medium,Birmingham,Van,settled,Major,Female,Unemployed,Unknown,No Injury
+217431,0,0,53,3,11743,33,230,0,0,0,Weather,Medium,London,Hatchback,settled,Catastrophic,Male,Unemployed,Unknown,No Injury
+1693,0,1,77,19,9755,59,78,3,0,1,Collision,Low,Cardiff,Hatchback,settled,Minor,Male,Unemployed,Passenger,Minor
+4682,0,0,50,19,9752,32,157,1,0,1,Collision,Medium,Bristol,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+1743,1,0,78,7,15637,58,112,5,0,0,Collision,Medium,Birmingham,SUV,open,Minor,Male,Retired,Unknown,No Injury
+69247,0,0,42,6,9296,20,421,4,0,0,Weather,High,Manchester,Sedan,settled,Severe,Female,Employed,Unknown,No Injury
+1287,1,0,47,3,10483,27,55,0,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Female,Employed,Passenger,Minor
+8234,0,0,64,11,12341,42,94,7,0,1,Collision,Medium,Glasgow,Sedan,settled,Major,Female,Employed,Driver,Minor
+61921,0,1,55,2,13595,37,390,0,0,0,Vandalism,High,Cardiff,Hatchback,settled,Catastrophic,Male,Employed,Passenger,Minor
+2392,0,0,58,19,9709,38,52,3,0,1,Collision,Low,London,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+1612,0,0,70,15,10494,51,208,7,0,1,Collision,High,Edinburgh,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+37928,1,0,40,1,6961,18,300,2,0,0,Collision,High,Bristol,Van,settled,Severe,Male,Unemployed,Unknown,No Injury
+931,0,0,33,13,14853,13,58,0,0,1,Vandalism,Low,Manchester,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+52874,0,0,29,5,15559,8,186,0,0,0,Collision,Medium,Cardiff,Van,settled,Severe,Male,Student,Unknown,No Injury
+2048,0,0,59,14,8203,40,91,2,0,1,Collision,Low,Edinburgh,Coupe,settled,Minor,Female,Self-Employed,Passenger,Minor
+1616,0,0,39,12,10786,17,83,2,0,1,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2013,0,0,71,12,17786,52,83,2,0,1,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+5631,0,0,55,2,7997,33,91,5,0,0,Theft,Low,London,Sedan,settled,Minor,Male,Employed,Passenger,Serious
+6901,0,0,44,5,13284,22,71,2,0,0,Weather,Low,Edinburgh,SUV,settled,Moderate,Female,Unemployed,Unknown,No Injury
+9953,0,0,19,14,20072,0,126,0,2,1,Weather,Medium,Edinburgh,Sedan,settled,Moderate,Female,Student,Passenger,Minor
+5467,0,0,68,0,12833,50,178,3,0,0,Collision,Medium,Birmingham,Van,settled,Moderate,Male,Retired,Unknown,No Injury
+4773,0,0,58,6,11510,38,208,1,0,0,Collision,High,Cardiff,Sedan,settled,Moderate,Female,Unemployed,Unknown,No Injury
+5037,0,0,48,1,11398,30,57,6,0,0,Collision,Low,Cardiff,Coupe,settled,Moderate,Male,Employed,Passenger,Minor
+4115,0,0,62,2,19390,41,49,1,0,0,Collision,Low,Edinburgh,Sedan,settled,Moderate,Female,Employed,Passenger,Minor
+5684,0,1,27,15,6649,5,68,2,0,1,Collision,Low,Bristol,Motorcycle,settled,Moderate,Female,Self-Employed,Driver,Minor
+4681,1,0,49,14,20844,31,250,1,0,1,Collision,High,Bristol,Motorcycle,settled,Moderate,Female,Employed,Passenger,Minor
+24667,0,0,53,18,14678,32,149,1,0,1,Vandalism,Medium,Cardiff,Van,settled,Severe,Female,Retired,Driver,Minor
+3139,0,0,32,9,12924,11,62,6,0,0,Weather,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+27971,0,0,34,7,7518,14,89,1,0,0,Fire,Low,London,Van,settled,Moderate,Female,Unemployed,Unknown,No Injury
+12641,0,0,33,2,7843,13,87,2,0,0,Other,Low,Bristol,SUV,settled,Major,Male,Employed,Unknown,No Injury
+44578,0,1,60,13,6141,41,103,0,0,1,Collision,Low,Leeds,Coupe,settled,Severe,Female,Self-Employed,Unknown,No Injury
+9005,0,0,75,19,1180,53,82,1,0,1,Collision,Low,Liverpool,Hatchback,settled,Major,Female,Retired,Unknown,No Injury
+1627,0,0,23,13,17565,1,141,2,2,1,Collision,Medium,Cardiff,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+2590,0,0,66,13,10089,44,1217,1,0,1,Collision,High,London,Coupe,open,Minor,Female,Unemployed,Unknown,No Injury
+1510,0,0,77,11,14399,57,56,0,0,1,Collision,Low,London,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+2339,0,0,74,12,12428,53,43,1,0,1,Collision,Low,Edinburgh,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+4382,0,0,56,17,13170,34,82,3,0,1,Collision,Low,Leeds,Coupe,settled,Moderate,Female,Employed,Unknown,No Injury
+27254,0,0,64,4,13677,46,73,3,0,0,Theft,Medium,Leeds,Hatchback,settled,Major,Male,Self-Employed,Passenger,Minor
+2470,0,0,41,10,9478,22,69,1,0,0,Collision,Low,Bristol,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1303,0,0,34,3,7568,13,55,2,0,0,Vandalism,Low,Cardiff,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+4681,1,0,49,14,20844,31,250,1,0,1,Collision,High,Bristol,Motorcycle,settled,Moderate,Female,Employed,Driver,Minor
+7886,0,0,37,18,11965,16,43,2,0,1,Weather,Low,Cardiff,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+3851,0,1,24,3,13018,3,69,6,2,0,Weather,Low,Birmingham,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+992,0,0,32,17,15912,11,199,0,0,1,Vandalism,High,Edinburgh,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+5197,0,0,51,2,8273,29,110,7,0,0,Collision,Medium,Liverpool,Hatchback,settled,Moderate,Female,Retired,Unknown,No Injury
+2931,0,0,78,1,13568,58,51,2,0,0,Collision,Low,Liverpool,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+1201,0,0,60,11,8050,39,38,1,0,1,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+13096,0,0,21,10,3599,3,151,5,2,0,Collision,Medium,Glasgow,Hatchback,settled,Major,Female,Employed,Pedestrian,Minor
+2594,0,0,31,5,12763,12,52,3,0,0,Weather,Low,Glasgow,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+3222,0,0,26,3,15785,6,37,0,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Driver,Serious
+977,0,1,53,17,17438,35,53,3,0,1,Vandalism,Low,Bristol,Sedan,settled,Minor,Female,Employed,Passenger,Minor
+1770,0,0,37,9,15281,16,42,5,0,0,Vandalism,Low,Leeds,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+1827,0,0,60,17,12104,42,69,1,0,1,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+13047,0,0,48,15,14057,29,133,0,0,1,Collision,Medium,Edinburgh,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+2015,0,0,66,9,11428,48,85,5,0,0,Collision,Low,Manchester,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+2273,0,0,39,14,16104,18,77,1,0,1,Collision,Low,Bristol,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1881,0,0,73,8,16129,52,70,0,0,0,Collision,Low,Cardiff,Coupe,settled,Minor,Female,Retired,Unknown,No Injury
+1751,0,0,69,0,12440,50,68,0,0,0,Vandalism,Low,Bristol,SUV,settled,Minor,Male,Unemployed,Driver,Minor
+2231,0,0,69,16,8570,48,50,0,0,1,Other,Low,Birmingham,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+5882,0,0,39,18,15014,17,109,1,0,1,Vandalism,Low,London,Hatchback,settled,Major,Female,Employed,Passenger,Minor
+47517,0,1,61,10,8719,39,181,0,0,0,Collision,High,Newcastle,Van,settled,Severe,Male,Employed,Unknown,No Injury
+5478,0,0,78,18,8602,58,69,2,0,1,Collision,Low,Manchester,SUV,settled,Moderate,Female,Retired,Pedestrian,Minor
+11839,0,0,20,18,13810,0,-1235,3,2,1,Collision,Medium,Leeds,Hatchback,open,Major,Female,Student,Unknown,No Injury
+10262,0,0,42,2,12134,23,82,0,0,0,Collision,Low,Newcastle,SUV,settled,Major,Male,Employed,Unknown,No Injury
+7945,0,0,72,20,11310,54,82,3,0,1,Other,Medium,Glasgow,Hatchback,settled,Major,Female,Retired,Unknown,No Injury
+5321,0,1,70,6,10249,52,473,0,0,0,Weather,High,Leeds,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+1163,0,0,49,16,14155,30,105,30,0,1,Vandalism,Low,London,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+3085,0,0,59,5,12380,38,37,0,0,0,Collision,Low,London,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+5367,0,0,42,0,10785,24,48,3,0,0,Theft,Low,Edinburgh,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+74289,0,0,47,5,13278,25,98,0,0,0,Fire,Low,Edinburgh,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+3419,0,0,55,0,21112,35,70,1,0,0,Collision,Low,Newcastle,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+12639,0,0,48,3,12754,26,93,3,0,0,Weather,Low,Cardiff,Van,settled,Moderate,Female,Self-Employed,Driver,Serious
+8820,0,0,38,12,16959,18,90,2,0,1,Fire,Low,Manchester,Motorcycle,settled,Minor,Male,Employed,Driver,Minor
+8069,0,0,29,11,7630,7,86,0,0,1,Fire,Low,Leeds,SUV,settled,Minor,Female,Unemployed,Unknown,No Injury
+1517,0,0,51,20,12394,33,47,2,0,1,Collision,Low,Leeds,Hatchback,settled,Minor,Male,Self-Employed,Pedestrian,Serious
+1599,0,0,34,7,9875,12,82,1,0,0,Collision,Medium,Manchester,Van,settled,Minor,Female,Employed,Unknown,No Injury
+13113,0,0,39,9,16907,18,-925,4,0,0,Fire,Low,Leeds,Coupe,open,Minor,Female,Employed,Unknown,No Injury
+11569,0,0,53,1,16546,33,79,6,0,0,Collision,Low,Leeds,SUV,settled,Major,Male,Employed,Unknown,No Injury
+5477,0,0,57,20,6514,36,63,2,0,1,Collision,Low,Liverpool,SUV,settled,Moderate,Female,Unemployed,Passenger,Minor
+1322,0,0,28,9,6317,10,37,5,0,0,Collision,Low,Newcastle,Motorcycle,settled,Minor,Female,Employed,Unknown,No Injury
+2665,0,0,42,15,12920,23,71,1,0,1,Vandalism,Low,Glasgow,Hatchback,settled,Moderate,Male,Employed,Driver,Serious
+2029,0,0,35,5,17609,17,73,1,0,0,Collision,Medium,Glasgow,Motorcycle,settled,Minor,Male,Student,Unknown,No Injury
+775,0,0,30,0,2164,10,37,0,0,0,Vandalism,Low,Leeds,Van,settled,Minor,Male,Employed,Unknown,No Injury
+24780,0,0,41,18,12533,21,87,0,0,1,Fire,Medium,Newcastle,Van,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+12037,0,0,65,3,15426,46,135,6,0,0,Collision,Medium,Newcastle,Sedan,settled,Major,Male,Retired,Passenger,Minor
+6172,0,1,30,1,12748,9,51,4,0,0,Collision,Low,Birmingham,SUV,settled,Moderate,Female,Unemployed,Driver,Minor
+16882,0,0,65,4,14749,45,241,5,0,0,Vandalism,High,Cardiff,Coupe,settled,Severe,Male,Retired,Unknown,No Injury
+5651,0,0,48,14,10212,28,58,0,0,1,Collision,Low,Glasgow,Coupe,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+2255,0,1,46,20,16142,27,47,0,0,1,Other,Low,Manchester,Van,settled,Minor,Female,Employed,Unknown,No Injury
+4711,0,0,41,12,13478,22,81,0,0,1,Theft,Low,Leeds,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+67368,0,0,36,7,12459,16,470,1,0,0,Weather,High,Cardiff,Sedan,settled,Severe,Female,Unemployed,Unknown,No Injury
+1886,0,0,56,1,13763,36,62,0,0,0,Collision,Low,Newcastle,Van,settled,Minor,Male,Self-Employed,Unknown,No Injury
+18286,0,0,28,11,11033,7,100,2,0,1,Collision,Medium,London,SUV,settled,Major,Male,Employed,Unknown,No Injury
+1721,0,0,69,12,16258,50,85,0,0,1,Collision,Low,Bristol,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+1878,0,0,47,10,10427,26,149,0,0,0,Vandalism,Medium,Leeds,Sedan,settled,Minor,Male,Self-Employed,Driver,Minor
+14079,0,0,43,5,5489,25,146,0,0,0,Collision,Medium,Glasgow,SUV,settled,Major,Female,Self-Employed,Pedestrian,Minor
+39397,0,0,65,8,14463,47,152,4,0,0,Theft,Medium,Birmingham,Coupe,settled,Major,Male,Retired,Passenger,Fatal
+1638,0,0,75,12,6815,55,83,0,0,1,Weather,Low,Manchester,Hatchback,settled,Minor,Female,Retired,Pedestrian,Minor
+6861,0,0,66,16,11671,45,81,0,0,1,Vandalism,Low,Manchester,Sedan,settled,Major,Male,Retired,Unknown,No Injury
+1691,0,0,36,15,16950,16,48,1,0,1,Collision,Low,Leeds,Van,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1808,0,0,26,14,17642,4,57,0,1,1,Collision,Low,Leeds,SUV,settled,Minor,Male,Employed,Pedestrian,Minor
+1934,0,0,45,2,16852,25,85,6,0,0,Collision,Low,Bristol,Van,settled,Minor,Male,Employed,Pedestrian,Minor
+2193,0,1,55,6,11703,35,75,0,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Male,Unemployed,Unknown,No Injury
+64432,0,0,61,0,21801,43,115,0,0,0,Weather,Medium,Glasgow,Hatchback,settled,Severe,Male,Employed,Pedestrian,Minor
+12668,0,0,33,18,7341,11,65,2,0,1,Collision,Low,Edinburgh,Coupe,settled,Major,Male,Employed,Unknown,No Injury
+2570,0,0,44,5,10129,24,96,0,0,0,Vandalism,Low,Liverpool,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+1255,0,0,35,12,12357,16,44,0,0,1,Collision,Low,London,Coupe,settled,Minor,Female,Employed,Passenger,Minor
+5720,1,0,48,18,9367,26,50,0,0,1,Vandalism,Low,London,Hatchback,settled,Major,Female,Self-Employed,Unknown,No Injury
+2658,0,0,24,14,10062,6,82,6,1,1,Weather,Medium,Edinburgh,SUV,settled,Minor,Female,Unemployed,Unknown,No Injury
+3126,0,0,49,12,16092,28,50,1,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+43036,0,1,57,18,4914,39,56,4,0,1,Theft,Low,Glasgow,SUV,settled,Major,Male,Retired,Unknown,No Injury
+17696,0,0,55,6,12625,37,65,1,0,0,Theft,Medium,Leeds,Van,settled,Moderate,Female,Employed,Unknown,No Injury
+2252,0,0,44,11,2320,23,77,30,0,1,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+72313,0,0,79,4,10993,60,534,0,0,0,Theft,High,Glasgow,Sedan,settled,Severe,Female,Self-Employed,Unknown,No Injury
+4877,0,0,38,5,10875,19,71,0,0,0,Theft,Low,Bristol,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+2317,0,0,46,5,10815,25,62,3,0,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+1962,0,0,77,20,12740,59,88,2,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+2965,0,0,27,18,14718,7,36,0,0,1,Weather,Low,London,Motorcycle,settled,Minor,Female,Employed,Unknown,No Injury
+2063,0,0,46,19,16291,24,593,2,0,1,Other,Low,Liverpool,Hatchback,open,Minor,Female,Self-Employed,Passenger,Minor
+1178,0,0,29,14,14319,7,67,0,0,1,Vandalism,Low,Newcastle,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+14807,0,0,62,18,9884,42,526,1,0,1,Theft,High,Bristol,Coupe,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+2139,0,0,78,20,12874,58,363,0,0,1,Vandalism,High,Bristol,Sedan,settled,Moderate,Male,Retired,Driver,Minor
+4063,0,0,78,12,8515,60,175,4,0,1,Collision,Medium,Liverpool,Coupe,settled,Moderate,Male,Retired,Unknown,No Injury
+34829,0,0,64,4,13677,46,140,0,0,0,Fire,Medium,Leeds,Hatchback,settled,Moderate,Male,Self-Employed,Pedestrian,Minor
+2695,0,0,66,20,7293,46,85,2,0,1,Collision,Low,Cardiff,Hatchback,settled,Moderate,Female,Retired,Unknown,No Injury
+2492,0,0,42,8,16770,22,71,0,0,0,Collision,Low,Manchester,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+156698,0,0,73,10,8759,51,339,4,0,0,Collision,High,Edinburgh,Coupe,settled,Catastrophic,Male,Retired,Driver,Minor
+41031,0,0,64,11,14593,44,106,0,0,1,Collision,Medium,Glasgow,Van,settled,Severe,Female,Self-Employed,Unknown,No Injury
+5048,0,0,49,6,4883,28,69,1,0,0,Weather,Low,Leeds,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+5625,0,0,67,14,17086,45,84,0,0,1,Collision,Low,Manchester,Sedan,settled,Moderate,Female,Retired,Driver,Minor
+16646,0,0,37,13,10330,16,59,3,0,1,Fire,Low,London,Van,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2634,0,1,44,9,11790,25,88,1,0,0,Collision,Low,Manchester,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+33859,0,0,37,4,17981,18,189,0,0,0,Theft,Medium,Edinburgh,Van,settled,Major,Female,Employed,Pedestrian,Minor
+8698,0,0,76,13,11244,55,112,3,0,1,Other,Medium,Glasgow,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+28962,0,0,39,10,8445,17,484,4,0,0,Weather,High,Edinburgh,Van,settled,Major,Male,Employed,Unknown,No Injury
+63300,0,0,49,11,6749,27,72,1,0,1,Weather,Medium,Cardiff,Sedan,settled,Severe,Male,Self-Employed,Unknown,No Injury
+38617,0,0,69,1,10090,51,194,0,0,0,Collision,Medium,Birmingham,Van,settled,Severe,Female,Retired,Unknown,No Injury
+39454,0,0,50,13,12380,28,105,2,0,1,Collision,Medium,Glasgow,Sedan,settled,Severe,Male,Self-Employed,Unknown,No Injury
+2861,0,0,21,7,15629,0,51,1,2,0,Collision,Low,Bristol,Coupe,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+1520,0,0,31,5,4814,9,59,1,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+7686,0,0,31,0,20227,13,267,0,0,0,Weather,High,Glasgow,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+6905,0,0,31,17,11875,9,79,5,0,1,Collision,Low,Cardiff,Hatchback,settled,Moderate,Male,Self-Employed,Driver,Minor
+16475,0,0,75,9,12417,54,54,0,0,0,Fire,Low,Newcastle,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+2804,0,0,56,1,9307,37,86,1,0,0,Collision,Low,Manchester,SUV,settled,Minor,Female,Unemployed,Unknown,No Injury
+3237,0,0,24,13,8363,6,38,1,1,1,Weather,Low,Leeds,Sedan,settled,Minor,Male,Employed,Driver,Minor
+1988,0,0,36,4,4909,15,41,2,0,0,Collision,Low,Leeds,SUV,settled,Minor,Male,Self-Employed,Passenger,Minor
+23558,0,0,79,10,14446,60,97,0,0,0,Other,Medium,Newcastle,Van,settled,Major,Male,Unemployed,Unknown,No Injury
+11225,0,0,43,4,12184,23,76,1,0,0,Fire,Low,Liverpool,Hatchback,settled,Minor,Male,Unemployed,Unknown,No Injury
+1725,0,0,62,19,10382,41,51,0,0,1,Vandalism,Low,Liverpool,Coupe,settled,Minor,Female,Self-Employed,Unknown,No Injury
+5946,0,1,27,4,10245,5,33,2,0,0,Weather,Low,Leeds,Coupe,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+2233,0,0,62,19,10585,41,59,1,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Female,Retired,Pedestrian,Serious
+4507,0,0,59,7,14060,37,56,1,0,0,Weather,Low,Manchester,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+1484,0,0,29,6,14789,8,183,3,0,0,Vandalism,Medium,Newcastle,Sedan,settled,Minor,Male,Employed,Pedestrian,Serious
+4606,0,0,76,17,18109,55,41,1,0,1,Collision,Low,Liverpool,Motorcycle,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+65807,0,0,21,18,8734,0,160,2,2,1,Fire,Medium,Cardiff,Hatchback,settled,Major,Male,Unemployed,Unknown,No Injury
+1491,0,0,21,12,13561,3,79,0,2,1,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+2179,0,0,70,19,6647,49,63,0,0,1,Collision,Low,Newcastle,Coupe,settled,Minor,Female,Retired,Driver,Minor
+4220,0,0,38,19,10442,18,167,0,0,1,Theft,Medium,Cardiff,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+984,0,0,72,3,9700,53,64,2,0,0,Vandalism,Low,Newcastle,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+1779,0,0,44,12,8684,25,35,0,0,1,Collision,Low,Birmingham,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+5992,0,1,78,5,4372,56,2395,1,0,0,Collision,Medium,Glasgow,SUV,open,Moderate,Male,Retired,Pedestrian,Minor
+2687,0,0,35,17,8292,17,76,5,0,1,Other,Low,Newcastle,Van,settled,Minor,Male,Self-Employed,Unknown,No Injury
+4013,0,0,69,19,13483,51,180,0,0,1,Weather,Medium,Bristol,Sedan,settled,Minor,Male,Retired,Driver,Minor
+2871,0,0,52,16,13298,34,41,0,0,1,Weather,Low,Manchester,Hatchback,settled,Minor,Male,Self-Employed,Passenger,Minor
+9052,0,0,26,18,10362,8,129,0,0,1,Collision,Medium,Liverpool,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+2637,0,0,51,2,8273,29,39,0,0,0,Collision,Low,Liverpool,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+165086,0,1,57,13,14731,38,-750,1,0,1,Collision,Medium,Bristol,Coupe,open,Catastrophic,Male,Employed,Unknown,No Injury
+5163,0,0,35,4,14077,17,100,2,0,0,Theft,Medium,London,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+7367,0,0,24,0,7725,5,99,5,1,0,Theft,Medium,Manchester,Sedan,settled,Minor,Male,Employed,Passenger,Minor
+1980,0,0,53,8,10578,32,76,0,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Male,Retired,Pedestrian,Minor
+61279,0,0,24,0,12800,2,175,2,2,0,Weather,Medium,Glasgow,Hatchback,settled,Severe,Female,Employed,Pedestrian,Minor
+2383,0,0,64,3,7650,44,34,0,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2628,0,0,65,1,9113,46,70,0,0,0,Vandalism,Low,Leeds,Van,settled,Moderate,Female,Retired,Driver,Serious
+3024,0,0,31,3,10832,9,327,1,0,0,Collision,High,Glasgow,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+1435,0,0,24,17,15017,4,81,4,2,1,Vandalism,Low,Birmingham,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+6242,0,0,69,18,17073,51,135,2,0,1,Weather,Medium,Newcastle,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+3763,0,0,26,3,18613,6,-605,7,0,0,Vandalism,High,Cardiff,Coupe,open,Moderate,Male,Employed,Unknown,No Injury
+9936,0,0,72,0,13806,53,33,0,0,0,Theft,Low,Bristol,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+4314,0,0,68,17,12790,49,63,5,0,1,Theft,Low,London,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+2139,0,0,78,20,12874,58,363,0,0,1,Vandalism,High,Bristol,Sedan,settled,Moderate,Male,Retired,Driver,Minor
+1673,0,0,74,12,14103,53,891,1,0,1,Collision,Low,Bristol,Van,open,Minor,Female,Retired,Unknown,No Injury
+11758,0,0,75,3,12681,56,111,3,0,0,Collision,Low,London,Sedan,settled,Major,Male,Retired,Unknown,No Injury
+17643,0,0,67,19,9812,48,53,6,0,1,Collision,Low,Newcastle,SUV,settled,Major,Male,Retired,Unknown,No Injury
+2268,0,0,28,19,12613,9,74,2,0,1,Weather,Low,Bristol,Van,settled,Minor,Female,Self-Employed,Unknown,No Injury
+55285,0,0,48,0,14026,26,536,0,0,0,Vandalism,High,Glasgow,Hatchback,settled,Catastrophic,Male,Student,Unknown,No Injury
+2386,0,0,31,4,12431,12,50,0,0,0,Collision,Low,Bristol,Coupe,settled,Minor,Female,Employed,Pedestrian,Minor
+1754,0,0,65,19,1919,46,72,2,0,1,Collision,Low,Liverpool,Motorcycle,settled,Minor,Female,Retired,Unknown,No Injury
+1854,0,0,40,7,10545,18,66,7,0,0,Collision,Low,Birmingham,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+1817,0,0,27,10,12517,7,64,3,0,0,Collision,Medium,Birmingham,Hatchback,settled,Minor,Female,Employed,Pedestrian,Minor
+5476,0,0,45,3,10731,26,91,2,0,0,Collision,Low,Leeds,Hatchback,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+2953,1,0,49,11,9233,30,83,0,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2580,0,1,25,17,4891,3,45,3,1,1,Collision,Low,Newcastle,SUV,settled,Minor,Male,Employed,Pedestrian,Minor
+996,0,0,65,6,14035,46,85,1,0,0,Vandalism,Low,Bristol,Van,settled,Minor,Male,Retired,Driver,Minor
+1659,0,0,75,13,7939,56,80,0,0,1,Collision,Low,Liverpool,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1111,0,0,58,0,11242,37,103,4,0,0,Collision,Medium,Manchester,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2462,0,1,23,13,15714,3,61,4,2,1,Collision,Low,Leeds,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+3511,0,0,46,16,12190,27,73,0,0,1,Weather,Low,Leeds,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+7011,0,0,77,12,17221,55,455,2,0,1,Weather,Low,Edinburgh,Van,open,Moderate,Female,Retired,Unknown,No Injury
+5876,0,0,42,16,14869,20,72,1,0,1,Collision,Low,Leeds,Hatchback,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+1939,0,0,53,1,7538,31,62,0,0,0,Other,Low,Glasgow,SUV,settled,Minor,Female,Retired,Passenger,Minor
+53316,0,0,74,17,16888,55,85,1,0,1,Fire,Low,Glasgow,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+14999,0,0,31,18,14306,11,85,6,0,1,Theft,Low,London,SUV,settled,Moderate,Male,Employed,Pedestrian,Minor
+32679,0,0,42,15,17762,22,-1036,2,0,1,Fire,High,Liverpool,Sedan,open,Moderate,Female,Employed,Passenger,Minor
+1941,0,0,36,6,10750,14,74,0,0,0,Other,Low,Newcastle,Van,settled,Minor,Female,Employed,Unknown,No Injury
+1984,0,0,25,20,9140,7,62,7,0,1,Collision,Low,Glasgow,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+5488,0,0,40,0,6331,18,95,6,0,0,Collision,Low,Glasgow,Van,settled,Moderate,Male,Employed,Passenger,Minor
+155661,0,0,30,15,18419,11,444,0,0,1,Weather,High,Bristol,Coupe,settled,Catastrophic,Female,Self-Employed,Unknown,No Injury
+2503,0,0,47,10,10682,26,52,0,0,0,Collision,Low,Birmingham,Hatchback,settled,Minor,Female,Unemployed,Unknown,No Injury
+37745,0,0,53,15,16942,32,91,1,0,1,Collision,Low,Leeds,Sedan,settled,Severe,Female,Retired,Pedestrian,Minor
+3411,0,0,57,20,6646,39,68,4,0,1,Weather,Low,Edinburgh,Van,settled,Minor,Female,Employed,Passenger,Minor
+19577,0,0,35,20,6450,14,98,0,0,1,Fire,Medium,Liverpool,Hatchback,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+14473,1,0,48,11,11454,27,57,6,0,1,Theft,Low,London,Sedan,settled,Moderate,Female,Unemployed,Passenger,Minor
+32787,0,0,74,6,12312,53,145,7,0,0,Weather,Medium,Glasgow,Hatchback,settled,Major,Male,Retired,Unknown,No Injury
+4716,0,0,61,6,16363,43,71,3,0,0,Theft,Low,Leeds,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2012,0,0,55,20,17166,33,81,0,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Male,Employed,Pedestrian,Minor
+5438,0,0,58,14,11716,37,74,1,0,1,Theft,Low,Cardiff,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2877,0,0,72,12,6462,53,52,0,0,1,Collision,Low,Manchester,Hatchback,settled,Moderate,Female,Retired,Pedestrian,Minor
+1969,0,0,29,14,11565,11,145,1,0,1,Collision,Medium,Glasgow,Hatchback,settled,Minor,Female,Self-Employed,Passenger,Minor
+4627,0,0,59,3,6256,40,149,2,0,0,Weather,Medium,Liverpool,Coupe,settled,Moderate,Female,Unemployed,Unknown,No Injury
+2460,0,0,73,10,9694,52,50,0,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+4588,0,0,69,19,11303,47,44,0,0,1,Collision,Low,Glasgow,Van,settled,Moderate,Female,Retired,Unknown,No Injury
+39068,0,0,20,13,5202,1,121,0,2,1,Collision,Medium,Edinburgh,Hatchback,settled,Severe,Male,Student,Unknown,No Injury
+2187,0,0,69,10,16376,49,93,3,0,0,Collision,Low,Cardiff,Hatchback,settled,Minor,Male,Retired,Driver,Minor
+2015,0,0,63,6,11135,45,74,0,0,0,Collision,Low,Birmingham,Van,settled,Minor,Female,Self-Employed,Unknown,No Injury
+6237,1,0,29,9,10742,7,98,1,0,0,Collision,Medium,Edinburgh,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+3821,0,0,19,17,9500,0,71,0,2,1,Weather,Low,London,Sedan,settled,Minor,Male,Student,Unknown,No Injury
+6971,0,0,38,6,6864,19,71,6,0,0,Collision,Low,Glasgow,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+1434,0,0,69,12,15783,49,40,3,0,1,Other,Low,Liverpool,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+51705,0,0,27,9,6408,8,227,4,0,0,Weather,High,London,SUV,settled,Severe,Female,Student,Unknown,No Injury
+17498,0,1,27,0,12254,6,172,2,0,0,Collision,Medium,London,Coupe,settled,Major,Female,Employed,Pedestrian,Serious
+64857,0,0,44,20,6074,26,134,2,0,1,Theft,Medium,Glasgow,Sedan,settled,Severe,Male,Employed,Driver,Minor
+2274,0,0,61,6,15624,40,46,0,0,0,Weather,Low,Manchester,Sedan,settled,Minor,Male,Unemployed,Unknown,No Injury
+68710,0,0,68,20,14171,49,42,1,0,1,Fire,Low,Manchester,Sedan,settled,Major,Male,Retired,Passenger,Serious
+5991,0,0,61,3,12291,39,61,4,0,0,Collision,Low,Edinburgh,SUV,settled,Moderate,Male,Employed,Pedestrian,Minor
+3480,0,0,28,13,13070,9,60,3,0,1,Collision,Low,Newcastle,SUV,settled,Moderate,Male,Unemployed,Passenger,Minor
+1933,0,0,22,5,16028,4,42,0,2,0,Collision,Low,Edinburgh,SUV,settled,Minor,Male,Student,Unknown,No Injury
+1526,0,0,73,10,15104,53,45,3,0,0,Collision,Low,Glasgow,Van,settled,Minor,Female,Retired,Pedestrian,Minor
+2220,0,0,53,11,8225,34,50,0,0,1,Collision,Low,Bristol,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+9124,0,0,60,1,10262,38,48,0,0,0,Theft,Low,Glasgow,Coupe,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+2869,0,0,27,13,2714,9,67,2,0,1,Vandalism,Medium,Edinburgh,Hatchback,settled,Moderate,Male,Employed,Driver,Minor
+1419,0,0,60,16,15131,38,90,0,0,1,Vandalism,Low,Glasgow,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+4357,0,0,35,13,9439,17,92,2,0,1,Collision,Low,Edinburgh,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+6440,0,0,30,3,10222,9,60,2,0,0,Collision,Low,Leeds,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+12905,0,0,78,19,12662,56,91,0,0,1,Other,Medium,Bristol,Hatchback,settled,Major,Male,Retired,Unknown,No Injury
+4003,0,0,77,5,19546,55,93,0,0,0,Collision,Low,Birmingham,SUV,settled,Moderate,Male,Retired,Passenger,Minor
+2604,0,0,31,18,14838,10,89,1,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Male,Self-Employed,Driver,Minor
+10072,0,0,27,15,8145,9,175,0,0,1,Vandalism,Medium,Glasgow,Coupe,settled,Major,Male,Employed,Unknown,No Injury
+1775,0,0,53,7,9228,35,37,7,0,0,Collision,Low,London,Van,settled,Minor,Male,Employed,Pedestrian,Minor
+2204,0,0,38,16,12112,19,34,0,0,1,Collision,Low,Manchester,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+14745,0,0,45,2,16852,25,135,3,0,0,Vandalism,Medium,Bristol,Van,settled,Severe,Male,Employed,Pedestrian,Minor
+64126,0,0,78,2,16668,57,86,0,0,0,Collision,Low,Manchester,Sedan,settled,Severe,Female,Retired,Unknown,No Injury
+2172,0,0,40,10,17747,20,143,0,0,0,Collision,Medium,Liverpool,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+5108,0,0,43,17,10945,22,85,0,0,1,Theft,Low,Liverpool,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+1368,0,0,29,7,13834,11,45,2,0,0,Vandalism,Low,Edinburgh,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+12297,0,0,69,19,11303,47,50,0,0,1,Theft,Low,Glasgow,Van,settled,Moderate,Female,Retired,Unknown,No Injury
+14273,0,0,30,10,9145,9,140,0,0,0,Collision,Medium,Newcastle,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+110156,0,0,33,16,16389,13,476,0,0,1,Collision,High,Manchester,Coupe,settled,Catastrophic,Female,Self-Employed,Pedestrian,Minor
+1403,0,0,35,12,16746,14,74,0,0,1,Collision,Low,Liverpool,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+9377,0,0,42,2,12134,23,40,1,0,0,Vandalism,Low,Newcastle,SUV,settled,Major,Male,Employed,Unknown,No Injury
+9234,0,0,61,0,21801,43,83,2,0,0,Collision,Low,Glasgow,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+6682,1,1,18,11,13504,0,767,0,2,1,Theft,Low,Birmingham,Sedan,open,Minor,Male,Employed,Unknown,No Injury
+3367,0,0,37,11,9945,19,71,1,0,1,Weather,Low,Cardiff,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+1402,0,0,72,16,12521,52,62,1,0,1,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Retired,Pedestrian,Minor
+6487,0,1,24,13,9907,3,88,2,2,1,Theft,Low,Edinburgh,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+12811,0,0,73,1,10056,51,47,0,0,0,Fire,Low,Newcastle,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1835,0,0,24,3,8595,2,60,0,2,0,Collision,Low,London,SUV,settled,Minor,Female,Self-Employed,Unknown,No Injury
+8589,0,0,42,20,16638,23,125,2,0,1,Collision,Medium,Cardiff,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+1861,0,1,64,17,4257,43,78,1,0,1,Collision,Low,Leeds,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+36212,0,0,41,18,10138,23,56,1,0,1,Fire,Low,Leeds,SUV,settled,Moderate,Female,Employed,Driver,Minor
+1471,0,0,32,16,13868,11,35,1,0,1,Collision,Low,Bristol,Motorcycle,settled,Minor,Female,Employed,Pedestrian,Minor
+17959,0,1,45,16,7368,24,65,2,0,1,Weather,Low,Leeds,Hatchback,settled,Major,Male,Unemployed,Unknown,No Injury
+8956,0,0,22,5,16028,4,79,5,2,0,Collision,Low,Edinburgh,SUV,settled,Moderate,Male,Student,Unknown,No Injury
+13871,0,0,30,11,17162,10,108,6,0,1,Weather,Low,Cardiff,SUV,settled,Major,Male,Employed,Unknown,No Injury
+1352,0,0,30,16,9942,12,78,0,0,1,Vandalism,Low,Bristol,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2612,0,0,68,16,13811,50,90,1,0,1,Collision,Low,Newcastle,Sedan,settled,Minor,Male,Retired,Passenger,Minor
+20426,0,0,68,5,15300,50,123,2,0,0,Weather,Medium,Cardiff,SUV,settled,Major,Female,Retired,Passenger,Minor
+1669,0,0,43,19,15422,24,67,0,0,1,Collision,Low,London,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+164200,0,0,72,16,12740,53,-1662,0,0,1,Other,Medium,Glasgow,Sedan,open,Catastrophic,Female,Retired,Unknown,No Injury
+5793,0,0,33,11,22533,12,-316,0,0,1,Collision,Low,Bristol,Hatchback,open,Moderate,Female,Self-Employed,Unknown,No Injury
+2121,1,0,26,16,12584,4,-1904,0,1,1,Collision,Low,Liverpool,SUV,open,Minor,Male,Employed,Unknown,No Injury
+17015,0,0,36,12,12935,15,90,4,0,1,Weather,Low,Newcastle,SUV,settled,Major,Male,Employed,Unknown,No Injury
+6183,0,0,18,18,14099,0,165,3,2,1,Weather,High,Manchester,Sedan,settled,Moderate,Male,Employed,Pedestrian,Minor
+1842,0,0,69,8,16566,50,90,4,0,0,Weather,Low,Leeds,Hatchback,settled,Minor,Male,Retired,Pedestrian,Minor
+2324,0,0,22,2,15227,2,71,0,2,0,Collision,Low,Liverpool,SUV,settled,Minor,Female,Student,Driver,Minor
+19192,0,0,39,6,9165,20,108,0,0,0,Other,Low,London,SUV,settled,Major,Male,Student,Pedestrian,Minor
+5111,0,0,46,9,16642,26,58,0,0,0,Collision,Low,Birmingham,SUV,settled,Moderate,Female,Student,Unknown,No Injury
+27553,0,0,79,11,12188,58,98,1,0,1,Vandalism,Medium,Liverpool,SUV,settled,Severe,Male,Retired,Unknown,No Injury
+1206,1,0,25,17,9747,4,592,2,1,1,Vandalism,Medium,Birmingham,Sedan,open,Minor,Male,Employed,Unknown,No Injury
+1506,0,0,32,6,9472,11,63,0,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2478,0,0,25,1,7413,7,83,0,0,0,Collision,Low,Edinburgh,Van,settled,Minor,Male,Unemployed,Passenger,Minor
+781,0,0,78,15,5311,60,45,3,0,1,Vandalism,Low,Birmingham,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+1314,0,0,39,17,14482,21,66,0,0,1,Vandalism,Low,London,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+3670,1,0,77,5,13142,57,96,0,0,0,Collision,Low,Bristol,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+9755,0,0,60,19,15810,40,193,0,0,1,Collision,Medium,Manchester,Coupe,settled,Major,Male,Retired,Passenger,Serious
+6451,0,0,48,9,12299,26,62,2,0,0,Theft,Low,Bristol,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+6732,0,1,28,17,11247,6,91,1,0,1,Theft,Low,Glasgow,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+4916,0,0,73,18,13641,53,87,1,0,1,Theft,Low,Bristol,Coupe,settled,Minor,Male,Retired,Unknown,No Injury
+1741,1,0,62,3,5543,42,65,0,0,0,Collision,Low,Cardiff,Motorcycle,settled,Minor,Female,Unemployed,Unknown,No Injury
+1574,0,0,74,8,13244,56,69,1,0,0,Collision,Low,London,Van,settled,Minor,Male,Retired,Unknown,No Injury
+4183,0,0,21,14,11141,0,64,0,2,1,Theft,Low,Newcastle,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+7409,0,0,70,18,14831,51,96,5,0,1,Vandalism,Medium,Bristol,Sedan,settled,Major,Female,Retired,Passenger,Serious
+1247,0,0,55,2,7997,33,95,6,0,0,Vandalism,Low,London,Sedan,settled,Minor,Male,Employed,Pedestrian,Minor
+1709,0,0,65,17,11287,46,41,1,0,1,Collision,Low,Newcastle,Coupe,settled,Minor,Male,Retired,Unknown,No Injury
+27942,0,0,26,11,14662,8,59,2,0,1,Fire,Low,Cardiff,SUV,settled,Moderate,Female,Student,Driver,Minor
+2775,0,0,56,6,11230,35,39,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1948,0,0,51,19,11454,32,378,0,0,1,Collision,High,Edinburgh,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+22326,0,0,59,12,14661,38,135,0,0,1,Theft,Medium,Liverpool,Hatchback,settled,Major,Male,Unemployed,Passenger,Minor
+3114,0,0,59,14,11404,37,75,6,0,1,Collision,Low,Liverpool,SUV,settled,Minor,Female,Self-Employed,Driver,Serious
+2262,0,0,66,17,20784,47,45,1,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+8512,0,0,28,3,15952,8,43,6,0,0,Weather,Low,Cardiff,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+1499,0,0,44,14,15772,24,1682,3,0,1,Collision,Low,Birmingham,Hatchback,open,Minor,Male,Student,Unknown,No Injury
+2089,0,0,36,0,17295,17,174,0,0,0,Vandalism,Medium,Manchester,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+359245,0,0,28,0,14618,7,170,1,0,0,Fire,Medium,Edinburgh,Coupe,settled,Severe,Male,Employed,Unknown,No Injury
+76622,0,0,36,17,19869,18,524,6,0,1,Weather,High,Birmingham,Hatchback,settled,Severe,Female,Self-Employed,Unknown,No Injury
+1294,0,0,53,4,5349,34,49,1,0,0,Collision,Low,Birmingham,Motorcycle,settled,Minor,Male,Employed,Driver,Minor
+23791,0,1,28,5,10936,7,32,0,0,0,Fire,Low,Birmingham,Sedan,settled,Minor,Male,Employed,Pedestrian,Minor
+2540,0,0,34,15,16424,15,-1191,2,0,1,Vandalism,Low,London,SUV,open,Moderate,Female,Employed,Unknown,No Injury
+3274,0,0,74,8,13244,56,1092,0,0,0,Collision,Low,London,Van,open,Minor,Male,Retired,Unknown,No Injury
+29045,0,0,77,8,10102,58,66,3,0,0,Theft,Low,London,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+1348,0,0,59,11,12964,39,67,1,0,1,Collision,Low,Manchester,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1401,0,0,42,0,10785,24,45,2,0,0,Collision,Low,Edinburgh,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+6835,0,0,68,16,13811,50,124,2,0,1,Weather,Medium,Newcastle,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+1543,0,0,37,14,8563,17,79,2,0,1,Collision,Low,Edinburgh,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+12328,0,1,42,6,11156,22,287,4,0,0,Collision,High,London,Motorcycle,settled,Major,Female,Employed,Unknown,No Injury
+2928,0,0,73,13,13224,53,56,5,0,1,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+5318,0,0,53,4,12155,34,81,0,0,0,Collision,Medium,Leeds,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+48130,0,0,35,9,10544,15,176,0,0,0,Collision,Medium,Liverpool,SUV,settled,Severe,Male,Employed,Unknown,No Injury
+3533,0,0,72,19,12130,53,53,2,0,1,Theft,Low,Birmingham,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+4546,1,0,75,17,7821,54,44,3,0,1,Theft,Low,Glasgow,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+1440,0,0,39,10,16361,20,44,1,0,0,Collision,Low,Bristol,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+1793,0,0,43,8,12983,25,66,4,0,0,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Employed,Pedestrian,Minor
+7017,1,0,76,1,21521,57,161,2,0,0,Other,Medium,Liverpool,Motorcycle,settled,Moderate,Male,Retired,Unknown,No Injury
+2610,0,0,59,0,9703,41,40,4,0,0,Collision,Low,London,Motorcycle,settled,Minor,Female,Employed,Unknown,No Injury
+1788,0,0,53,7,7250,35,40,0,0,0,Collision,Low,Liverpool,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+7159,0,0,79,4,10002,61,78,0,0,0,Weather,Low,Edinburgh,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+3381,0,0,72,15,10745,50,56,0,0,1,Theft,Low,Leeds,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+66057,0,0,30,6,8197,8,211,2,0,0,Weather,High,Birmingham,Hatchback,settled,Severe,Female,Employed,Unknown,No Injury
+61955,0,0,69,10,12221,50,129,0,0,0,Collision,Medium,Cardiff,Sedan,settled,Severe,Male,Retired,Unknown,No Injury
+16057,0,0,66,13,13881,45,102,0,0,1,Collision,Low,Glasgow,SUV,settled,Major,Male,Retired,Unknown,No Injury
+5486,0,0,49,14,20844,31,147,0,0,1,Collision,Medium,Bristol,Motorcycle,settled,Moderate,Female,Employed,Unknown,No Injury
+6662,0,0,52,4,7024,30,504,7,0,0,Collision,High,Newcastle,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+5403,0,0,49,8,15772,29,57,1,0,0,Theft,Low,Manchester,SUV,settled,Minor,Female,Student,Unknown,No Injury
+5360,0,0,29,16,18257,7,84,0,0,1,Collision,Low,Bristol,SUV,settled,Moderate,Female,Employed,Passenger,Minor
+2695,0,0,52,18,11758,31,74,0,0,1,Collision,Low,London,SUV,settled,Minor,Female,Unemployed,Passenger,Minor
+6905,0,0,78,1,13568,58,60,0,0,0,Collision,Low,Liverpool,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+3530,0,0,67,19,15834,48,694,0,0,1,Theft,Low,Birmingham,Coupe,open,Minor,Female,Retired,Unknown,No Injury
+15097,0,0,58,19,9709,38,476,0,0,1,Theft,High,London,SUV,settled,Moderate,Female,Employed,Pedestrian,Minor
+4968,0,0,25,7,25656,5,76,1,0,0,Collision,Medium,Cardiff,Coupe,settled,Moderate,Male,Employed,Passenger,Serious
+4540,0,0,65,10,9232,45,56,2,0,0,Other,Low,Glasgow,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+2844,0,0,26,6,9893,6,123,3,0,0,Weather,Medium,Liverpool,Coupe,settled,Minor,Female,Self-Employed,Unknown,No Injury
+102946,0,0,51,18,13868,32,84,1,0,1,Fire,Low,London,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+127524,0,0,28,8,6185,7,567,6,0,0,Weather,High,Leeds,SUV,settled,Catastrophic,Female,Employed,Unknown,No Injury
+1760,0,0,70,16,14533,50,87,1,0,1,Collision,Low,Liverpool,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1524,0,0,72,16,12443,51,75,0,0,1,Collision,Low,Bristol,Van,settled,Minor,Male,Employed,Unknown,No Injury
+2686,0,0,72,13,11080,52,71,0,0,1,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Driver,Minor
+2473,0,0,28,11,9890,8,159,2,0,1,Collision,Medium,Newcastle,Motorcycle,settled,Minor,Female,Student,Unknown,No Injury
+4526,1,0,61,15,16172,40,64,0,0,1,Theft,Low,Edinburgh,Van,settled,Minor,Female,Employed,Unknown,No Injury
+4447,0,0,47,10,10682,26,369,4,0,0,Collision,Low,Birmingham,Hatchback,open,Moderate,Female,Unemployed,Pedestrian,Minor
+5625,0,0,43,3,4920,22,81,0,0,0,Theft,Low,Bristol,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+20222,0,0,52,13,12402,31,47,2,0,1,Fire,Low,Liverpool,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+2439,0,0,54,15,2839,33,50,0,0,1,Vandalism,Low,Birmingham,Sedan,settled,Moderate,Female,Employed,Passenger,Serious
+6658,0,0,75,17,10819,54,51,0,0,1,Collision,Low,Leeds,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+1216,0,0,57,8,12699,37,70,0,0,0,Collision,Low,Cardiff,SUV,settled,Minor,Female,Self-Employed,Unknown,No Injury
+168118,0,1,51,8,12619,32,215,0,0,0,Collision,Medium,Cardiff,Hatchback,settled,Catastrophic,Female,Retired,Unknown,No Injury
+1876,0,0,32,16,16607,13,59,1,0,1,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2178,0,0,58,9,15986,40,87,0,0,0,Collision,Low,Liverpool,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+35856,0,0,42,9,14164,21,205,7,0,0,Collision,Medium,Newcastle,Sedan,settled,Severe,Female,Employed,Unknown,No Injury
+6887,1,0,48,8,13488,28,1060,1,0,0,Collision,Medium,Cardiff,Hatchback,open,Major,Female,Employed,Unknown,No Injury
+12430,0,0,60,12,12455,41,255,2,0,1,Vandalism,High,Newcastle,Hatchback,settled,Severe,Male,Employed,Unknown,No Injury
+5756,0,0,20,13,11428,2,66,2,2,1,Collision,Low,Bristol,Van,settled,Moderate,Male,Unemployed,Passenger,Minor
+1937,0,1,44,20,13715,26,72,3,0,1,Collision,Low,Birmingham,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+6663,0,0,18,14,15244,0,60,0,2,1,Weather,Low,Leeds,Hatchback,settled,Moderate,Female,Student,Passenger,Minor
+6551,0,0,31,5,4814,9,96,0,0,0,Weather,Low,Glasgow,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+45243,0,0,65,4,9302,45,417,0,0,0,Collision,High,Glasgow,Hatchback,settled,Severe,Female,Retired,Unknown,No Injury
+4770,0,0,24,0,7725,5,44,3,1,0,Collision,Low,Manchester,Sedan,settled,Moderate,Male,Employed,Driver,Minor
+4836,0,0,62,20,10460,41,119,1,0,1,Vandalism,Medium,Liverpool,Sedan,settled,Major,Male,Self-Employed,Unknown,No Injury
+11324,0,1,79,2,8302,60,68,0,0,0,Collision,Low,Edinburgh,SUV,settled,Major,Male,Retired,Unknown,No Injury
+3881,0,0,51,14,11449,30,58,1,0,1,Collision,Low,Liverpool,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+2005,0,0,78,12,17727,59,40,0,0,1,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Retired,Passenger,Serious
+3700,0,1,67,19,13317,47,204,1,0,1,Vandalism,High,Edinburgh,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+26834,0,0,38,14,15310,17,431,0,0,1,Collision,High,Edinburgh,Hatchback,settled,Severe,Male,Employed,Unknown,No Injury
+7429,0,0,39,17,8016,18,49,2,0,1,Weather,Low,Cardiff,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+2031,0,0,30,16,13390,9,69,2,0,1,Weather,Low,Liverpool,Hatchback,settled,Minor,Female,Unemployed,Unknown,No Injury
+35922,0,0,42,11,15392,23,108,1,0,1,Theft,Low,Glasgow,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+1983,0,0,53,6,2232,32,84,0,0,0,Collision,Medium,Edinburgh,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+5128,0,0,41,15,8052,20,36,0,0,1,Weather,Low,Manchester,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2176,0,1,32,0,9058,11,84,0,0,0,Collision,Low,Liverpool,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+37693,0,0,37,13,13450,19,413,0,0,1,Collision,High,London,Sedan,settled,Severe,Female,Employed,Unknown,No Injury
+14370,0,0,22,15,10044,3,160,1,2,1,Collision,Medium,Newcastle,Sedan,settled,Major,Male,Self-Employed,Driver,Minor
+2646,0,0,47,4,10598,26,58,0,0,0,Collision,Low,London,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+22808,0,0,70,19,8698,49,98,2,0,1,Collision,Medium,Cardiff,Sedan,settled,Severe,Male,Retired,Driver,Minor
+2106,0,0,30,15,15637,12,72,4,0,1,Weather,Low,Newcastle,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+12676,0,0,76,19,500,54,41,0,0,1,Fire,Low,Bristol,Coupe,settled,Minor,Male,Retired,Pedestrian,Minor
+2044,0,0,42,8,11782,20,-17,0,0,0,Collision,Low,Liverpool,SUV,open,Minor,Female,Self-Employed,Pedestrian,Minor
+41153,0,0,54,4,2091,36,446,3,0,0,Collision,High,Birmingham,Sedan,settled,Severe,Female,Employed,Unknown,No Injury
+20910,0,0,40,12,20035,21,99,1,0,1,Weather,Low,Manchester,SUV,settled,Major,Male,Employed,Pedestrian,Minor
+17614,0,0,61,2,13829,42,36,1,0,0,Collision,Low,Glasgow,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+1897,0,0,44,5,10129,24,41,0,0,0,Collision,Low,Liverpool,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+18576,0,0,56,7,8515,34,111,0,0,0,Weather,Low,Birmingham,Van,settled,Major,Female,Unemployed,Unknown,No Injury
+1380,0,0,71,3,10662,52,52,1,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+6362,0,1,71,11,12069,52,67,2,0,1,Theft,Low,Glasgow,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+5494,0,0,23,19,13224,4,41,1,2,1,Collision,Low,Liverpool,Sedan,settled,Moderate,Male,Self-Employed,Passenger,Minor
+8212,1,0,60,4,8803,39,1317,4,0,0,Collision,Medium,Glasgow,Sedan,open,Major,Male,Employed,Unknown,No Injury
+21927,0,0,53,18,8231,33,209,2,0,1,Collision,Medium,Birmingham,Sedan,settled,Severe,Female,Employed,Passenger,Minor
+15137,0,1,46,9,8164,28,69,4,0,0,Vandalism,Low,Manchester,SUV,settled,Severe,Male,Employed,Driver,Minor
+7374,0,0,30,7,7162,11,136,2,0,0,Weather,Medium,Bristol,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+11742,0,0,77,15,12440,56,103,3,0,1,Collision,Medium,Bristol,Hatchback,settled,Major,Female,Retired,Unknown,No Injury
+31108,0,0,34,5,8608,16,130,6,0,0,Other,Medium,Liverpool,SUV,settled,Major,Female,Employed,Unknown,No Injury
+1532,0,0,75,13,7939,56,38,3,0,1,Vandalism,Low,Liverpool,SUV,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+3154,1,0,62,14,7839,40,66,0,0,1,Weather,Medium,Edinburgh,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+53188,0,0,22,6,12928,0,59,3,2,0,Theft,Low,Cardiff,SUV,settled,Major,Male,Student,Unknown,No Injury
+8353,0,0,71,19,5806,52,70,1,0,1,Collision,Low,Liverpool,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+14675,0,0,76,16,5079,56,149,0,0,1,Collision,Medium,Newcastle,Hatchback,settled,Major,Female,Retired,Driver,Minor
+1027,0,0,61,14,11378,43,48,2,0,1,Collision,Low,London,Van,settled,Minor,Female,Self-Employed,Unknown,No Injury
+122929,0,0,47,8,15932,26,377,0,0,0,Other,High,Liverpool,Motorcycle,settled,Catastrophic,Female,Employed,Unknown,No Injury
+1512,0,0,53,17,15479,34,34,1,0,1,Collision,Low,Glasgow,Coupe,settled,Minor,Male,Retired,Unknown,No Injury
+10751,0,0,18,0,11292,0,71,3,2,0,Fire,Low,Liverpool,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+1801,0,0,27,9,13257,5,61,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+12637,0,0,30,20,5164,11,64,3,0,1,Theft,Low,Birmingham,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+4561,1,0,29,7,20625,10,359,6,0,0,Collision,High,Liverpool,Motorcycle,settled,Moderate,Female,Unemployed,Unknown,No Injury
+5536,0,0,38,16,13509,20,70,0,0,1,Vandalism,Medium,Edinburgh,Coupe,settled,Major,Male,Employed,Passenger,Minor
+41833,0,0,55,9,13239,34,78,0,0,0,Fire,Low,Manchester,SUV,settled,Moderate,Male,Unemployed,Unknown,No Injury
+3203,0,0,79,5,9803,60,79,1,0,0,Collision,Low,Liverpool,SUV,settled,Minor,Male,Retired,Passenger,Minor
+10838,0,0,56,0,12240,34,44,1,0,0,Collision,Low,Liverpool,Hatchback,settled,Major,Female,Unemployed,Driver,Minor
+11007,0,0,49,4,11355,30,63,0,0,0,Collision,Low,Leeds,Motorcycle,settled,Major,Female,Student,Unknown,No Injury
+2284,0,0,44,14,15772,24,94,4,0,1,Collision,Low,Birmingham,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+4125,1,0,75,6,11158,57,94,0,0,0,Collision,Low,Liverpool,SUV,settled,Moderate,Female,Retired,Passenger,Minor
+2594,0,0,60,13,6141,41,131,0,0,1,Weather,Medium,Leeds,Coupe,settled,Minor,Female,Self-Employed,Driver,Minor
+2210,0,0,66,17,11618,46,34,1,0,1,Collision,Low,Leeds,SUV,settled,Minor,Female,Retired,Driver,Minor
+3084,0,0,45,16,7368,24,79,3,0,1,Other,Low,Leeds,Hatchback,settled,Minor,Male,Unemployed,Passenger,Minor
+5986,0,0,27,15,6649,5,475,4,0,1,Vandalism,High,Bristol,Motorcycle,settled,Major,Female,Self-Employed,Unknown,No Injury
+11607,0,1,41,5,19423,21,137,3,0,0,Theft,Medium,London,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+20497,1,0,32,16,10265,13,65,7,0,1,Collision,Low,Edinburgh,Van,settled,Major,Female,Employed,Unknown,No Injury
+4009,0,0,74,3,7475,55,51,0,0,0,Collision,Low,Cardiff,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+7440,0,0,57,1,9838,37,63,0,0,0,Collision,Low,Newcastle,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+3139,0,0,73,20,11469,51,70,4,0,1,Other,Low,London,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+2022,0,0,19,3,18310,0,34,2,2,0,Collision,Low,Liverpool,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+1699,0,0,43,15,7758,25,61,2,0,1,Collision,Low,Cardiff,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+12928,0,0,50,0,5645,28,149,0,0,0,Theft,Medium,Glasgow,Van,settled,Moderate,Female,Employed,Unknown,No Injury
+3569,0,0,57,12,7443,38,58,1,0,1,Collision,Low,Newcastle,Hatchback,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+11141,0,0,59,4,10933,41,175,1,0,0,Collision,Medium,Bristol,Motorcycle,settled,Major,Male,Retired,Passenger,Minor
+8812,1,0,58,6,11354,37,75,3,0,0,Theft,Medium,Liverpool,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+20333,0,0,51,3,12922,33,80,1,0,0,Theft,Medium,Birmingham,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+3456,0,0,49,17,13480,31,35,0,0,1,Weather,Low,Liverpool,Hatchback,settled,Minor,Female,Unemployed,Driver,Minor
+1967,0,0,60,8,14092,42,49,2,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2047,0,1,56,3,13180,34,77,0,0,0,Weather,Low,Leeds,Van,settled,Minor,Male,Employed,Passenger,Serious
+1988,0,0,74,15,6368,56,91,6,0,1,Collision,Low,Birmingham,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+20201,0,0,20,6,12926,2,68,0,2,0,Fire,Low,Bristol,Hatchback,settled,Minor,Female,Student,Unknown,No Injury
+12507,0,0,35,0,12121,16,112,0,0,0,Collision,Medium,Liverpool,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+6001,0,0,57,3,17206,39,49,0,0,0,Weather,Low,Manchester,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+2050,0,1,24,13,8363,6,74,0,1,1,Collision,Low,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2425,0,0,31,3,15754,11,63,1,0,0,Collision,Low,London,SUV,settled,Minor,Female,Self-Employed,Driver,Minor
+3089,0,0,26,6,15075,6,75,0,0,0,Collision,Low,Liverpool,Hatchback,settled,Minor,Male,Unemployed,Passenger,Minor
+2966,0,0,42,20,16638,23,81,2,0,1,Theft,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Pedestrian,Minor
+13356,0,0,32,2,11414,14,37,0,0,0,Theft,Low,Edinburgh,Sedan,settled,Moderate,Male,Unemployed,Unknown,No Injury
+15901,0,0,29,13,20454,10,75,0,0,1,Fire,Low,Cardiff,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+1489,0,0,40,2,22026,21,86,0,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Self-Employed,Driver,Minor
+13194,0,0,42,5,12884,21,-555,0,0,0,Collision,Medium,Birmingham,Motorcycle,open,Major,Male,Self-Employed,Unknown,No Injury
+41297,0,0,73,4,15441,53,72,1,0,0,Fire,Low,Glasgow,Sedan,settled,Moderate,Male,Retired,Pedestrian,Minor
+12515,0,0,61,13,17782,39,184,0,0,1,Collision,Medium,Leeds,Hatchback,settled,Major,Male,Retired,Unknown,No Injury
+7991,0,0,29,0,15805,11,171,1,0,0,Vandalism,Medium,Cardiff,Hatchback,settled,Major,Female,Self-Employed,Unknown,No Injury
+1397,0,0,25,17,9747,4,81,4,1,1,Vandalism,Low,Birmingham,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+2833,0,0,75,19,13937,57,46,0,0,1,Weather,Low,Cardiff,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+7754,0,0,55,6,11703,35,67,2,0,0,Collision,Low,Newcastle,Sedan,settled,Moderate,Male,Unemployed,Pedestrian,Minor
+413073,0,0,78,13,21496,59,490,0,0,1,Theft,High,Newcastle,SUV,settled,Catastrophic,Female,Retired,Unknown,No Injury
+2102,0,0,28,9,6317,10,65,2,0,0,Other,Low,Newcastle,Motorcycle,settled,Minor,Female,Employed,Driver,Minor
+34133,0,0,27,12,13802,9,424,30,0,1,Vandalism,High,Liverpool,Sedan,settled,Catastrophic,Male,Unemployed,Passenger,Serious
+191439,0,0,48,15,10894,26,119,6,0,1,Collision,Low,Manchester,Hatchback,settled,Catastrophic,Male,Employed,Unknown,No Injury
+7903,0,0,47,5,9169,28,68,0,0,0,Weather,Low,Newcastle,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+2015,0,0,50,12,9530,30,65,1,0,1,Collision,Low,Cardiff,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+36889,0,0,72,3,6129,51,205,2,0,0,Collision,Medium,Cardiff,Sedan,settled,Severe,Female,Employed,Driver,Minor
+2976,0,0,55,20,17166,33,48,2,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Male,Employed,Passenger,Minor
+1861,0,0,68,15,5141,47,55,2,0,1,Collision,Low,Bristol,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+2007,0,0,74,3,14337,55,-141,5,0,0,Vandalism,High,Cardiff,Sedan,open,Moderate,Male,Retired,Unknown,No Injury
+1439,1,0,65,18,9697,45,97,0,0,1,Collision,Medium,London,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+28891,0,0,34,18,12660,14,87,0,0,1,Fire,Low,Bristol,Coupe,settled,Moderate,Female,Employed,Pedestrian,Minor
+6496,0,0,25,8,19208,5,62,4,0,0,Theft,Low,Leeds,Sedan,settled,Moderate,Male,Employed,Pedestrian,Minor
+52070,0,0,27,13,17285,9,152,2,0,1,Weather,Medium,Birmingham,Van,settled,Severe,Female,Self-Employed,Unknown,No Injury
+16086,0,0,79,6,12288,61,62,1,0,0,Collision,Low,Leeds,Sedan,settled,Major,Male,Retired,Unknown,No Injury
+1912,0,0,76,15,8219,56,55,2,0,1,Collision,Low,London,SUV,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1222,0,0,23,4,7555,4,40,0,2,0,Collision,Low,Edinburgh,Hatchback,settled,Minor,Male,Self-Employed,Passenger,Minor
+1199,0,0,21,7,14491,2,46,1,2,0,Vandalism,Low,Newcastle,Hatchback,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+7317,0,0,35,4,10099,16,41,0,0,0,Weather,Low,Birmingham,Motorcycle,settled,Moderate,Male,Employed,Unknown,No Injury
+3891,0,0,77,0,11580,59,64,0,0,0,Collision,Low,Bristol,SUV,settled,Moderate,Male,Retired,Pedestrian,Serious
+5454,0,0,60,9,11777,39,179,0,0,0,Collision,Medium,Bristol,Coupe,settled,Moderate,Female,Retired,Unknown,No Injury
+8080,0,0,79,7,10112,58,71,3,0,0,Weather,Low,Edinburgh,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+2487,0,1,37,2,13075,18,57,2,0,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+4299,0,0,44,14,7640,26,98,0,0,1,Collision,Low,Liverpool,Coupe,settled,Moderate,Female,Employed,Unknown,No Injury
+62161,0,0,37,5,15977,19,156,0,0,0,Collision,Medium,Liverpool,Hatchback,settled,Severe,Female,Employed,Unknown,No Injury
+7341,0,1,25,7,9145,3,-566,2,1,0,Weather,Medium,Manchester,Motorcycle,open,Moderate,Male,Employed,Unknown,No Injury
+39770,0,0,19,13,11586,0,47,5,2,1,Fire,Low,Newcastle,SUV,settled,Moderate,Female,Student,Unknown,No Injury
+21507,0,0,69,9,13398,51,74,0,0,0,Fire,Low,Birmingham,Van,settled,Minor,Female,Retired,Pedestrian,Minor
+5347,0,0,48,6,13930,29,183,2,0,0,Theft,Low,Liverpool,SUV,open,Minor,Male,Employed,Unknown,No Injury
+4989,0,0,68,15,5141,47,64,1,0,1,Theft,Low,Bristol,Sedan,settled,Minor,Male,Retired,Pedestrian,Minor
+1558,0,0,60,13,6141,41,31,0,0,1,Other,Low,Leeds,Coupe,settled,Minor,Female,Self-Employed,Unknown,No Injury
+3836,1,0,65,5,10105,43,32,0,0,0,Weather,Low,Manchester,SUV,settled,Minor,Male,Retired,Pedestrian,Minor
+2977,0,0,23,1,7618,5,-1835,1,1,0,Other,Low,London,SUV,open,Minor,Female,Employed,Unknown,No Injury
+33847,0,0,40,0,18449,20,525,0,0,0,Collision,High,Newcastle,Hatchback,settled,Severe,Female,Employed,Unknown,No Injury
+1734,0,0,70,2,17241,50,47,2,0,0,Collision,Low,Edinburgh,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+12861,0,0,37,17,8280,19,-1506,1,0,1,Collision,Low,Leeds,Van,open,Major,Female,Self-Employed,Passenger,Minor
+19898,0,0,18,11,9098,0,82,4,2,1,Fire,Low,Manchester,SUV,settled,Minor,Male,Student,Unknown,No Injury
+6125,0,0,60,20,6881,40,-1020,0,0,1,Collision,Low,Glasgow,Sedan,open,Moderate,Male,Employed,Passenger,Minor
+72866,0,0,51,10,9810,31,58,1,0,0,Fire,Low,London,SUV,settled,Major,Male,Employed,Unknown,No Injury
+8532,0,0,29,19,10545,9,48,2,0,1,Weather,Low,Bristol,Coupe,settled,Moderate,Male,Student,Pedestrian,Minor
+4266,0,0,30,5,11231,12,83,1,0,0,Weather,Low,Bristol,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+1622,0,0,69,18,11990,50,126,0,0,1,Vandalism,Medium,Cardiff,Hatchback,settled,Minor,Female,Retired,Driver,Minor
+1555,0,0,29,13,10749,9,68,5,0,1,Collision,Medium,Glasgow,Hatchback,settled,Minor,Female,Unemployed,Unknown,No Injury
+6374,0,0,67,7,13876,46,66,2,0,0,Collision,Low,London,Hatchback,settled,Moderate,Male,Retired,Pedestrian,Minor
+11974,1,0,44,9,20845,25,101,1,0,0,Collision,Low,Manchester,SUV,settled,Major,Male,Employed,Unknown,No Injury
+272490,0,0,77,3,10697,55,151,5,0,0,Fire,Medium,Manchester,Sedan,settled,Severe,Female,Retired,Unknown,No Injury
+4765,0,0,70,6,15850,48,65,1,0,0,Collision,Low,Edinburgh,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+2615,0,0,42,12,9647,22,47,1,0,1,Weather,Low,Manchester,SUV,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+3086,0,0,43,6,7583,22,82,0,0,0,Weather,Medium,Glasgow,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+49297,0,0,63,16,9585,45,115,0,0,1,Other,Medium,Cardiff,Sedan,settled,Severe,Male,Retired,Unknown,No Injury
+2475,0,0,28,3,17561,6,83,1,0,0,Weather,Low,Liverpool,SUV,settled,Minor,Male,Self-Employed,Passenger,Minor
+21268,1,1,18,12,6037,0,156,5,2,1,Vandalism,Medium,Leeds,Sedan,settled,Severe,Male,Student,Passenger,Minor
+2780,0,0,61,7,7089,41,52,3,0,0,Collision,Low,Bristol,Sedan,settled,Minor,Female,Retired,Passenger,Minor
+1776,0,1,29,11,18000,8,67,2,0,1,Collision,Low,Glasgow,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+2922,0,0,42,16,11389,20,84,1,0,1,Collision,Low,Bristol,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+7313,0,0,42,0,9952,24,59,0,0,0,Other,Low,Leeds,SUV,settled,Moderate,Male,Self-Employed,Pedestrian,Serious
+3499,0,1,47,4,6478,27,136,0,0,0,Other,Medium,Bristol,SUV,open,Minor,Male,Employed,Pedestrian,Serious
+2269,0,0,75,1,15507,55,122,1,0,0,Collision,Medium,Newcastle,Hatchback,settled,Minor,Female,Retired,Pedestrian,Minor
+2037,0,1,61,5,10137,43,32,0,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+13854,0,0,25,4,13955,3,97,2,1,0,Collision,Medium,Leeds,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+13430,0,0,72,10,15512,51,216,1,0,0,Collision,High,Manchester,SUV,settled,Major,Male,Retired,Driver,Minor
+2411,1,0,43,20,12080,25,41,0,0,1,Vandalism,Low,Cardiff,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+2775,0,1,55,15,8677,33,69,3,0,1,Weather,Low,Cardiff,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+1919,0,0,56,19,13113,36,33,2,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Male,Employed,Passenger,Minor
+2224,1,0,18,9,13675,0,38,0,2,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Student,Driver,Serious
+11075,0,0,50,3,8619,28,116,4,0,0,Collision,Low,Edinburgh,Hatchback,settled,Major,Male,Employed,Driver,Minor
+2463,0,0,59,19,9018,39,42,6,0,1,Weather,Low,Cardiff,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+10909,0,0,26,8,16597,4,471,0,1,0,Collision,High,Newcastle,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+18891,0,0,79,1,12049,57,50,0,0,0,Collision,Low,Bristol,SUV,settled,Major,Male,Retired,Unknown,No Injury
+4175,0,0,63,15,17076,45,39,0,0,1,Collision,Low,London,SUV,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+3252,0,0,73,9,12033,53,58,0,0,0,Collision,Low,Leeds,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+7711,0,0,49,1,12936,29,46,1,0,0,Weather,Low,Liverpool,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+13002,0,0,37,10,11902,17,55,1,0,0,Fire,Low,Edinburgh,SUV,settled,Minor,Male,Employed,Pedestrian,Minor
+14527,0,0,59,8,14750,39,61,1,0,0,Collision,Low,Bristol,Hatchback,settled,Major,Female,Self-Employed,Driver,Serious
+1779,0,0,49,14,13551,29,34,0,0,1,Collision,Low,Glasgow,Van,settled,Minor,Male,Student,Unknown,No Injury
+1304,0,0,44,9,11790,25,39,0,0,0,Vandalism,Low,Manchester,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1315,0,0,69,7,500,49,57,0,0,0,Collision,Low,London,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+2531,0,0,78,11,7033,59,52,0,0,1,Weather,Low,Manchester,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+1116,0,0,34,13,20922,14,43,4,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Unemployed,Unknown,No Injury
+1336,0,1,49,2,15203,30,52,7,0,0,Vandalism,Low,Liverpool,Van,settled,Minor,Female,Employed,Driver,Serious
+2141,0,0,59,0,18451,38,33,2,0,0,Theft,Low,Liverpool,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+4721,0,0,63,9,12301,41,39,0,0,0,Collision,Low,Birmingham,Hatchback,settled,Moderate,Male,Retired,Driver,Minor
+2180,0,0,34,6,12303,14,81,6,0,0,Collision,Low,London,SUV,settled,Minor,Male,Student,Unknown,No Injury
+2681,0,0,57,13,13271,39,95,30,0,1,Weather,Low,London,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+4701,0,0,37,3,10210,19,34,0,0,0,Collision,Low,London,Van,settled,Moderate,Male,Employed,Unknown,No Injury
+14139,0,1,56,0,5648,37,49,5,0,0,Collision,Low,Bristol,Sedan,settled,Major,Female,Self-Employed,Unknown,No Injury
+1658,0,1,70,20,12330,51,74,5,0,1,Vandalism,Low,Bristol,Sedan,settled,Minor,Female,Retired,Passenger,Minor
+4407,0,0,78,2,14302,59,113,0,0,0,Collision,Medium,Bristol,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+45717,0,0,61,16,10420,39,74,1,0,1,Collision,Medium,Manchester,Sedan,settled,Severe,Female,Self-Employed,Unknown,No Injury
+5702,0,0,38,12,8121,16,82,1,0,1,Collision,Low,Leeds,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+6721,0,0,22,17,5695,2,89,0,2,1,Collision,Low,Manchester,Sedan,settled,Major,Female,Unemployed,Pedestrian,Minor
+25591,0,0,24,5,9085,2,125,0,2,0,Theft,Medium,Birmingham,Sedan,settled,Major,Male,Unemployed,Driver,Minor
+14616,0,0,55,1,7180,36,237,1,0,0,Theft,High,Liverpool,Coupe,settled,Moderate,Male,Employed,Unknown,No Injury
+1838,0,0,49,8,9485,27,74,0,0,0,Collision,Low,Cardiff,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+1596,0,0,50,19,9752,32,93,3,0,1,Vandalism,Low,Bristol,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+14527,0,0,60,7,13423,40,101,1,0,0,Collision,Medium,Leeds,Coupe,settled,Major,Male,Self-Employed,Unknown,No Injury
+32231,0,0,72,0,14718,51,67,3,0,0,Fire,Medium,Manchester,Coupe,settled,Moderate,Female,Retired,Unknown,No Injury
+3786,0,0,70,19,16290,52,64,0,0,1,Weather,Medium,Cardiff,Hatchback,settled,Minor,Female,Retired,Driver,Minor
+1834,0,0,42,19,14145,21,38,3,0,1,Collision,Low,Edinburgh,Van,settled,Minor,Male,Employed,Unknown,No Injury
+1569,0,0,41,9,10351,23,69,0,0,0,Collision,Low,Glasgow,Motorcycle,settled,Minor,Female,Employed,Driver,Minor
+14239,0,0,55,15,15922,33,97,3,0,1,Collision,Medium,Cardiff,Hatchback,settled,Major,Female,Employed,Driver,Minor
+1925,0,1,38,8,8138,20,97,0,0,0,Vandalism,Low,Birmingham,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+24724,1,1,75,3,12681,56,324,0,0,0,Weather,High,London,Sedan,settled,Major,Male,Retired,Driver,Serious
+1487,0,0,40,10,17747,20,32,1,0,0,Collision,Low,Liverpool,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+4013,0,0,69,19,13483,51,180,0,0,1,Weather,Medium,Bristol,Sedan,settled,Minor,Male,Retired,Driver,Minor
+9081,0,1,42,11,15087,22,73,1,0,1,Weather,Medium,Leeds,Hatchback,settled,Moderate,Female,Student,Unknown,No Injury
+1459,0,0,65,20,2298,44,99,30,0,1,Vandalism,Low,Manchester,Sedan,settled,Minor,Male,Retired,Driver,Minor
+4072,0,0,52,4,11129,33,77,2,0,0,Theft,Medium,Leeds,Van,settled,Minor,Female,Employed,Unknown,No Injury
+8703,0,0,40,5,15405,20,163,2,0,0,Collision,Medium,Birmingham,Hatchback,settled,Major,Female,Self-Employed,Unknown,No Injury
+11049,0,0,61,15,11997,42,41,4,0,1,Weather,Low,Edinburgh,SUV,settled,Moderate,Male,Unemployed,Unknown,No Injury
+45444,0,0,27,12,10045,8,179,0,0,1,Collision,Medium,Liverpool,Coupe,settled,Severe,Female,Employed,Unknown,No Injury
+818,0,0,52,5,17781,34,50,0,0,0,Vandalism,Low,Glasgow,Coupe,settled,Minor,Female,Employed,Driver,Minor
+19386,0,0,41,11,15041,19,163,0,0,1,Weather,Medium,London,Coupe,settled,Major,Female,Employed,Unknown,No Injury
+3311,0,0,50,12,14164,28,90,3,0,1,Weather,Low,Bristol,Hatchback,settled,Minor,Female,Unemployed,Passenger,Minor
+2436,0,0,32,9,12286,11,60,1,0,0,Other,Low,Newcastle,Hatchback,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+2221,0,0,63,11,6589,44,36,0,0,1,Collision,Low,Birmingham,Van,settled,Minor,Female,Employed,Unknown,No Injury
+1493,0,1,60,20,6881,40,58,0,0,1,Collision,Low,Glasgow,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+5062,0,0,53,2,12360,31,173,0,0,0,Weather,Medium,Bristol,Coupe,settled,Moderate,Female,Retired,Unknown,No Injury
+11692,0,0,71,13,13112,53,75,0,0,1,Collision,Low,Leeds,Sedan,settled,Major,Male,Retired,Unknown,No Injury
+4280,0,0,35,12,16746,14,1771,2,0,1,Collision,Low,Liverpool,Hatchback,open,Moderate,Female,Employed,Unknown,No Injury
+54249,0,0,54,4,15438,33,1025,2,0,0,Other,Medium,Cardiff,Coupe,open,Severe,Female,Retired,Pedestrian,Minor
+4347,0,0,68,8,9075,47,33,0,0,0,Weather,Low,Cardiff,Hatchback,settled,Minor,Female,Retired,Pedestrian,Minor
+16106,1,0,49,7,10794,29,165,0,0,0,Theft,Medium,Glasgow,Motorcycle,settled,Moderate,Female,Employed,Unknown,No Injury
+13730,0,1,41,5,16872,23,121,30,0,0,Other,Low,Bristol,Sedan,settled,Major,Male,Self-Employed,Unknown,No Injury
+2074,1,0,27,13,11100,5,38,3,0,1,Collision,Low,London,SUV,settled,Minor,Male,Student,Pedestrian,Minor
+2720,0,0,35,8,12517,16,43,7,0,0,Collision,Low,Manchester,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+4999,0,0,73,11,10762,53,57,0,0,1,Collision,Low,Manchester,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+2173,0,0,27,8,12395,9,58,0,0,0,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Student,Unknown,No Injury
+11483,0,0,53,6,14850,32,74,6,0,0,Theft,Low,Glasgow,Sedan,settled,Moderate,Male,Self-Employed,Passenger,Minor
+55290,0,1,22,1,11365,0,73,0,2,0,Weather,Low,Manchester,SUV,settled,Severe,Male,Unemployed,Unknown,No Injury
+15158,0,0,22,1,11603,1,45,7,2,0,Fire,Low,Edinburgh,SUV,settled,Minor,Male,Student,Driver,Minor
+33965,0,0,27,16,15271,5,192,2,0,1,Weather,Medium,Leeds,Hatchback,settled,Severe,Female,Self-Employed,Unknown,No Injury
+5126,0,0,48,16,5896,26,84,0,0,1,Theft,Low,Bristol,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+12951,0,0,23,15,7599,2,290,2,2,1,Collision,High,Birmingham,Hatchback,settled,Major,Female,Self-Employed,Driver,Minor
+2805,0,0,72,0,9990,53,79,0,0,0,Collision,Low,Leeds,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+53316,0,0,45,17,12061,24,517,3,0,1,Fire,High,Leeds,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+2300,0,1,63,12,14635,45,-40,0,0,1,Other,Low,London,SUV,open,Minor,Female,Retired,Unknown,No Injury
+1912,0,1,25,11,8467,7,171,0,0,1,Collision,Medium,Birmingham,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+3263,0,0,29,2,11947,7,48,2,0,0,Theft,Low,Edinburgh,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+127927,0,0,58,2,13583,40,128,0,0,0,Collision,High,London,Coupe,settled,Catastrophic,Male,Self-Employed,Driver,Serious
+3610,0,0,64,0,12004,43,51,1,0,0,Weather,Low,Cardiff,Sedan,settled,Minor,Female,Retired,Driver,Minor
+26150,0,0,37,17,16066,18,93,3,0,1,Fire,Low,Liverpool,Coupe,settled,Moderate,Female,Employed,Unknown,No Injury
+2507,0,0,41,9,11740,20,80,2,0,0,Collision,Medium,London,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+4784,0,0,71,16,12585,50,54,0,0,1,Collision,Low,Leeds,Sedan,settled,Moderate,Female,Retired,Pedestrian,Minor
+1905,0,0,71,0,6071,51,62,0,0,0,Collision,Low,Leeds,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+132494,0,0,19,17,12934,0,143,0,2,1,Collision,Low,London,Motorcycle,settled,Catastrophic,Female,Student,Unknown,No Injury
+1948,0,0,65,5,14803,44,53,0,0,0,Collision,Low,Bristol,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+1053,0,0,35,20,5213,17,56,0,0,1,Vandalism,Low,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+3243,0,0,69,6,8819,50,145,0,0,0,Weather,Medium,Leeds,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+1540,0,0,23,14,5975,2,33,0,2,1,Collision,Low,Glasgow,Van,settled,Minor,Male,Employed,Unknown,No Injury
+15300,0,0,31,5,8298,13,55,2,0,0,Fire,Low,Newcastle,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+5036,0,0,52,8,16429,33,81,0,0,0,Theft,Low,Bristol,Sedan,settled,Minor,Male,Self-Employed,Passenger,Minor
+2544,0,0,65,16,9687,47,113,30,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Male,Retired,Pedestrian,Fatal
+1589,0,0,59,4,10933,41,126,0,0,0,Collision,Medium,Bristol,Motorcycle,settled,Minor,Male,Retired,Unknown,No Injury
+9536,1,0,32,16,7859,13,99,1,0,1,Collision,Low,Birmingham,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+2158,0,1,48,9,11429,27,44,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Employed,Driver,Minor
+1779,0,0,34,10,19484,15,261,1,0,0,Collision,High,Leeds,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+6208,0,0,46,9,16642,26,89,2,0,0,Collision,Medium,Birmingham,SUV,settled,Moderate,Female,Student,Passenger,Minor
+1736,0,0,60,12,12455,41,90,1,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+2010,0,0,59,6,15998,38,30,0,0,0,Collision,Low,Bristol,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+14549,0,0,32,3,9996,14,159,0,0,0,Collision,Medium,Glasgow,SUV,settled,Major,Male,Employed,Driver,Minor
+2671,0,0,59,2,4816,39,59,0,0,0,Collision,Low,London,Hatchback,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+6353,0,0,41,12,11833,20,82,0,0,1,Theft,Low,London,SUV,settled,Minor,Female,Unemployed,Unknown,No Injury
+14842,0,1,25,16,9460,4,80,0,1,1,Weather,Low,Cardiff,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+4492,0,0,73,14,13177,51,147,0,0,1,Collision,Medium,Bristol,Coupe,settled,Moderate,Male,Unemployed,Unknown,No Injury
+40163,0,0,74,13,15548,52,189,0,0,1,Collision,Medium,Cardiff,Sedan,settled,Severe,Male,Retired,Unknown,No Injury
+4181,0,0,28,20,16182,10,-157,0,0,1,Theft,Low,Edinburgh,Sedan,open,Minor,Female,Student,Unknown,No Injury
+2123,0,0,62,20,10460,41,62,1,0,1,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1861,0,0,60,3,10055,39,33,0,0,0,Collision,Low,Bristol,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2520,0,0,56,0,6085,35,92,0,0,0,Vandalism,Low,Birmingham,Coupe,settled,Moderate,Male,Employed,Unknown,No Injury
+2480,0,0,31,10,11497,9,91,2,0,0,Collision,Low,Newcastle,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+2997,0,0,28,9,12192,10,54,1,0,0,Other,Low,Birmingham,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+5327,0,0,77,19,15293,57,-274,0,0,1,Collision,Medium,Manchester,Van,open,Moderate,Female,Retired,Unknown,No Injury
+6348,0,0,71,6,17479,51,182,0,0,0,Weather,Medium,Newcastle,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+3862,0,0,79,16,17365,59,96,3,0,1,Collision,Low,Cardiff,Coupe,settled,Moderate,Female,Retired,Passenger,Minor
+22844,0,0,28,5,11298,9,98,0,0,0,Weather,Low,Liverpool,Coupe,settled,Major,Female,Employed,Passenger,Minor
+1095,0,0,19,20,9359,0,83,5,2,1,Vandalism,Low,Edinburgh,Sedan,settled,Minor,Female,Student,Pedestrian,Serious
+7527,0,0,38,3,15396,18,60,3,0,0,Vandalism,Low,Glasgow,Van,settled,Major,Female,Self-Employed,Unknown,No Injury
+4865,0,0,25,18,6773,5,44,3,0,1,Collision,Low,Liverpool,SUV,settled,Moderate,Female,Self-Employed,Pedestrian,Minor
+2833,0,0,68,11,10607,48,67,1,0,1,Collision,Low,Manchester,Sedan,settled,Moderate,Female,Retired,Passenger,Minor
+2058,0,0,53,2,12360,31,48,0,0,0,Collision,Low,Bristol,Coupe,settled,Minor,Female,Retired,Unknown,No Injury
+12528,0,0,63,9,15837,45,180,3,0,0,Collision,Medium,Glasgow,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+12236,0,0,62,2,19390,41,138,0,0,0,Collision,Medium,Edinburgh,Sedan,settled,Major,Female,Employed,Pedestrian,Minor
+7769,0,1,31,14,16275,12,184,2,0,1,Vandalism,Medium,Leeds,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+416620,0,0,30,19,5673,8,134,3,0,1,Theft,Medium,Manchester,Hatchback,settled,Catastrophic,Female,Employed,Pedestrian,Minor
+3854,0,0,25,10,12747,4,89,2,1,0,Weather,Low,Glasgow,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+13961,0,0,27,5,6747,5,92,0,0,0,Collision,Medium,Glasgow,SUV,settled,Major,Male,Self-Employed,Unknown,No Injury
+33878,0,0,40,7,14638,20,175,5,0,0,Fire,Medium,Newcastle,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+49440,0,0,52,14,15687,31,44,3,0,1,Fire,Low,Cardiff,Coupe,settled,Moderate,Female,Employed,Unknown,No Injury
+2772,1,1,65,12,6055,44,50,2,0,1,Weather,Low,Edinburgh,SUV,settled,Minor,Female,Retired,Passenger,Minor
+2357,0,1,49,6,4883,28,712,0,0,0,Collision,Low,Leeds,Sedan,open,Minor,Female,Self-Employed,Unknown,No Injury
+7133,0,0,39,19,7708,20,108,0,0,1,Vandalism,Medium,Bristol,Motorcycle,settled,Major,Male,Employed,Unknown,No Injury
+1894,0,0,65,10,10952,46,45,1,0,0,Collision,Low,Glasgow,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2182,1,0,40,1,11687,18,44,3,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+17762,0,0,39,20,12222,17,42,0,0,1,Collision,Low,Liverpool,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+2453,0,0,52,13,14845,31,58,0,0,1,Collision,Low,Liverpool,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+19077,0,0,20,13,19867,0,176,1,2,1,Weather,Medium,Edinburgh,Coupe,settled,Major,Female,Employed,Unknown,No Injury
+2607,1,0,24,1,7716,2,77,0,2,0,Other,Medium,Newcastle,Hatchback,settled,Minor,Male,Self-Employed,Driver,Minor
+23463,0,0,58,11,13024,38,46,1,0,1,Weather,Low,Manchester,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+5717,0,0,53,9,7784,33,751,2,0,0,Collision,Low,Glasgow,Sedan,open,Moderate,Female,Self-Employed,Unknown,No Injury
+19937,0,0,37,15,16423,15,125,1,0,1,Fire,Medium,Edinburgh,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+2138,0,0,21,11,4719,1,86,6,2,1,Collision,Low,Birmingham,Sedan,settled,Minor,Female,Unemployed,Unknown,No Injury
+17526,0,0,79,3,19557,58,86,2,0,0,Weather,Low,Leeds,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+1576,0,0,18,3,11491,0,30,0,2,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Student,Passenger,Serious
+248677,0,0,57,6,8350,37,128,0,0,0,Theft,Low,Manchester,Motorcycle,settled,Catastrophic,Female,Retired,Unknown,No Injury
+1679,0,1,25,7,25656,5,63,0,0,0,Collision,Low,Cardiff,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+1513,0,0,75,12,9623,53,123,2,0,1,Collision,Medium,Liverpool,Coupe,settled,Minor,Male,Retired,Passenger,Minor
+30813,0,0,35,5,13609,13,183,2,0,0,Collision,High,Glasgow,SUV,settled,Severe,Male,Self-Employed,Unknown,No Injury
+2710,0,1,48,12,6078,26,57,1,0,1,Weather,Low,Manchester,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+46909,0,0,23,2,9122,4,96,4,2,0,Theft,Medium,Manchester,Sedan,settled,Major,Female,Student,Unknown,No Injury
+3382,0,0,61,13,11347,43,42,1,0,1,Weather,Low,Bristol,Motorcycle,settled,Minor,Female,Retired,Unknown,No Injury
+17437,0,0,53,3,11743,33,39,1,0,0,Collision,Low,London,Hatchback,settled,Major,Male,Unemployed,Unknown,No Injury
+1800,0,0,43,12,18003,23,65,2,0,1,Collision,Low,Birmingham,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2335,0,0,30,11,17162,10,67,0,0,1,Weather,Low,Cardiff,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+1779,0,0,60,15,9334,40,56,2,0,1,Other,Low,Liverpool,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+5337,0,0,20,7,12075,0,470,3,2,0,Theft,High,Edinburgh,Sedan,settled,Minor,Female,Student,Passenger,Minor
+11369,0,0,59,9,9234,38,61,1,0,0,Weather,Low,Birmingham,Coupe,settled,Moderate,Male,Employed,Unknown,No Injury
+12055,0,0,26,19,8860,7,114,0,0,1,Collision,Medium,Edinburgh,Coupe,settled,Major,Female,Employed,Pedestrian,Minor
+1845,0,0,54,2,12557,35,76,0,0,0,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Unemployed,Unknown,No Injury
+46165,0,0,47,19,2125,27,133,2,0,1,Collision,Medium,Bristol,Coupe,settled,Severe,Female,Employed,Passenger,Minor
+2447,0,0,45,6,13362,23,82,0,0,0,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+64601,0,0,23,5,11888,5,351,1,1,0,Other,High,Liverpool,Sedan,settled,Severe,Female,Self-Employed,Unknown,No Injury
+56809,0,0,36,11,17330,18,272,1,0,1,Theft,High,Birmingham,SUV,settled,Severe,Male,Employed,Unknown,No Injury
+34046,0,0,34,19,12973,12,175,1,0,1,Collision,High,Manchester,Hatchback,settled,Severe,Male,Employed,Driver,Minor
+1337,0,0,77,9,12809,57,47,0,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+11288,0,0,34,9,8288,16,522,0,0,0,Collision,High,Glasgow,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+1950,0,0,21,12,18461,0,71,0,2,1,Collision,Low,London,SUV,settled,Minor,Female,Student,Unknown,No Injury
+1829,0,0,45,18,11655,23,139,1,0,1,Collision,Medium,Newcastle,Motorcycle,settled,Minor,Female,Employed,Unknown,No Injury
+2543,0,0,24,7,6373,3,81,0,2,0,Other,Medium,Birmingham,Van,settled,Minor,Male,Student,Unknown,No Injury
+4195,0,0,59,9,14156,38,139,2,0,0,Vandalism,Medium,London,Sedan,settled,Moderate,Female,Employed,Pedestrian,Minor
+5133,0,0,44,6,12827,26,84,0,0,0,Collision,Low,Leeds,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+107436,0,0,21,17,9382,2,429,0,2,1,Vandalism,High,Bristol,Sedan,settled,Catastrophic,Male,Student,Passenger,Minor
+1056,1,0,75,14,14122,54,593,2,0,1,Vandalism,Low,Leeds,SUV,open,Minor,Female,Retired,Driver,Minor
+26307,0,0,68,3,11081,46,99,2,0,0,Weather,Medium,Cardiff,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+32003,0,0,45,5,11993,27,87,4,0,0,Theft,Low,Edinburgh,Sedan,settled,Major,Male,Employed,Driver,Minor
+4895,0,0,44,17,8843,26,144,0,0,1,Collision,Medium,Manchester,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+13894,0,0,61,13,17782,39,48,0,0,1,Fire,Low,Leeds,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+1837,0,0,18,11,13504,0,70,0,2,1,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Employed,Passenger,Serious
+13908,0,0,69,1,14054,47,61,1,0,0,Collision,Low,Cardiff,SUV,settled,Major,Male,Retired,Pedestrian,Minor
+1945,0,0,24,9,15628,2,67,0,2,0,Weather,Low,Liverpool,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+5630,0,0,31,11,2015,10,62,1,0,1,Collision,Low,Bristol,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+1973,1,0,70,0,6055,48,41,1,0,0,Theft,Low,Birmingham,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1627,0,0,40,3,10997,18,46,3,0,0,Collision,Low,Edinburgh,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+1751,0,0,26,10,8753,8,57,4,0,0,Collision,Low,Leeds,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+2244,0,0,57,15,16554,37,33,0,0,1,Collision,Low,Glasgow,Hatchback,settled,Minor,Male,Self-Employed,Driver,Minor
+10410,0,0,32,7,19111,13,115,1,0,0,Other,Medium,Leeds,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+1740,0,0,69,1,14054,47,55,0,0,0,Collision,Low,Cardiff,SUV,settled,Minor,Male,Retired,Pedestrian,Minor
+11964,0,0,28,7,15269,10,96,0,0,0,Collision,Low,Newcastle,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+4963,0,0,22,14,17906,4,139,2,2,1,Collision,Medium,Bristol,Hatchback,settled,Moderate,Male,Student,Unknown,No Injury
+3014,0,0,34,11,13276,13,40,0,0,1,Other,Low,Manchester,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+2909,0,0,43,19,12012,22,35,2,0,1,Weather,Low,Glasgow,Sedan,settled,Minor,Female,Employed,Passenger,Minor
+2772,0,0,29,2,11947,7,170,6,0,0,Collision,Medium,Edinburgh,Hatchback,settled,Minor,Male,Student,Unknown,No Injury
+23604,0,1,63,5,16663,41,82,2,0,0,Weather,Low,Edinburgh,Sedan,settled,Major,Female,Retired,Passenger,Minor
+6538,0,0,65,7,11730,44,91,2,0,0,Theft,Low,Newcastle,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+2859,0,0,75,13,8104,57,42,1,0,1,Vandalism,Low,Glasgow,Sedan,settled,Moderate,Female,Retired,Pedestrian,Minor
+2558,0,0,21,17,16568,2,65,5,2,1,Weather,Medium,London,Coupe,settled,Minor,Female,Student,Unknown,No Injury
+148859,0,0,64,16,27236,42,98,1,0,1,Fire,Medium,Glasgow,SUV,settled,Major,Female,Self-Employed,Unknown,No Injury
+23386,0,0,63,6,8227,42,145,0,0,0,Theft,Medium,Cardiff,SUV,settled,Major,Female,Employed,Unknown,No Injury
+11553,0,0,54,2,15131,33,100,0,0,0,Collision,Medium,Birmingham,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+10643,0,0,30,1,18381,11,46,0,0,0,Theft,Low,Birmingham,Sedan,settled,Moderate,Male,Student,Unknown,No Injury
+48651,0,0,58,19,10251,40,139,0,0,1,Collision,Low,Glasgow,Hatchback,settled,Severe,Male,Employed,Driver,Minor
+6709,0,0,30,1,15629,10,94,1,0,0,Weather,Low,London,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+40893,0,0,24,13,15103,2,144,2,2,1,Collision,Medium,Bristol,Van,settled,Severe,Male,Employed,Unknown,No Injury
+6970,0,0,40,2,10739,22,64,4,0,0,Theft,Low,Glasgow,Coupe,settled,Minor,Male,Employed,Passenger,Minor
+3751,0,0,45,17,9873,24,107,0,0,1,Theft,Medium,Glasgow,Hatchback,settled,Minor,Male,Student,Pedestrian,Minor
+2613,0,0,66,19,7440,48,1239,0,0,1,Collision,Low,London,SUV,open,Minor,Female,Retired,Driver,Serious
+30964,0,1,66,13,9606,47,154,5,0,1,Collision,Medium,Bristol,Hatchback,settled,Severe,Male,Retired,Driver,Minor
+2096,0,0,63,0,12852,41,63,4,0,0,Collision,Low,Birmingham,Sedan,settled,Minor,Female,Unemployed,Unknown,No Injury
+35631,1,0,46,16,11254,28,517,0,0,1,Collision,High,Glasgow,Coupe,settled,Severe,Female,Unemployed,Unknown,No Injury
+17026,0,0,34,7,9875,12,100,1,0,0,Weather,Medium,Manchester,Van,settled,Major,Female,Employed,Driver,Minor
+16924,1,0,50,16,16181,32,152,5,0,1,Theft,Medium,London,Van,settled,Moderate,Male,Employed,Unknown,No Injury
+13700,0,0,38,20,12572,20,32,0,0,1,Fire,Low,Edinburgh,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+17414,1,0,56,9,22682,35,198,0,0,0,Vandalism,Medium,Manchester,Sedan,settled,Severe,Male,Self-Employed,Passenger,Minor
+3293,0,0,54,18,13493,34,76,0,0,1,Collision,Low,Edinburgh,SUV,settled,Minor,Male,Employed,Passenger,Minor
+2297,0,0,50,10,9774,29,36,2,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Pedestrian,Serious
+15584,0,0,64,19,10758,45,32,2,0,1,Fire,Low,Glasgow,Coupe,settled,Minor,Female,Employed,Unknown,No Injury
+38435,1,0,76,11,10697,54,129,0,0,1,Collision,Medium,Glasgow,Hatchback,settled,Severe,Female,Retired,Unknown,No Injury
+50486,0,0,35,19,7850,14,57,0,0,1,Collision,Low,Newcastle,Sedan,settled,Severe,Male,Employed,Unknown,No Injury
+5669,0,0,55,1,12853,33,166,0,0,0,Collision,Medium,Edinburgh,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+5920,0,1,37,3,16506,19,65,0,0,0,Collision,Medium,Cardiff,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+5380,0,0,65,16,13095,44,381,7,0,1,Collision,High,Bristol,Hatchback,settled,Moderate,Female,Unemployed,Unknown,No Injury
+6714,0,0,35,16,22050,13,41,1,0,1,Collision,Low,Manchester,Hatchback,settled,Moderate,Male,Unemployed,Driver,Minor
+29295,0,1,53,19,13444,35,289,0,0,1,Theft,High,Glasgow,Sedan,settled,Major,Female,Self-Employed,Driver,Serious
+9585,0,0,24,1,7716,2,162,2,2,0,Collision,Medium,Newcastle,Hatchback,settled,Major,Male,Self-Employed,Unknown,No Injury
+1543,0,0,32,12,10656,11,49,0,0,1,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+43228,1,1,42,12,9647,22,468,1,0,1,Collision,High,Manchester,SUV,settled,Severe,Female,Self-Employed,Unknown,No Injury
+3045,0,0,34,15,9726,15,51,0,0,1,Weather,Low,Cardiff,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+4619,0,0,54,18,13493,34,79,5,0,1,Weather,Low,Edinburgh,SUV,settled,Minor,Male,Employed,Driver,Serious
+12123,0,0,53,20,8233,32,77,3,0,1,Collision,Low,Newcastle,Hatchback,settled,Major,Female,Retired,Passenger,Minor
+7651,0,0,79,18,12251,60,288,1,0,1,Collision,Low,Newcastle,Coupe,open,Moderate,Female,Self-Employed,Driver,Minor
+31939,0,0,18,18,6791,0,51,2,2,1,Theft,Low,Cardiff,SUV,settled,Major,Female,Student,Passenger,Minor
+4691,0,1,70,1,10192,52,71,2,0,0,Weather,Low,Newcastle,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+14032,0,0,30,20,12402,8,65,2,0,1,Theft,Low,Cardiff,Sedan,settled,Moderate,Male,Unemployed,Pedestrian,Minor
+1868,0,0,69,1,10090,51,36,1,0,0,Weather,Low,Birmingham,Van,settled,Minor,Female,Retired,Unknown,No Injury
+2188,0,0,20,15,22174,0,49,5,2,1,Collision,Low,Newcastle,SUV,settled,Minor,Male,Student,Unknown,No Injury
+2122,0,0,50,12,8526,31,96,6,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Male,Self-Employed,Passenger,Serious
+28456,0,1,40,14,14323,21,123,0,0,1,Vandalism,Medium,Edinburgh,Coupe,settled,Severe,Female,Unemployed,Unknown,No Injury
+11103,0,0,28,14,9668,6,85,1,0,1,Collision,Low,Glasgow,Coupe,settled,Major,Female,Employed,Unknown,No Injury
+4147,0,1,47,12,17520,25,95,7,0,1,Collision,Low,Manchester,Van,settled,Moderate,Male,Self-Employed,Driver,Minor
+11122,0,0,46,14,14781,25,46,1,0,1,Weather,Low,Bristol,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+93588,0,0,31,18,11088,9,177,1,0,1,Collision,Medium,Leeds,Hatchback,settled,Catastrophic,Female,Unemployed,Pedestrian,Minor
+47066,0,0,67,9,15756,47,381,3,0,0,Weather,High,Newcastle,SUV,settled,Severe,Female,Retired,Unknown,No Injury
+29600,1,0,78,13,20683,57,178,2,0,1,Collision,Medium,Liverpool,Van,settled,Severe,Female,Retired,Unknown,No Injury
+6064,0,0,38,10,4489,20,70,0,0,0,Collision,Low,Leeds,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+2711,0,0,39,16,15919,18,82,0,0,1,Collision,Low,Edinburgh,SUV,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+1912,0,0,51,8,12619,32,48,3,0,0,Collision,Low,Cardiff,Hatchback,settled,Minor,Female,Retired,Passenger,Serious
+5114,0,0,46,6,16016,27,52,4,0,0,Theft,Low,Liverpool,Hatchback,settled,Minor,Male,Employed,Passenger,Minor
+4529,0,1,52,19,14110,34,63,1,0,1,Theft,Low,Glasgow,Hatchback,settled,Minor,Female,Self-Employed,Unknown,No Injury
+3337,0,0,68,20,15989,49,47,2,0,1,Collision,Low,Edinburgh,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+32033,1,0,74,15,18969,56,81,0,0,1,Theft,Low,Bristol,Motorcycle,settled,Major,Female,Retired,Unknown,No Injury
+13279,0,0,60,12,12455,41,39,0,0,1,Collision,Low,Newcastle,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+13004,0,0,35,0,12121,16,122,0,0,0,Collision,Medium,Liverpool,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+4798,0,0,76,3,7510,58,76,0,0,0,Collision,Low,Newcastle,Sedan,settled,Moderate,Female,Retired,Unknown,No Injury
+3360,0,0,51,11,14041,29,2131,1,0,1,Weather,Low,London,SUV,open,Minor,Female,Employed,Unknown,No Injury
+5706,0,0,23,15,7599,2,45,0,2,1,Collision,Low,Birmingham,Hatchback,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+6581,0,0,65,14,13852,43,65,3,0,1,Collision,Low,Liverpool,Sedan,settled,Moderate,Female,Retired,Passenger,Minor
+12124,0,0,28,19,12465,9,126,1,0,1,Theft,Medium,Cardiff,SUV,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+40525,0,0,58,6,11510,38,145,0,0,0,Collision,Medium,Cardiff,Sedan,settled,Severe,Female,Unemployed,Unknown,No Injury
+1576,0,0,18,3,11491,0,30,0,2,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Student,Passenger,Minor
+3119,0,0,66,6,13685,47,84,0,0,0,Other,Low,Leeds,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1537,0,0,63,3,10193,41,47,1,0,0,Collision,Low,Cardiff,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+1598,0,1,65,9,9584,43,83,0,0,0,Vandalism,Low,London,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+15100,0,0,43,2,4043,24,75,1,0,0,Fire,Medium,London,Coupe,settled,Minor,Male,Self-Employed,Unknown,No Injury
+3209,0,0,74,3,16068,56,89,0,0,0,Theft,Low,Liverpool,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+56920,0,0,42,20,12165,20,164,3,0,1,Collision,Medium,Birmingham,Van,settled,Severe,Female,Employed,Pedestrian,Minor
+55127,0,0,46,8,13490,27,209,0,0,0,Collision,High,Liverpool,Motorcycle,settled,Severe,Female,Employed,Unknown,No Injury
+6246,0,1,33,4,9888,13,94,1,0,0,Collision,Low,Liverpool,Van,settled,Moderate,Female,Employed,Unknown,No Injury
+2128,0,0,26,2,15652,6,71,3,0,0,Collision,Low,Newcastle,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+844,1,0,21,4,10768,1,33,1,2,0,Vandalism,Low,Glasgow,Sedan,settled,Minor,Female,Student,Passenger,Minor
+22751,0,0,23,20,10887,4,114,1,2,1,Weather,Medium,Glasgow,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+8264,0,0,62,14,12123,42,163,2,0,1,Vandalism,High,Bristol,Hatchback,settled,Major,Female,Self-Employed,Unknown,No Injury
+7037,0,0,19,13,11360,0,112,3,2,1,Vandalism,Medium,Bristol,SUV,settled,Major,Female,Student,Unknown,No Injury
+13590,0,0,73,20,10421,52,86,7,0,1,Theft,Low,Newcastle,Van,settled,Moderate,Male,Retired,Driver,Minor
+1819,0,0,68,5,13655,49,71,5,0,0,Vandalism,Low,London,Coupe,settled,Minor,Male,Retired,Unknown,No Injury
+2688,0,0,66,12,24771,48,81,1,0,1,Collision,Low,Cardiff,Sedan,settled,Minor,Female,Retired,Driver,Minor
+21918,0,0,24,3,17028,5,156,0,1,0,Weather,Medium,Liverpool,Sedan,settled,Major,Female,Employed,Unknown,No Injury
+2837,0,0,68,14,9741,47,68,0,0,1,Collision,Low,Glasgow,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+7651,0,0,79,18,12251,60,288,1,0,1,Collision,Low,Newcastle,Coupe,open,Moderate,Female,Self-Employed,Pedestrian,Minor
+39519,0,0,76,20,15514,56,455,7,0,1,Collision,High,Bristol,Hatchback,settled,Severe,Male,Retired,Unknown,No Injury
+6761,0,0,66,20,13357,48,63,0,0,1,Collision,Low,London,Coupe,settled,Moderate,Male,Retired,Passenger,Serious
+8005,0,0,41,11,12076,19,132,4,0,1,Vandalism,Medium,Leeds,Van,settled,Major,Female,Employed,Unknown,No Injury
+697,0,0,60,12,12455,41,47,2,0,1,Vandalism,Low,Newcastle,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+15235,1,0,52,3,15133,30,163,0,0,0,Collision,Medium,Leeds,Sedan,settled,Major,Male,Employed,Pedestrian,Minor
+1014,0,0,26,11,14662,8,134,5,0,1,Vandalism,Medium,Cardiff,SUV,settled,Minor,Female,Student,Pedestrian,Minor
+43307,0,0,48,0,14026,26,480,5,0,0,Collision,High,Glasgow,Hatchback,settled,Severe,Male,Student,Driver,Serious
+2191,0,0,47,6,9012,28,80,3,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+16664,0,0,50,17,11176,28,196,0,0,1,Weather,High,Birmingham,Sedan,settled,Major,Female,Self-Employed,Unknown,No Injury
+1665,0,0,38,20,12419,17,61,1,0,1,Collision,Low,Bristol,SUV,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+83201,0,0,36,11,17330,18,-46,0,0,1,Vandalism,Medium,Birmingham,SUV,open,Catastrophic,Male,Employed,Unknown,No Injury
+5759,1,1,52,12,20253,32,84,2,0,1,Vandalism,Low,Newcastle,Hatchback,settled,Major,Male,Self-Employed,Unknown,No Injury
+1873,0,0,34,20,13045,15,65,0,0,1,Weather,Medium,Newcastle,Hatchback,settled,Minor,Male,Student,Passenger,Serious
+14388,0,0,64,17,12087,46,64,0,0,1,Fire,Low,Glasgow,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+65324,0,1,20,17,7941,0,55,0,2,1,Weather,Low,Liverpool,Coupe,settled,Severe,Female,Student,Unknown,No Injury
+3912,0,1,49,10,7550,31,46,5,0,0,Collision,Low,Cardiff,Van,settled,Minor,Male,Self-Employed,Unknown,No Injury
+1679,0,0,49,17,10169,27,48,0,0,1,Collision,Low,Manchester,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+1972,0,0,25,20,9140,7,79,2,0,1,Collision,Low,Glasgow,Sedan,settled,Minor,Male,Employed,Passenger,Minor
+3473,0,0,46,3,10089,26,52,0,0,0,Weather,Low,Leeds,Hatchback,settled,Minor,Female,Self-Employed,Pedestrian,Minor
+1527,0,0,23,4,11301,3,83,0,2,0,Collision,Low,Edinburgh,Van,settled,Minor,Female,Unemployed,Pedestrian,Minor
+3419,0,0,62,7,16127,42,48,2,0,0,Collision,Low,Bristol,Hatchback,settled,Minor,Male,Unemployed,Unknown,No Injury
+1708,0,0,22,0,7162,2,38,0,2,0,Collision,Low,Cardiff,SUV,settled,Minor,Male,Student,Pedestrian,Minor
+15544,0,0,59,17,10234,39,122,2,0,1,Weather,Medium,Newcastle,Hatchback,settled,Major,Female,Unemployed,Passenger,Minor
+2150,0,0,44,16,6881,24,44,0,0,1,Collision,Low,Newcastle,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+5192,0,0,71,17,8914,53,104,1,0,1,Collision,Medium,Manchester,Coupe,settled,Moderate,Female,Retired,Unknown,No Injury
+3387,0,0,18,17,16658,0,53,0,2,1,Weather,Low,Newcastle,Sedan,settled,Minor,Male,Student,Unknown,No Injury
+3018,0,0,60,19,11939,39,54,1,0,1,Collision,Low,Newcastle,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2204,0,0,40,14,17986,19,46,1,0,1,Collision,Low,Leeds,Hatchback,settled,Minor,Female,Unemployed,Unknown,No Injury
+6158,0,0,69,5,9668,50,51,1,0,0,Collision,Low,Edinburgh,Sedan,settled,Moderate,Male,Unemployed,Driver,Serious
+56169,0,0,69,7,8083,47,193,0,0,0,Collision,Medium,London,Van,settled,Severe,Female,Retired,Unknown,No Injury
+2958,0,0,75,12,6815,55,91,1,0,1,Weather,Low,Manchester,Hatchback,settled,Minor,Female,Retired,Passenger,Minor
+2456,0,0,20,4,9481,0,36,3,2,0,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Student,Unknown,No Injury
+4084,0,0,24,17,11355,3,90,1,2,1,Theft,Low,Bristol,Hatchback,settled,Minor,Male,Unemployed,Driver,Minor
+6861,0,0,19,14,10015,0,86,5,2,1,Weather,Medium,Cardiff,Sedan,settled,Moderate,Female,Employed,Passenger,Minor
+7892,0,0,40,5,15645,19,207,3,0,0,Collision,Medium,Liverpool,SUV,settled,Major,Female,Employed,Driver,Minor
+2539,0,0,25,6,16840,3,186,0,1,0,Vandalism,Medium,Manchester,SUV,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+16858,0,0,49,19,7847,28,170,0,0,1,Collision,Medium,Glasgow,Sedan,settled,Severe,Female,Employed,Unknown,No Injury
+1709,0,0,26,16,9201,7,86,2,0,1,Collision,Low,London,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+49964,0,0,60,1,8652,42,97,0,0,0,Collision,Medium,Liverpool,SUV,settled,Severe,Female,Retired,Unknown,No Injury
+16092,0,0,76,15,9797,54,97,1,0,1,Collision,Medium,London,SUV,settled,Major,Female,Self-Employed,Driver,Minor
+4231,0,0,67,13,7865,45,71,1,0,1,Collision,Low,Newcastle,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+3825,0,0,73,3,17312,55,60,1,0,0,Theft,Low,Liverpool,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+1244,1,0,78,10,10957,57,73,2,0,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+4499,0,0,29,6,12562,11,79,1,0,0,Collision,Low,Edinburgh,Coupe,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+4077,0,0,52,17,5718,32,94,5,0,1,Collision,Low,London,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+1564,0,0,55,7,16071,37,81,0,0,0,Collision,Low,Bristol,Van,settled,Minor,Male,Employed,Unknown,No Injury
+19681,0,0,65,12,16208,44,175,1,0,1,Other,Medium,Liverpool,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+22808,0,0,70,19,8698,49,98,2,0,1,Collision,Medium,Cardiff,Sedan,settled,Severe,Male,Retired,Pedestrian,Minor
+2477,0,0,64,13,12748,44,82,2,0,1,Other,Low,Bristol,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+2264,0,0,74,11,7681,52,47,0,0,1,Collision,Low,Glasgow,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+12668,0,0,38,1,14573,17,85,0,0,0,Theft,Low,Newcastle,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+1610,0,0,22,13,8929,1,51,1,2,1,Vandalism,Low,Glasgow,Sedan,settled,Minor,Female,Student,Unknown,No Injury
+1889,0,1,70,19,8698,49,62,1,0,1,Collision,Low,Cardiff,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+5527,0,0,28,14,19926,9,125,0,0,1,Collision,Medium,Manchester,SUV,settled,Moderate,Female,Student,Unknown,No Injury
+1352,1,0,30,10,9500,9,69,6,0,0,Collision,Low,Bristol,Van,settled,Minor,Male,Unemployed,Unknown,No Injury
+14377,0,0,21,2,14484,2,117,2,2,0,Collision,Medium,Edinburgh,SUV,settled,Major,Female,Student,Pedestrian,Minor
+14493,0,0,35,19,14787,17,-1331,0,0,1,Theft,Low,London,Hatchback,open,Moderate,Female,Employed,Unknown,No Injury
+67535,0,0,18,6,9946,0,171,2,2,0,Weather,Medium,London,SUV,settled,Severe,Female,Employed,Passenger,Minor
+2664,0,0,33,9,9276,14,33,3,0,0,Collision,Low,London,Hatchback,settled,Minor,Female,Employed,Pedestrian,Minor
+8203,1,0,19,1,10320,0,74,3,2,0,Collision,Low,Liverpool,Motorcycle,settled,Major,Male,Student,Unknown,No Injury
+678,0,0,49,13,17274,30,149,0,0,1,Vandalism,Medium,Leeds,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+12173,0,0,74,8,16868,55,56,4,0,0,Theft,Low,Liverpool,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+3410,0,0,73,14,16021,54,95,4,0,1,Vandalism,Medium,Glasgow,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+3559,0,0,38,5,10875,19,68,5,0,0,Theft,Low,Bristol,Coupe,settled,Minor,Male,Employed,Passenger,Serious
+6624,0,0,21,11,4719,1,129,0,2,1,Collision,Medium,Birmingham,Sedan,settled,Moderate,Female,Unemployed,Passenger,Minor
+1970,0,1,43,0,12268,25,74,2,0,0,Collision,Low,Bristol,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+5460,0,0,19,5,12104,0,35,0,2,0,Theft,Low,Edinburgh,SUV,settled,Minor,Male,Student,Unknown,No Injury
+2224,1,0,39,19,10512,17,175,7,0,1,Collision,Medium,Glasgow,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+20004,0,0,74,17,14508,52,112,1,0,1,Weather,Medium,Bristol,Van,settled,Major,Female,Employed,Unknown,No Injury
+16428,0,0,73,11,12686,55,98,1,0,1,Collision,Low,Newcastle,Van,settled,Major,Female,Retired,Unknown,No Injury
+2025,0,0,37,18,12349,18,79,0,0,1,Collision,Low,Glasgow,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+4976,0,0,77,2,13629,59,34,1,0,0,Collision,Low,Glasgow,Van,settled,Moderate,Female,Retired,Pedestrian,Minor
+5546,0,0,72,8,14010,50,98,2,0,0,Weather,Low,Leeds,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+4050,0,0,33,18,27410,12,138,0,0,1,Collision,Medium,Leeds,SUV,settled,Moderate,Female,Unemployed,Driver,Serious
+8117,0,0,72,9,15808,51,67,0,0,0,Weather,Low,London,SUV,settled,Moderate,Male,Retired,Unknown,No Injury
+5175,0,0,71,11,12503,50,87,0,0,1,Collision,Low,Bristol,Hatchback,settled,Moderate,Male,Retired,Unknown,No Injury
+6437,0,0,59,20,8738,37,78,1,0,1,Collision,Low,Newcastle,SUV,settled,Moderate,Male,Employed,Unknown,No Injury
+2989,0,0,64,14,11065,42,-199,4,0,1,Weather,Low,Glasgow,Sedan,open,Minor,Female,Unemployed,Unknown,No Injury
+3219,1,0,66,4,14969,46,76,1,0,0,Collision,Low,London,Sedan,settled,Moderate,Male,Retired,Pedestrian,Minor
+4839,0,0,18,20,13287,0,53,1,2,1,Theft,Low,Leeds,Coupe,settled,Minor,Female,Unemployed,Unknown,No Injury
+47786,0,0,33,12,12992,15,153,4,0,1,Weather,Medium,Bristol,Hatchback,settled,Severe,Female,Self-Employed,Unknown,No Injury
+6644,0,0,73,9,1780,53,86,1,0,0,Vandalism,Low,Glasgow,Hatchback,settled,Major,Male,Retired,Unknown,No Injury
+36231,0,0,56,4,16575,38,211,0,0,0,Collision,Medium,Bristol,Hatchback,settled,Severe,Male,Unemployed,Unknown,No Injury
+4665,0,0,67,13,13864,48,92,0,0,1,Collision,Low,Cardiff,SUV,settled,Moderate,Female,Retired,Unknown,No Injury
+2163,0,0,73,1,15289,52,71,0,0,0,Collision,Low,Cardiff,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+4233,0,0,59,3,12022,37,39,0,0,0,Theft,Low,Bristol,Coupe,settled,Minor,Female,Employed,Pedestrian,Minor
+63170,0,1,67,3,13900,49,79,0,0,0,Fire,Low,Birmingham,SUV,settled,Major,Female,Retired,Pedestrian,Minor
+57551,1,0,61,14,5075,42,190,0,0,1,Fire,Medium,Edinburgh,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+9026,0,0,43,4,20426,25,97,0,0,0,Collision,Low,Liverpool,Hatchback,settled,Major,Male,Employed,Unknown,No Injury
+1110,0,0,32,19,17741,10,42,3,0,1,Vandalism,Low,Newcastle,Hatchback,settled,Minor,Female,Employed,Driver,Minor
+3201,0,0,26,12,22793,8,45,0,0,1,Collision,Low,Liverpool,Sedan,settled,Minor,Male,Employed,Passenger,Minor
+1605,0,0,52,9,10505,33,65,3,0,0,Collision,Low,Edinburgh,Van,settled,Minor,Female,Employed,Unknown,No Injury
+1819,0,0,70,18,14831,51,345,0,0,1,Collision,High,Bristol,Sedan,settled,Minor,Female,Retired,Pedestrian,Minor
+4590,0,0,60,14,11168,41,50,0,0,1,Collision,Low,Liverpool,Van,settled,Moderate,Male,Employed,Unknown,No Injury
+2804,0,0,49,20,12976,29,35,3,0,1,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+36367,0,0,51,8,11814,32,105,1,0,0,Collision,Medium,Bristol,Hatchback,settled,Severe,Female,Unemployed,Unknown,No Injury
+4339,0,0,66,6,13685,47,67,1,0,0,Other,Low,Leeds,SUV,settled,Moderate,Male,Retired,Unknown,No Injury
+17637,0,0,40,20,2513,20,54,7,0,1,Fire,Low,Bristol,Van,settled,Minor,Male,Employed,Unknown,No Injury
+20819,0,1,61,18,8670,39,85,4,0,1,Weather,Medium,Manchester,SUV,settled,Major,Male,Self-Employed,Driver,Serious
+1391,0,1,34,19,12973,12,46,4,0,1,Vandalism,Low,Manchester,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+54068,0,0,55,10,22539,33,2163,1,0,0,Theft,Medium,London,Coupe,open,Severe,Female,Employed,Unknown,No Injury
+1651,0,0,25,2,8952,5,35,0,0,0,Collision,Low,Glasgow,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+9718,0,0,76,3,9535,58,70,0,0,0,Collision,Low,Liverpool,Sedan,settled,Major,Male,Retired,Unknown,No Injury
+2186,0,0,69,9,11398,50,-670,3,0,0,Weather,Low,Manchester,SUV,open,Minor,Male,Retired,Unknown,No Injury
+3027,0,0,38,5,10875,19,89,2,0,0,Weather,Low,Bristol,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+6654,0,0,44,19,13073,23,62,3,0,1,Weather,Low,Newcastle,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+38765,0,0,51,1,1484,31,53,2,0,0,Fire,Low,Newcastle,SUV,settled,Moderate,Male,Employed,Driver,Serious
+46960,1,0,23,15,7599,2,168,0,2,1,Collision,Medium,Birmingham,Hatchback,settled,Severe,Female,Self-Employed,Pedestrian,Minor
+12537,0,1,63,3,12772,41,85,2,0,0,Collision,Low,Cardiff,Van,settled,Major,Male,Self-Employed,Unknown,No Injury
+2112,0,0,75,0,14213,55,66,30,0,0,Weather,Low,Cardiff,Coupe,settled,Minor,Female,Retired,Unknown,No Injury
+2363,0,0,66,20,21107,44,37,0,0,1,Collision,Low,Birmingham,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1666,0,0,41,17,17450,19,68,2,0,1,Collision,Low,Cardiff,Motorcycle,settled,Minor,Male,Employed,Unknown,No Injury
+4234,0,0,66,16,14166,47,81,2,0,1,Other,Low,Manchester,Coupe,settled,Minor,Male,Retired,Unknown,No Injury
+2247,0,0,55,15,15922,33,72,3,0,1,Other,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+1965,0,0,49,8,15772,29,82,0,0,0,Collision,Low,Manchester,SUV,settled,Minor,Female,Student,Unknown,No Injury
+9607,1,0,53,12,12234,35,482,6,0,1,Collision,High,Edinburgh,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+10316,1,0,26,3,15785,6,32,0,0,0,Theft,Low,Newcastle,Sedan,settled,Moderate,Female,Employed,Passenger,Serious
+17299,1,0,32,0,18971,14,70,0,0,0,Weather,Low,Manchester,Sedan,settled,Major,Male,Employed,Unknown,No Injury
+1529,0,0,39,3,7684,19,70,0,0,0,Collision,Low,Liverpool,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+7126,0,0,32,4,15927,13,160,0,0,0,Weather,Medium,Manchester,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+2129,0,0,42,8,11782,20,73,1,0,0,Collision,Medium,Liverpool,SUV,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1761,0,0,27,3,6053,6,58,5,0,0,Collision,Low,Birmingham,Coupe,settled,Minor,Male,Employed,Unknown,No Injury
+3247,0,0,78,20,12184,59,37,2,0,1,Collision,Low,Leeds,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+2710,0,0,26,8,13132,5,81,0,0,0,Collision,Low,Birmingham,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+1800,0,0,65,17,10034,46,74,1,0,1,Weather,Low,Edinburgh,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+2046,0,0,47,6,12095,26,41,2,0,0,Other,Low,Leeds,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+2085,0,0,33,19,14474,15,34,1,0,1,Collision,Low,Glasgow,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+16077,0,1,29,7,13834,11,61,0,0,0,Collision,Low,Edinburgh,Sedan,settled,Major,Female,Self-Employed,Unknown,No Injury
+14471,0,0,56,20,23424,37,111,2,0,1,Weather,Medium,Newcastle,Hatchback,settled,Moderate,Female,Retired,Unknown,No Injury
+1660,0,0,78,19,15650,60,60,0,0,1,Collision,Low,Manchester,Hatchback,settled,Minor,Male,Retired,Pedestrian,Minor
+14707,0,0,24,16,15857,4,1519,2,2,1,Collision,Medium,Leeds,Hatchback,open,Major,Male,Employed,Unknown,No Injury
+2455,0,0,59,15,8041,38,62,0,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Male,Unemployed,Unknown,No Injury
+31186,0,0,45,5,15145,25,92,2,0,0,Collision,Low,Manchester,Hatchback,settled,Severe,Male,Employed,Unknown,No Injury
+2824,0,0,58,18,9959,40,38,0,0,1,Other,Low,Glasgow,Sedan,settled,Minor,Male,Self-Employed,Driver,Minor
+2025,0,0,35,19,14787,17,76,6,0,1,Collision,Low,London,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+1365,1,0,44,14,7305,25,66,5,0,1,Vandalism,Low,Cardiff,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+5339,0,0,24,11,12316,3,44,4,2,1,Theft,Low,Glasgow,Sedan,settled,Minor,Male,Self-Employed,Passenger,Minor
+2824,0,0,57,9,15912,39,356,0,0,0,Weather,High,Bristol,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+5569,0,0,26,6,9893,6,199,0,0,0,Collision,High,Liverpool,Coupe,settled,Moderate,Female,Self-Employed,Passenger,Serious
+1646,0,0,64,20,15936,43,55,1,0,1,Collision,Low,Birmingham,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+7298,0,0,47,9,8932,27,126,2,0,0,Collision,Medium,Birmingham,Van,settled,Moderate,Male,Unemployed,Unknown,No Injury
+3035,0,0,45,1,15597,27,35,3,0,0,Weather,Low,Birmingham,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+1588,0,0,54,14,14154,36,79,1,0,1,Collision,Low,Leeds,Sedan,settled,Minor,Female,Self-Employed,Unknown,No Injury
+36486,0,0,77,11,16206,58,92,0,0,1,Collision,Medium,Leeds,Sedan,settled,Severe,Female,Unemployed,Driver,Minor
+3479,0,0,21,11,17800,3,66,0,2,1,Weather,Low,Manchester,SUV,settled,Minor,Female,Student,Unknown,No Injury
+131179,0,1,47,9,8939,29,336,1,0,0,Collision,High,Glasgow,Sedan,settled,Catastrophic,Male,Employed,Unknown,No Injury
+19772,0,0,59,6,8138,38,54,3,0,0,Fire,Low,Bristol,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+2109,0,0,22,20,9542,3,26,0,2,1,Collision,Low,Cardiff,SUV,open,Minor,Female,Employed,Driver,Minor
+3339,0,0,21,1,3555,1,35,0,2,0,Weather,Low,Birmingham,Motorcycle,settled,Minor,Female,Unemployed,Driver,Minor
+1291,0,0,60,20,15182,40,41,0,0,1,Collision,Low,Edinburgh,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+1372,0,0,31,19,15849,9,75,0,0,1,Collision,Low,Edinburgh,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+9521,0,0,78,7,15637,58,63,0,0,0,Other,Low,Birmingham,SUV,settled,Major,Male,Retired,Pedestrian,Minor
+2267,0,0,33,9,9276,14,595,1,0,0,Weather,Low,London,Hatchback,open,Minor,Female,Employed,Unknown,No Injury
+15279,0,0,77,6,15407,59,61,0,0,0,Fire,Low,Birmingham,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+147707,0,0,34,20,13045,15,-892,1,0,1,Collision,High,Newcastle,Hatchback,open,Catastrophic,Male,Student,Unknown,No Injury
+4648,0,0,21,19,8951,3,1717,0,2,1,Theft,Low,London,Sedan,open,Minor,Female,Student,Unknown,No Injury
+3453,0,0,40,12,20035,21,71,1,0,1,Vandalism,Low,Manchester,SUV,settled,Moderate,Male,Employed,Passenger,Minor
+6896,1,0,53,14,13334,31,69,3,0,1,Collision,Low,Newcastle,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+832,0,0,54,12,19588,36,46,0,0,1,Vandalism,Low,Leeds,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+1691,0,1,48,10,12581,28,43,2,0,0,Collision,Low,Glasgow,Sedan,settled,Minor,Male,Self-Employed,Driver,Serious
+1758,0,0,45,5,9520,25,66,3,0,0,Collision,Low,Manchester,Van,settled,Minor,Female,Employed,Unknown,No Injury
+7619,0,0,18,13,15883,0,88,0,2,1,Collision,Low,Bristol,Coupe,settled,Major,Female,Student,Unknown,No Injury
+14802,0,0,59,3,12022,37,46,0,0,0,Collision,Low,Bristol,Coupe,settled,Major,Female,Employed,Unknown,No Injury
+11270,0,1,61,19,9390,39,37,4,0,1,Fire,Low,Cardiff,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+1360,0,0,62,8,11536,44,74,5,0,0,Vandalism,Low,Leeds,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+1837,0,0,65,7,11794,44,39,0,0,0,Other,Low,Newcastle,Motorcycle,settled,Minor,Male,Retired,Unknown,No Injury
+2404,1,1,24,6,10226,4,80,0,2,0,Collision,Low,London,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1803,0,1,41,20,12795,22,92,2,0,1,Collision,Low,Birmingham,Van,settled,Minor,Female,Self-Employed,Unknown,No Injury
+1561,0,0,23,7,12272,2,39,0,2,0,Vandalism,Low,Manchester,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+2309,0,0,44,8,16404,22,1708,5,0,0,Collision,Low,Edinburgh,Van,open,Minor,Female,Unemployed,Unknown,No Injury
+1711,0,0,68,5,9751,46,88,1,0,0,Collision,Low,Edinburgh,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+1914,0,0,51,0,16103,31,75,0,0,0,Collision,Low,Glasgow,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1967,0,0,73,18,6101,54,1404,3,0,1,Collision,Low,Cardiff,Sedan,open,Minor,Female,Retired,Unknown,No Injury
+10885,0,0,65,18,8286,43,52,7,0,1,Fire,Low,Cardiff,Van,settled,Minor,Male,Retired,Passenger,Minor
+13532,0,0,70,1,9367,51,87,3,0,0,Collision,Medium,Newcastle,Hatchback,settled,Major,Male,Unemployed,Unknown,No Injury
+5654,0,1,56,0,5611,34,53,0,0,0,Weather,Low,Leeds,Van,settled,Moderate,Female,Employed,Passenger,Minor
+1342,0,0,60,19,16028,41,32,1,0,1,Vandalism,Low,Liverpool,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+4067,0,0,33,4,9888,13,177,0,0,0,Collision,Medium,Liverpool,Van,settled,Moderate,Female,Employed,Unknown,No Injury
+4406,0,1,56,0,13836,38,38,5,0,0,Theft,Low,Leeds,Sedan,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+6423,0,0,35,16,12521,16,63,2,0,1,Other,Low,Glasgow,Coupe,settled,Moderate,Female,Employed,Unknown,No Injury
+1640,0,0,78,6,9296,57,91,3,0,0,Vandalism,Medium,Birmingham,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+11524,0,0,71,10,11914,51,88,3,0,0,Theft,Low,Bristol,Sedan,settled,Moderate,Male,Retired,Unknown,No Injury
+19305,0,0,42,14,18828,24,70,1,0,1,Collision,Medium,Birmingham,Sedan,settled,Major,Male,Unemployed,Unknown,No Injury
+2703,0,0,38,6,6864,19,75,0,0,0,Weather,Low,Glasgow,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+1635,0,0,66,2,12487,48,55,5,0,0,Collision,Low,Newcastle,Van,settled,Minor,Male,Retired,Unknown,No Injury
+7104,0,0,78,1,15031,58,55,5,0,0,Weather,Low,Leeds,Motorcycle,settled,Moderate,Female,Retired,Unknown,No Injury
+1930,0,0,47,3,12994,29,61,3,0,0,Collision,Low,Leeds,Sedan,settled,Minor,Male,Unemployed,Unknown,No Injury
+19359,0,0,70,20,17021,52,241,0,0,1,Weather,High,Cardiff,Hatchback,settled,Major,Male,Retired,Unknown,No Injury
+5380,0,0,75,12,12323,55,84,1,0,1,Theft,Low,Newcastle,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+7307,0,0,54,16,19802,34,71,0,0,1,Theft,Low,London,Hatchback,settled,Minor,Female,Employed,Passenger,Minor
+4296,0,0,40,9,20669,18,47,3,0,0,Collision,Low,Bristol,Sedan,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+13635,0,0,59,20,6388,39,97,4,0,1,Collision,Low,Bristol,SUV,settled,Major,Female,Unemployed,Passenger,Minor
+5286,0,0,42,4,5568,24,78,0,0,0,Collision,Low,Glasgow,Motorcycle,settled,Moderate,Male,Employed,Unknown,No Injury
+13628,0,0,75,16,11926,55,183,1,0,1,Collision,Medium,Liverpool,Hatchback,settled,Major,Female,Employed,Unknown,No Injury
+9439,0,0,47,19,14308,27,35,2,0,1,Fire,Low,Bristol,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+2419,0,0,26,2,14397,5,50,2,0,0,Collision,Low,Liverpool,Hatchback,settled,Minor,Male,Employed,Unknown,No Injury
+3051,1,0,65,2,9564,46,47,0,0,0,Collision,Low,Liverpool,Hatchback,settled,Minor,Male,Retired,Pedestrian,Minor
+3724,0,0,34,9,10460,16,-336,0,0,0,Collision,Low,Liverpool,Hatchback,open,Moderate,Male,Self-Employed,Driver,Minor
+5316,0,0,43,7,10761,23,90,5,0,0,Collision,Low,London,Hatchback,settled,Moderate,Male,Employed,Driver,Minor
+1748,0,1,37,2,8389,18,49,2,0,0,Collision,Low,London,Sedan,settled,Minor,Male,Employed,Unknown,No Injury
+3785,0,0,57,14,13469,39,160,0,0,1,Other,Medium,Glasgow,Sedan,settled,Minor,Female,Employed,Unknown,No Injury
+11686,0,0,43,0,18500,24,42,2,0,0,Theft,Low,Birmingham,Sedan,settled,Moderate,Female,Employed,Unknown,No Injury
+2690,0,0,31,18,11088,9,56,5,0,1,Collision,Low,Leeds,Hatchback,settled,Minor,Female,Unemployed,Unknown,No Injury
+2467,0,0,26,10,8753,8,79,3,0,0,Collision,Low,Leeds,SUV,settled,Minor,Male,Employed,Driver,Minor
+7006,0,0,48,6,15782,26,47,4,0,0,Collision,Low,Manchester,Hatchback,settled,Moderate,Male,Employed,Unknown,No Injury
+908,0,1,74,6,14424,54,72,0,0,0,Vandalism,Low,Newcastle,Hatchback,settled,Minor,Female,Retired,Pedestrian,Minor
+9350,0,0,53,6,4891,34,87,0,0,0,Collision,Low,Glasgow,Hatchback,settled,Major,Female,Retired,Pedestrian,Minor
+119216,0,0,59,2,10032,40,137,2,0,0,Collision,Low,Edinburgh,Van,settled,Catastrophic,Male,Employed,Unknown,No Injury
+6947,0,0,20,12,10612,2,92,1,2,1,Collision,Low,Liverpool,Motorcycle,settled,Moderate,Female,Student,Unknown,No Injury
+53160,0,0,36,12,11810,15,103,0,0,1,Weather,Low,Cardiff,Coupe,settled,Severe,Female,Employed,Passenger,Minor
+2041,0,1,61,6,14847,41,133,3,0,0,Collision,Medium,London,Hatchback,settled,Minor,Female,Retired,Unknown,No Injury
+2017,0,0,69,20,10921,47,57,5,0,1,Collision,Low,Liverpool,SUV,settled,Minor,Female,Retired,Unknown,No Injury
+3267,0,0,59,20,8738,37,38,3,0,1,Other,Low,Newcastle,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+3361,0,0,22,14,15183,3,61,1,2,1,Weather,Low,London,Hatchback,settled,Minor,Male,Unemployed,Driver,Minor
+3049,0,0,40,13,15691,19,61,1,0,1,Weather,Low,Bristol,Sedan,settled,Minor,Male,Self-Employed,Unknown,No Injury
+10879,0,0,74,18,16086,53,87,30,0,1,Collision,Low,Cardiff,Coupe,settled,Major,Female,Retired,Unknown,No Injury
+5927,0,0,41,20,16096,22,49,3,0,1,Collision,Low,Manchester,SUV,settled,Moderate,Male,Self-Employed,Unknown,No Injury
+35732,0,0,57,18,3899,39,212,0,0,1,Collision,Medium,Manchester,Hatchback,settled,Severe,Female,Employed,Unknown,No Injury
+19713,0,0,47,15,14691,29,167,0,0,1,Theft,Medium,Edinburgh,Coupe,settled,Moderate,Female,Employed,Driver,Minor
+1939,0,0,76,3,14627,55,51,0,0,0,Collision,Low,Bristol,Sedan,settled,Minor,Male,Retired,Unknown,No Injury
+2679,0,0,44,19,13073,23,44,0,0,1,Collision,Low,Newcastle,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+2918,0,0,77,16,10546,56,49,0,0,1,Weather,Low,Manchester,Sedan,settled,Minor,Female,Retired,Unknown,No Injury
+8371,0,0,35,0,12121,16,61,4,0,0,Weather,Low,Liverpool,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+2296,0,0,53,4,13789,31,118,3,0,0,Collision,Medium,Leeds,Sedan,settled,Minor,Male,Unemployed,Unknown,No Injury
+3394,0,0,44,19,11235,24,137,0,0,1,Collision,Medium,London,Coupe,open,Moderate,Male,Employed,Unknown,No Injury
+5892,0,0,54,2,15131,33,349,3,0,0,Other,High,Birmingham,Hatchback,settled,Moderate,Female,Employed,Unknown,No Injury
+2380,0,0,65,5,14107,46,71,3,0,0,Collision,Low,Bristol,Van,settled,Minor,Male,Retired,Unknown,No Injury
+92490,1,0,43,16,12212,22,88,0,0,1,Vandalism,Low,Glasgow,Coupe,settled,Catastrophic,Female,Employed,Passenger,Minor
+2384,0,0,70,15,10598,51,59,3,0,1,Collision,Low,Bristol,Hatchback,settled,Minor,Male,Retired,Unknown,No Injury
+13883,1,0,56,19,13113,36,60,1,0,1,Theft,Low,Manchester,Sedan,settled,Moderate,Male,Employed,Unknown,No Injury
+3169,0,0,49,18,8175,29,84,0,0,1,Collision,Low,Manchester,SUV,settled,Minor,Female,Employed,Unknown,No Injury
+1318,0,1,78,16,18517,58,75,0,0,1,Collision,Low,Edinburgh,Sedan,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+17033,0,1,53,12,10414,33,708,2,0,1,Theft,Low,Liverpool,SUV,open,Moderate,Female,Self-Employed,Unknown,No Injury
+13381,0,0,52,20,9943,32,86,1,0,1,Collision,Low,Birmingham,SUV,settled,Major,Female,Employed,Unknown,No Injury
+1213,0,0,31,4,7077,12,86,1,0,0,Vandalism,Low,Bristol,Hatchback,settled,Minor,Female,Employed,Unknown,No Injury
+105331,0,0,32,5,15670,14,739,1,0,0,Fire,Medium,London,SUV,open,Major,Female,Unemployed,Unknown,No Injury
+2103,0,0,54,8,9261,32,62,2,0,0,Collision,Low,Liverpool,Hatchback,settled,Minor,Male,Self-Employed,Unknown,No Injury
+866,0,0,40,3,10958,19,71,0,0,0,Vandalism,Low,Liverpool,Hatchback,settled,Minor,Male,Self-Employed,Pedestrian,Minor
+2903,0,1,58,15,9825,38,89,1,0,1,Collision,Low,Manchester,SUV,settled,Minor,Male,Retired,Unknown,No Injury
+3622,0,0,18,0,18705,0,93,7,2,0,Weather,Low,London,SUV,settled,Minor,Male,Student,Pedestrian,Minor
+4840,0,0,61,2,15216,39,1163,0,0,0,Collision,Medium,Leeds,SUV,open,Moderate,Male,Employed,Unknown,No Injury
+1750,0,0,18,9,10613,0,83,2,2,0,Collision,Low,Birmingham,SUV,settled,Minor,Female,Student,Driver,Serious
+2290,0,1,48,12,12736,29,80,0,0,1,Collision,Low,Liverpool,SUV,settled,Minor,Male,Self-Employed,Unknown,No Injury
+24153,0,0,66,20,13450,47,93,6,0,1,Collision,Low,Leeds,Hatchback,settled,Severe,Female,Retired,Passenger,Minor
+5390,0,0,45,7,10636,24,71,1,0,0,Collision,Low,Newcastle,SUV,settled,Moderate,Female,Employed,Unknown,No Injury
+2129,1,0,52,0,6806,33,82,1,0,0,Collision,Low,Manchester,Motorcycle,settled,Minor,Male,Employed,Unknown,No Injury
+1766,0,0,63,9,11932,41,51,1,0,0,Collision,Low,Bristol,SUV,settled,Minor,Male,Employed,Unknown,No Injury
+7513,0,0,58,11,4154,40,180,1,0,1,Collision,Medium,Liverpool,Sedan,settled,Moderate,Female,Self-Employed,Unknown,No Injury
+14482,0,0,70,20,12330,51,75,1,0,1,Collision,Low,Bristol,Sedan,settled,Major,Female,Retired,Unknown,No Injury
+2386,0,0,51,12,13426,29,83,1,0,1,Vandalism,Low,Manchester,Hatchback,settled,Moderate,Female,Unemployed,Unknown,No Injury
