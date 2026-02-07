@@ -79,3 +79,7 @@ if st.button("Predict Claim Amount", type="primary"):
 
 # py -m streamlit run
 # py -m streamlit run C:\Users\HP\Desktop\Dafe\DS_Projects\FNOL_Insurance\dashboard.py
+# docker build -t gma-claims .
+# docker run -p 8000:8000 gma-claims
+# dir
+
