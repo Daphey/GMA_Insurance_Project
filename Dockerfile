@@ -10,7 +10,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # 4. Copy your code and the model file
 COPY ./app ./app
-COPY insurance_preprocessor.joblib .
+COPY final_reserving_pipeline.pkl .
 
 # 5. Expose the port FastAPI runs on
 EXPOSE 8000
