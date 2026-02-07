@@ -8,7 +8,7 @@ app = FastAPI()
 
 # 1. Load your saved model/pipeline
 # Replace 'your_model.joblib' with your actual filename
-model = joblib.load("C:\Users\HP\Desktop\Dafe\DS_Projects\FNOL_Insurance\final_reserving_pipeline.pkl") 
+model = joblib.load("final_reserving_pipeline.pkl") 
 
 # 2. Define the data structure (matching your insurance columns)
 class ClaimData(BaseModel):
