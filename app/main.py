@@ -35,6 +35,10 @@ class ClaimData(BaseModel):
     Claim_Complexity: str
     # Add your other important features here!
 
+
+
+# API Build 
+
 @app.get("/")
 def home():
     return {"message": "Insurance Claim Prediction API is Running"}
