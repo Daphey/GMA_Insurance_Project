@@ -60,3 +60,6 @@ def predict(data: ClaimData):
         print(f"ERROR DURING PREDICTION: {e}")
         return {"error": str(e)}
 
+
+
+# py -m uvicorn app.main:app --reload
