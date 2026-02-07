@@ -1,6 +1,12 @@
 import streamlit as st
 import requests
 
+
+st.sidebar.image("https://www.freeiconspng.com/uploads/insurance-icon-png-24.png", width=100)
+st.sidebar.title("Navigation")
+st.sidebar.info("This model predicts claim payouts based on FNOL (First Notice of Loss) data.")
+
+
 API_URL = "http://127.0.0.1:8000/predict"
 
 st.set_page_config(page_title="FNOL Claim Predictor", layout="wide")
@@ -70,3 +76,6 @@ if st.button("Predict Claim Amount", type="primary"):
     except Exception as e:
         st.error(f"Could not connect to API, Is your FastAPI terminal still running?: {e}")
 
+
+# py -m streamlit run
+# py -m streamlit run C:\Users\HP\Desktop\Dafe\DS_Projects\FNOL_Insurance\dashboard.py
