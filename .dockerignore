@@ -1,4 +1,19 @@
-__pycache__
+# .dockerignore
+__pycache__/
 *.pyc
-.git
-.venv
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.idea/
+.vscode/
+*.log
+.git/
+.gitignore
+README.md
+*.ipynb
+data/
+notebooks/
+tests/

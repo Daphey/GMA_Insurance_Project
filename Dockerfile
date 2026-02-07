@@ -8,9 +8,8 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 4. Copy your code and the model file
-COPY ./app ./app
-COPY .models/final_reserving_pipeline.pkl .
+# 4. Copy ALL files from current directory to container
+COPY . .
 
 # 5. Expose the port FastAPI runs on
 EXPOSE 8000
