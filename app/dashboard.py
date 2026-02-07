@@ -7,7 +7,7 @@ st.sidebar.title("Navigation")
 st.sidebar.info("This model predicts claim payouts based on FNOL (First Notice of Loss) data.")
 
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://gma-insurance-project.onrender.com/predict"
 
 st.set_page_config(page_title="FNOL Claim Predictor", layout="wide")
 
