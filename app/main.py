@@ -6,6 +6,16 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
+
+# ADD THIS CORS MIDDLEWARE
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins - change in production!
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
+)
+
 # 1. Load your saved model/pipeline
 # Replace 'your_model.joblib' with your actual filename
 model = joblib.load("final_reserving_pipeline.pkl") 
